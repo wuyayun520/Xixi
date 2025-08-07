@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'post_detail_screen.dart';
+import 'subscriptions_page.dart';
 import '../services/user_preferences_service.dart';
 
 class DiscoverScreen extends StatefulWidget {
@@ -18,11 +20,25 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
   List<String> _reportedPosts = [];
   List<String> _followedUsers = [];
   bool _isLoading = true;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
+  int _danceCoins = 0;
+  bool _isInitialized = false;
 
   @override
   void initState() {
     super.initState();
     _loadUserData();
+    _loadVipStatus();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // 当页面重新获得焦点时检查VIP状态
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _loadVipStatus();
+    });
   }
 
   Future<void> _loadUserData() async {
@@ -49,6 +65,23 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
         _isLoading = false;
       });
     }
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final isVIP = prefs.getBool('isVip') ?? false;
+    final expiryStr = prefs.getString('vipExpiry');
+    final vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    
+    setState(() {
+      _isVip = isVIP;
+      _vipExpiry = vipExpiry;
+    });
+    
+    // 添加调试信息
+    print('Discover VIP Status Check:');
+    print('isVIP: $isVIP');
+    print('vipExpiry: $vipExpiry');
   }
 
   Future<void> _toggleFollow(String userId, String displayName) async {
@@ -255,18 +288,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
 
     return GestureDetector(
       onTap: () async {
-        final result = await Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => PostDetailScreen(
-              user: user,
-              post: post,
-            ),
-          ),
-        );
-        
-        // 从详情页返回后刷新数据
-        _loadUserData();
+        await _checkVipAndNavigate(user, post);
       },
       child: Container(
         margin: const EdgeInsets.only(bottom: 16),
@@ -482,5 +504,137 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
         ),
       ),
     );
+  }
+
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          title: Row(
+            children: [
+              Icon(
+                Icons.accessibility_new,
+                color: const Color(0xFF2DA1FF),
+                size: 28,
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'Premium Required',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 20,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Access to dance post content requires Premium subscription.',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 20),
+              Column(
+                children: [
+                  Container(
+                    width: double.infinity,
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF2DA1FF),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: const Text(
+                      'Weekly: \$12.99',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  Container(
+                    width: double.infinity,
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF6C63FF),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: const Text(
+                      'Monthly: \$49.99',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.grey),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () async {
+                Navigator.of(context).pop();
+                await Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+                // 从订阅页面返回后重新检查VIP状态
+                await _loadVipStatus();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF2DA1FF),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Get Premium',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Future<void> _checkVipAndNavigate(Map<String, dynamic> user, Map<String, dynamic> post) async {
+    if (!_isVip) {
+      _showVipDialog();
+      return;
+    }
+    
+    // VIP用户直接跳转到详情页
+    final result = await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => PostDetailScreen(
+          user: user,
+          post: post,
+        ),
+      ),
+    );
+    
+    // 从详情页返回后刷新数据
+    _loadUserData();
   }
 } 

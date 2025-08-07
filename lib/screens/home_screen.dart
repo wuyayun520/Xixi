@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import '../models/video_model.dart';
 import '../widgets/video_card.dart';
 import '../services/user_preferences_service.dart';
 import 'video_player_screen.dart';
+import 'in_app_purchases_page.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -18,11 +20,21 @@ class _HomeScreenState extends State<HomeScreen> {
   List<VideoModel> _filteredVideos = [];
   bool _isLoading = true;
   int _rebuildCounter = 0; // 添加重建计数器
+  int _danceCoins = 0; // 添加金币余额
 
   @override
   void initState() {
     super.initState();
     _loadVideos();
+    _loadDanceCoins();
+  }
+
+  Future<void> _loadDanceCoins() async {
+    final prefs = await SharedPreferences.getInstance();
+    int coins = prefs.getInt('danceCoins') ?? 0;
+    setState(() {
+      _danceCoins = coins;
+    });
   }
 
   Future<void> _loadVideos() async {
@@ -93,12 +105,100 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 
-  void _playVideo(VideoModel video) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => VideoPlayerScreen(video: video),
-      ),
+  Future<void> _playVideo(VideoModel video) async {
+    // 检查视频是否已解锁
+    final prefs = await SharedPreferences.getInstance();
+    final unlockedVideos = prefs.getStringList('unlocked_videos') ?? [];
+    final isUnlocked = unlockedVideos.contains(video.id.toString());
+    
+    if (isUnlocked) {
+      // 视频已解锁，直接播放
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => VideoPlayerScreen(video: video),
+        ),
+      );
+    } else {
+      // 检查金币余额
+      if (_danceCoins >= 8) {
+        // 金币足够，解锁视频
+        await _unlockVideo(video);
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => VideoPlayerScreen(video: video),
+          ),
+        );
+      } else {
+        // 金币不足，跳转到充值页面
+        _showInsufficientCoinsDialog();
+      }
+    }
+  }
+
+  Future<void> _unlockVideo(VideoModel video) async {
+    final prefs = await SharedPreferences.getInstance();
+    
+    // 扣除金币
+    setState(() {
+      _danceCoins -= 8;
+    });
+    await prefs.setInt('danceCoins', _danceCoins);
+    
+    // 添加到已解锁视频列表
+    final unlockedVideos = prefs.getStringList('unlocked_videos') ?? [];
+    if (!unlockedVideos.contains(video.id.toString())) {
+      unlockedVideos.add(video.id.toString());
+      await prefs.setStringList('unlocked_videos', unlockedVideos);
+    }
+    
+    // 显示解锁成功提示
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Video unlocked! -8 Dance Coins'),
+          backgroundColor: Colors.green,
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text('Insufficient Coins'),
+          content: Text(
+            'You need 8 Dance Coins to unlock this video.\nCurrent balance: $_danceCoins coins',
+            style: const TextStyle(fontSize: 16),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF2DA1FF),
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Get Coins'),
+            ),
+          ],
+        );
+      },
     );
   }
 
@@ -134,6 +234,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _refreshVideos() async {
     await _loadVideos();
+    await _loadDanceCoins(); // 刷新金币余额
   }
 
   @override
@@ -164,6 +265,74 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   );
                 },
+              ),
+             
+              // 金币余额显示
+              Container(
+                margin: const EdgeInsets.all(16),
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: BorderRadius.circular(12),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.1),
+                      blurRadius: 8,
+                      offset: const Offset(0, 2),
+                    ),
+                  ],
+                ),
+                child: Row(
+                  children: [
+                    Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF2DA1FF).withOpacity(0.1),
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: const Icon(
+                        Icons.accessibility_new,
+                        color: Color(0xFF2DA1FF),
+                        size: 20,
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Text(
+                      'Dance Coins: $_danceCoins',
+                      style: const TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: Color(0xFF2DA1FF),
+                      ),
+                    ),
+                    const Spacer(),
+                    GestureDetector(
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const InAppPurchasesPage(),
+                          ),
+                        );
+                      },
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF2DA1FF),
+                          borderRadius: BorderRadius.circular(16),
+                        ),
+                        child: const Text(
+                          'Get More',
+                          style: TextStyle(
+                            color: Colors.white,
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
               ),
              
               // 视频列表

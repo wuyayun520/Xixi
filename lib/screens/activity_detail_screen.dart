@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/activity_model.dart';
 import '../services/user_preferences_service.dart';
+import 'subscriptions_page.dart';
 
 class ActivityDetailScreen extends StatefulWidget {
   final ActivityModel activity;
@@ -17,11 +19,22 @@ class ActivityDetailScreen extends StatefulWidget {
 class _ActivityDetailScreenState extends State<ActivityDetailScreen> {
   bool _isRegistered = false;
   bool _isLoading = true;
+  bool _isVIP = false;
 
   @override
   void initState() {
     super.initState();
     _loadRegistrationStatus();
+    _checkVIPStatus();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // 当页面重新获得焦点时检查VIP状态
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _checkVIPStatus();
+    });
   }
 
   Future<void> _loadRegistrationStatus() async {
@@ -78,6 +91,33 @@ class _ActivityDetailScreenState extends State<ActivityDetailScreen> {
         _isLoading = false;
       });
     }
+  }
+
+  Future<void> _checkVIPStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final isVIP = prefs.getBool('isVip') ?? false;
+    final expiryStr = prefs.getString('vipExpiry');
+    final vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    
+    // 检查是否是月订阅用户（订阅时长超过7天）
+    bool isMonthlyVIP = false;
+    if (isVIP && vipExpiry != null) {
+      final now = DateTime.now();
+      final daysRemaining = vipExpiry.difference(now).inDays;
+      // 如果剩余天数超过7天，说明是月订阅
+      isMonthlyVIP = daysRemaining > 7;
+    }
+    
+    setState(() {
+      _isVIP = isMonthlyVIP;
+    });
+    
+    // 添加调试信息
+    print('VIP Status Check:');
+    print('isVIP: $isVIP');
+    print('vipExpiry: $vipExpiry');
+    print('daysRemaining: ${vipExpiry != null ? vipExpiry.difference(DateTime.now()).inDays : 'null'}');
+    print('isMonthlyVIP: $isMonthlyVIP');
   }
 
   Color _getDifficultyColor() {
@@ -370,7 +410,7 @@ class _ActivityDetailScreenState extends State<ActivityDetailScreen> {
             width: double.infinity,
             height: 50,
             child: ElevatedButton(
-              onPressed: _isLoading ? null : _toggleRegistration,
+              onPressed: _isLoading ? null : _checkVIPAndRegister,
               style: ElevatedButton.styleFrom(
                 backgroundColor: _isRegistered ? Colors.orange : const Color(0xFF2DA1FF),
                 foregroundColor: Colors.white,
@@ -447,5 +487,126 @@ class _ActivityDetailScreenState extends State<ActivityDetailScreen> {
         ),
       ],
     );
+  }
+
+  void _showVIPDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          title: Row(
+            children: [
+              Icon(
+                Icons.accessibility_new,
+                color: const Color(0xFF2DA1FF),
+                size: 28,
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'Premium Required',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 20,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Activity registration requires Monthly Premium subscription.',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 20),
+              Column(
+                children: [
+                  Container(
+                    width: double.infinity,
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF2DA1FF),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: const Text(
+                      'Weekly: \$12.99',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  Container(
+                    width: double.infinity,
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF6C63FF),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: const Text(
+                      'Monthly: \$49.99',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.grey),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () async {
+                Navigator.of(context).pop();
+                await Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+                // 从订阅页面返回后重新检查VIP状态
+                await _checkVIPStatus();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF2DA1FF),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Get Premium',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Future<void> _checkVIPAndRegister() async {
+    if (!_isVIP) {
+      _showVIPDialog();
+      return;
+    }
+    
+    // VIP用户可以直接报名
+    await _toggleRegistration();
   }
 } 
