@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSystemTransparency</key>
+	<string>multiplicationActivityDistance</string>
+	<key>cursorSinceVisitor</key>
+	<string>catalystSinceAdapter</string>
+	<key>eagerEventTransparency</key>
+	<string>clipperFrameworkTint</string>
+	<key>mobileBlocCount</key>
+	<string>threadFlyweightShade</string>
+	<key>priorOffsetValidation</key>
+	<string>viewParamRotation</string>
+	<key>reductionVarFeedback</key>
+	<string>persistentParticleInset</string>
+	<key>sceneEnvironmentName</key>
+	<string>crudeQueryFlags</string>
+	<key>streamExceptChain</key>
+	<string>opaqueSensorSaturation</string>
+	<key>transitionByMode</key>
+	<string>bulletContextFeedback</string>
+</dict>
+</plist>

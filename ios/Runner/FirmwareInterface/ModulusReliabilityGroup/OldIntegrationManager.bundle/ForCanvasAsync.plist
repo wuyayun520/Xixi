@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicChapterVelocity</key>
+	<string>transitionFacadeVelocity</string>
+	<key>independentScrollSpacing</key>
+	<string>enabledNavigatorFlags</string>
+	<key>inheritedFutureSaturation</key>
+	<string>constEntropySkewx</string>
+	<key>popupWithoutCycle</key>
+	<string>diffableCommandInteraction</string>
+	<key>streamSinceBuffer</key>
+	<string>dialogsAtFunction</string>
+</dict>
+</plist>

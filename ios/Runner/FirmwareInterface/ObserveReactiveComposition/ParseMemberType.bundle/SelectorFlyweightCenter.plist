@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCallbackFlags</key>
+	<string>euclideanStoryboardState</string>
+	<key>customPetSkewy</key>
+	<string>boxParamVelocity</string>
+	<key>effectStrategyName</key>
+	<string>pageviewCyclePosition</string>
+	<key>hardThreadInteraction</key>
+	<string>hardObserverSpacing</string>
+	<key>logAmongNumber</key>
+	<string>channelChainMode</string>
+	<key>queueParamRate</key>
+	<string>interfaceActivityTransparency</string>
+	<key>resolverAsParam</key>
+	<string>routerObserverMargin</string>
+	<key>retainedNotifierSpeed</key>
+	<string>factoryFromTask</string>
+	<key>texturePerChain</key>
+	<string>toolPerFacade</string>
+</dict>
+</plist>

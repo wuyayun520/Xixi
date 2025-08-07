@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeWorkflowStyle</key>
+	<string>techniqueAndType</string>
+	<key>arithmeticPlaybackBound</key>
+	<string>gemPlatformKind</string>
+	<key>batchOrEnvironment</key>
+	<string>cubitFormLeft</string>
+	<key>buttonParameterFormat</key>
+	<string>subtleFactoryLeft</string>
+	<key>immediateDocumentVisible</key>
+	<string>typicalUsecaseDistance</string>
+	<key>indicatorOfPhase</key>
+	<string>intensityForNumber</string>
+	<key>interpolationPatternBorder</key>
+	<string>menuCycleTint</string>
+	<key>nodeLikeFacade</key>
+	<string>smartControllerTint</string>
+	<key>sophisticatedTextVisibility</key>
+	<string>gridviewDespitePattern</string>
+	<key>sustainableAspectVisible</key>
+	<string>visibleQueueShade</string>
+</dict>
+</plist>

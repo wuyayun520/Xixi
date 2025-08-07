@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxFlyweightSpeed</key>
+	<string>staticGrayscaleSpeed</string>
+	<key>integerTypePressure</key>
+	<string>basicTextMode</string>
+	<key>labelFlyweightBorder</key>
+	<string>heroAlongDecorator</string>
+	<key>mediocreLayerFlags</key>
+	<string>subpixelAgainstTask</string>
+	<key>reducerWorkHead</key>
+	<string>transformerSinceSingleton</string>
+	<key>responsiveSlashContrast</key>
+	<string>compositionalBoxRight</string>
+</dict>
+</plist>

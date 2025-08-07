@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStructureHead</key>
+	<string>optimizerShapeAlignment</string>
+	<key>blocStagePosition</key>
+	<string>streamCompositeFeedback</string>
+	<key>elasticStatelessFlags</key>
+	<string>eventSinceTask</string>
+	<key>intensityPatternCount</key>
+	<string>layoutSinceProcess</string>
+	<key>publicHeapPressure</key>
+	<string>builderAroundChain</string>
+	<key>requiredButtonTension</key>
+	<string>mapSinceBridge</string>
+	<key>shaderWorkAppearance</key>
+	<string>mobileOrProxy</string>
+	<key>singletonBesideProcess</key>
+	<string>toolJobStyle</string>
+	<key>sinkFlyweightTop</key>
+	<string>durationJobCenter</string>
+	<key>transformerDuringPlatform</key>
+	<string>displayablePositionFeedback</string>
+</dict>
+</plist>

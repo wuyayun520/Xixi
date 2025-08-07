@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFlyweightCenter</key>
+	<string>brushProxyBrightness</string>
+	<key>dimensionScopeIndex</key>
+	<string>directlyNodePosition</string>
+	<key>effectLayerFeedback</key>
+	<string>sceneOutsideVariable</string>
+	<key>fusedTableOrientation</key>
+	<string>sliderVersusNumber</string>
+	<key>futureAroundAction</key>
+	<string>interactorAroundActivity</string>
+	<key>histogramWithoutVariable</key>
+	<string>particleWithoutPattern</string>
+	<key>statelessJobTag</key>
+	<string>scrollVisitorOffset</string>
+	<key>titleCommandStatus</key>
+	<string>swiftStageDelay</string>
+</dict>
+</plist>

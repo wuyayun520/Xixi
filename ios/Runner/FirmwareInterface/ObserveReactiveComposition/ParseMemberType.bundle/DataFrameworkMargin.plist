@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionOperationEdge</key>
+	<string>subtleCertificateAlignment</string>
+	<key>dedicatedCompletionShade</key>
+	<string>sharedCubePosition</string>
+	<key>invisibleAppbarPadding</key>
+	<string>gridviewIncludeBuffer</string>
+	<key>lazyEffectRight</key>
+	<string>textSingletonTail</string>
+	<key>popupDespiteChain</key>
+	<string>coordinatorTierMode</string>
+	<key>priorityParameterKind</key>
+	<string>permissiveIconInteraction</string>
+	<key>smallChallengeSize</key>
+	<string>retainedEventDepth</string>
+</dict>
+</plist>

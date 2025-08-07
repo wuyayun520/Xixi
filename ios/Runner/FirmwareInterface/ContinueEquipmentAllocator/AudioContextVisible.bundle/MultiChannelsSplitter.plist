@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterTaskSpeed</key>
+	<string>persistentZoneAcceleration</string>
+	<key>constraintAboutAction</key>
+	<string>similarGestureName</string>
+	<key>gradientAmongBuffer</key>
+	<string>delicateAnchorShade</string>
+	<key>indicatorFlyweightBehavior</key>
+	<string>callbackDecoratorBehavior</string>
+	<key>interactorExceptNumber</key>
+	<string>accessoryAndFlyweight</string>
+	<key>progressbarStateFrequency</key>
+	<string>reusableNodePadding</string>
+	<key>skinCommandBrightness</key>
+	<string>collectionActionDuration</string>
+	<key>tweenCompositeBehavior</key>
+	<string>concurrentCompositionRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBufferPadding</key>
+	<string>canvasAboutWork</string>
+	<key>columnByJob</key>
+	<string>persistentChannelsRight</string>
+	<key>displayableSliderBorder</key>
+	<string>asynchronousCompleterBorder</string>
+	<key>mediumBoxshadowOpacity</key>
+	<string>configurationOfComposite</string>
+	<key>usecaseActionVelocity</key>
+	<string>backwardConstraintFeedback</string>
+</dict>
+</plist>

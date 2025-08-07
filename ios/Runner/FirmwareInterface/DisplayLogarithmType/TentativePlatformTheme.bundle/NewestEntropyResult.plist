@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFragmentStyle</key>
+	<string>customizedKernelEdge</string>
+	<key>bufferWithKind</key>
+	<string>easyInterpolationOffset</string>
+	<key>handlerAroundBridge</key>
+	<string>normCompositeFeedback</string>
+	<key>loopAroundStage</key>
+	<string>actionMediatorSkewy</string>
+	<key>standaloneListenerSpeed</key>
+	<string>intensityVariableVisibility</string>
+</dict>
+</plist>

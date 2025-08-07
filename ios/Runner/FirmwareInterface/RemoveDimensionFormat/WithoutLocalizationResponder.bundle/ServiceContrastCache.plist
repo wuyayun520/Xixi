@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderModeCenter</key>
+	<string>reducerExceptVar</string>
+	<key>customRectMode</key>
+	<string>resourceVariableLocation</string>
+	<key>explicitSliderRight</key>
+	<string>uniqueDecorationVisibility</string>
+	<key>groupStyleShade</key>
+	<string>boxActivityShape</string>
+	<key>musicExceptCycle</key>
+	<string>widgetFlyweightLocation</string>
+	<key>resultVisitorForce</key>
+	<string>spineBufferEdge</string>
+	<key>tensorBorderRate</key>
+	<string>loopByMediator</string>
+</dict>
+</plist>

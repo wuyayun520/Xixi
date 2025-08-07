@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleThreadCoord</key>
+	<string>originalChannelIndex</string>
+	<key>constRowTransparency</key>
+	<string>durationAtAdapter</string>
+	<key>constraintAndCycle</key>
+	<string>techniqueOfLevel</string>
+	<key>disabledPositionSize</key>
+	<string>painterOutsideStrategy</string>
+	<key>eagerAppbarBound</key>
+	<string>constraintAsVisitor</string>
+	<key>inkwellActionResponse</key>
+	<string>textBufferInset</string>
+	<key>overlayExceptChain</key>
+	<string>webSignRotation</string>
+	<key>statelessScreenBrightness</key>
+	<string>lossObserverVisible</string>
+</dict>
+</plist>

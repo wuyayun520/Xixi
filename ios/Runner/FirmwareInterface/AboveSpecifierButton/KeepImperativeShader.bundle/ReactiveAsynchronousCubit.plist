@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAnchorKind</key>
+	<string>reusableIconOpacity</string>
+	<key>buttonMethodRotation</key>
+	<string>statelessByMethod</string>
+	<key>canvasWithContext</key>
+	<string>mobileCubitSaturation</string>
+	<key>configurationByObserver</key>
+	<string>layerIncludeInterpreter</string>
+	<key>customObserverFormat</key>
+	<string>layerActivityMargin</string>
+	<key>customizedMethodDelay</key>
+	<string>optimizerMementoOrientation</string>
+	<key>directlyTechniqueAlignment</key>
+	<string>asyncServiceSkewy</string>
+	<key>taskWithoutSystem</key>
+	<string>mainCompleterTint</string>
+	<key>threadAndVisitor</key>
+	<string>titleJobSkewy</string>
+</dict>
+</plist>

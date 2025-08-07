@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitSinceParam</key>
+	<string>smartSceneBound</string>
+	<key>desktopCoordinatorTheme</key>
+	<string>transitionContainState</string>
+	<key>methodParamTransparency</key>
+	<string>lostPriorityTension</string>
+	<key>nativeContainerResponse</key>
+	<string>containerByFlyweight</string>
+	<key>overlaySystemRotation</key>
+	<string>visibleMasterBound</string>
+	<key>pinchableSubscriptionTransparency</key>
+	<string>grainTierOpacity</string>
+	<key>rowOrBridge</key>
+	<string>behaviorIncludeFlyweight</string>
+	<key>stateParameterFlags</key>
+	<string>handlerAndSystem</string>
+	<key>threadPlatformBottom</key>
+	<string>callbackParameterTail</string>
+</dict>
+</plist>

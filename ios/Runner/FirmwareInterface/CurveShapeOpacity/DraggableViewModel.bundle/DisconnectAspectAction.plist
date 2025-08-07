@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionFacadeTransparency</key>
+	<string>cubeCycleTransparency</string>
+	<key>effectActionEdge</key>
+	<string>containerAndTier</string>
+	<key>exceptionLikeMemento</key>
+	<string>rowLevelShape</string>
+	<key>textfieldContextBound</key>
+	<string>capacitiesExceptInterpreter</string>
+</dict>
+</plist>

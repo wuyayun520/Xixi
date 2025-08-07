@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLayerRotation</key>
+	<string>asynchronousDocumentAppearance</string>
+	<key>equalizationAdapterSpeed</key>
+	<string>exceptionDuringComposite</string>
+	<key>paddingAlongBridge</key>
+	<string>animatedcontainerJobState</string>
+	<key>positionParameterDistance</key>
+	<string>normalStatelessKind</string>
+	<key>repositoryVariableType</key>
+	<string>bufferPatternCoord</string>
+	<key>scrollableDurationAlignment</key>
+	<string>gradientLayerAcceleration</string>
+	<key>sensorProcessTheme</key>
+	<string>oldBlocTag</string>
+	<key>sinkWithoutForm</key>
+	<string>spotMediatorInset</string>
+	<key>zoneVersusFacade</key>
+	<string>mobxAlongStage</string>
+</dict>
+</plist>

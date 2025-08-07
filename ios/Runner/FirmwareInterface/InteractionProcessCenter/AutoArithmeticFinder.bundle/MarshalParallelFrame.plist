@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePositionIndex</key>
+	<string>asyncAmongPhase</string>
+	<key>animationAsStructure</key>
+	<string>localizationViaLevel</string>
+	<key>asyncBesidePhase</key>
+	<string>cursorMethodPosition</string>
+	<key>functionalDependencyAppearance</key>
+	<string>taskForMediator</string>
+	<key>mobileFrameFeedback</key>
+	<string>scrollUntilStyle</string>
+	<key>screenWithoutMediator</key>
+	<string>extensionSystemVisible</string>
+	<key>visibleLogarithmShape</key>
+	<string>cellPrototypeBehavior</string>
+</dict>
+</plist>

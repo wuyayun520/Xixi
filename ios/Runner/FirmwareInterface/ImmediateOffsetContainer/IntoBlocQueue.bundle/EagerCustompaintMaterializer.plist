@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryWithoutPattern</key>
+	<string>numericalBrushAppearance</string>
+	<key>mobileFeatureMode</key>
+	<string>fixedContainerDepth</string>
+	<key>specifyVectorEdge</key>
+	<string>missedSubpixelDelay</string>
+	<key>usecaseLikeTask</key>
+	<string>operationDuringAdapter</string>
+</dict>
+</plist>

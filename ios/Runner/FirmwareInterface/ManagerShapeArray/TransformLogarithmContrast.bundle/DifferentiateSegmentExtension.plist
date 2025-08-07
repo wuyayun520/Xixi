@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableButtonRotation</key>
+	<string>routeLikeScope</string>
+	<key>gateAsFacade</key>
+	<string>mainMaterialBehavior</string>
+	<key>multiplicationIncludeStyle</key>
+	<string>desktopUnaryCount</string>
+	<key>originalDecorationSpeed</key>
+	<string>sequentialExceptionBound</string>
+	<key>repositoryTaskAlignment</key>
+	<string>offsetViaCommand</string>
+	<key>staticSegmentFeedback</key>
+	<string>expandedFormFrequency</string>
+</dict>
+</plist>

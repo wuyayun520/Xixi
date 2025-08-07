@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPatternType</key>
+	<string>symmetricRouteTransparency</string>
+	<key>brushSystemDensity</key>
+	<string>basicTernaryEdge</string>
+	<key>denseButtonLocation</key>
+	<string>routePerBridge</string>
+	<key>gemForFlyweight</key>
+	<string>lostTextfieldIndex</string>
+	<key>similarDescriptionOrigin</key>
+	<string>shaderDespiteStrategy</string>
+	<key>variantLikeFlyweight</key>
+	<string>layerAboutFlyweight</string>
+</dict>
+</plist>

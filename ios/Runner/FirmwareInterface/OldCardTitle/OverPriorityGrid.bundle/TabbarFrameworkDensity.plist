@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOperationBorder</key>
+	<string>collectionExceptDecorator</string>
+	<key>cardViaLevel</key>
+	<string>accessibleConfigurationBorder</string>
+	<key>compositionFrameworkValidation</key>
+	<string>errorOutsideTier</string>
+	<key>cubitSingletonForce</key>
+	<string>textSinceLayer</string>
+	<key>spriteTaskHue</key>
+	<string>pageviewThroughBuffer</string>
+	<key>usageAsStyle</key>
+	<string>extensionSystemPadding</string>
+</dict>
+</plist>

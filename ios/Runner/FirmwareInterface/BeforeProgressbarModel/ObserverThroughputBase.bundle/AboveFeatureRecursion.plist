@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespitePlatform</key>
+	<string>inactiveCoordinatorBorder</string>
+	<key>containerStageStatus</key>
+	<string>localIndicatorTag</string>
+	<key>monsterIncludeContext</key>
+	<string>statefulDecorationSpeed</string>
+	<key>progressbarWithoutState</key>
+	<string>lastSensorEdge</string>
+	<key>resourceAboutPhase</key>
+	<string>interfaceFacadeDistance</string>
+	<key>sustainableMenuVisible</key>
+	<string>singleNavigationRotation</string>
+</dict>
+</plist>

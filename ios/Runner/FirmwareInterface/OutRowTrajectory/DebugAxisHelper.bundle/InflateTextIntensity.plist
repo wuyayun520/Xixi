@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorScale</key>
+	<string>buttonOperationSpeed</string>
+	<key>axisAdapterSaturation</key>
+	<string>globalObserverStatus</string>
+	<key>bitrateDuringVariable</key>
+	<string>notificationFrameworkDensity</string>
+	<key>builderEnvironmentSize</key>
+	<string>allocatorNumberTail</string>
+	<key>cacheVarType</key>
+	<string>scaffoldProcessAlignment</string>
+	<key>errorMementoVelocity</key>
+	<string>prevProviderBorder</string>
+	<key>grayscaleTaskSkewx</key>
+	<string>configurationDespiteProcess</string>
+	<key>resourceWorkOrigin</key>
+	<string>durationFormDelay</string>
+	<key>skirtNearDecorator</key>
+	<string>immutableChapterOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSignFrequency</key>
+	<string>mediaqueryCycleName</string>
+	<key>capacitiesAsEnvironment</key>
+	<string>tabviewExceptBuffer</string>
+	<key>imperativeProviderPosition</key>
+	<string>giftTaskBottom</string>
+	<key>lossStateTransparency</key>
+	<string>logarithmNumberLeft</string>
+	<key>mobileNavigatorMargin</key>
+	<string>temporaryRequestSpacing</string>
+	<key>nativePositionedMargin</key>
+	<string>stampStructureFormat</string>
+	<key>normalDependencySpacing</key>
+	<string>radiusAmongShape</string>
+</dict>
+</plist>

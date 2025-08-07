@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeManagerForce</key>
+	<string>grainSystemRotation</string>
+	<key>advancedEffectBrightness</key>
+	<string>mapPerPattern</string>
+	<key>completionInBuffer</key>
+	<string>typicalPositionedVelocity</string>
+	<key>currentServiceCoord</key>
+	<string>sinkStrategyOpacity</string>
+	<key>desktopMediaqueryOpacity</key>
+	<string>roleParameterDepth</string>
+	<key>otherPositionVisibility</key>
+	<string>subsequentStreamCount</string>
+	<key>scaleByShape</key>
+	<string>threadJobName</string>
+	<key>sinkBufferOrigin</key>
+	<string>custompaintStateState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseCommandTag</key>
+	<string>checkboxAdapterOrigin</string>
+	<key>controllerCycleFrequency</key>
+	<string>retainedControllerForce</string>
+	<key>criticalAwaitSkewy</key>
+	<string>ignoredCellOffset</string>
+	<key>firstLoopSize</key>
+	<string>sineLevelAlignment</string>
+	<key>interactorPlatformFrequency</key>
+	<string>reactiveAlignmentPadding</string>
+	<key>pivotalInjectionPadding</key>
+	<string>sliderAgainstFlyweight</string>
+	<key>specifyTransitionLeft</key>
+	<string>projectAsLevel</string>
+	<key>tweenCompositeCoord</key>
+	<string>singletonSinceInterpreter</string>
+</dict>
+</plist>

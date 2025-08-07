@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSystemMode</key>
+	<string>operationVariableInset</string>
+	<key>metadataWithoutEnvironment</key>
+	<string>fragmentAgainstAdapter</string>
+	<key>navigationContainAdapter</key>
+	<string>animatedScaffoldShade</string>
+	<key>nodeDuringMemento</key>
+	<string>subpixelNumberDelay</string>
+	<key>resizableMasterAppearance</key>
+	<string>animationWithoutFramework</string>
+	<key>textureInWork</key>
+	<string>hierarchicalSizeCenter</string>
+</dict>
+</plist>

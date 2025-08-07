@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFacadeKind</key>
+	<string>optimizerAwayLayer</string>
+	<key>mobileUntilLayer</key>
+	<string>symbolFromBridge</string>
+	<key>resizableDurationState</key>
+	<string>specifyAnchorShape</string>
+	<key>screenModeSkewy</key>
+	<string>assetActivitySkewx</string>
+</dict>
+</plist>

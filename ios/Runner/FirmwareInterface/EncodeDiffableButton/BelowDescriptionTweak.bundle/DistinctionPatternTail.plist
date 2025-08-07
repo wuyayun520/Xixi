@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMenuDelay</key>
+	<string>tappableCheckboxAppearance</string>
+	<key>callbackFormValidation</key>
+	<string>assetOperationAcceleration</string>
+	<key>cubeTierCenter</key>
+	<string>unactivatedSpriteAlignment</string>
+	<key>nodeAsTier</key>
+	<string>semanticInkwellRotation</string>
+	<key>requiredReducerMargin</key>
+	<string>injectionTypeInteraction</string>
+	<key>switchVisitorIndex</key>
+	<string>callbackSystemPadding</string>
+	<key>tabviewStateName</key>
+	<string>flexibleGradientTheme</string>
+</dict>
+</plist>

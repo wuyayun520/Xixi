@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutViaOperation</key>
+	<string>sequentialTableEdge</string>
+	<key>originalDocumentBottom</key>
+	<string>imperativeDimensionBorder</string>
+	<key>radioDuringBuffer</key>
+	<string>eagerTweenTail</string>
+	<key>scaffoldVarSpacing</key>
+	<string>asyncMapVisibility</string>
+	<key>toolSingletonTail</key>
+	<string>tappableRectSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitShapeVelocity</key>
+	<string>intuitivePreviewOpacity</string>
+	<key>customControllerDepth</key>
+	<string>requestObserverStyle</string>
+	<key>mobxVersusPattern</key>
+	<string>resourceWithoutProxy</string>
+	<key>operationPhaseAppearance</key>
+	<string>exponentViaMediator</string>
+	<key>permanentCompletionSkewy</key>
+	<string>decorationModeDensity</string>
+	<key>providerParamValidation</key>
+	<string>indicatorCycleDuration</string>
+	<key>scaleJobFrequency</key>
+	<string>concurrentPreviewDirection</string>
+	<key>semanticCompleterAcceleration</key>
+	<string>labelBufferPadding</string>
+	<key>vectorLevelEdge</key>
+	<string>rectInsideScope</string>
+</dict>
+</plist>

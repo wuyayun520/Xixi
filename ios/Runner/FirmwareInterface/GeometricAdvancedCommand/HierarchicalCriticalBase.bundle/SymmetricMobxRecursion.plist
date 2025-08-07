@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionCompositeTransparency</key>
+	<string>durationVariableTint</string>
+	<key>clipperWithoutSingleton</key>
+	<string>ignoredHashDuration</string>
+	<key>lossFromProcess</key>
+	<string>semanticCoordinatorSpacing</string>
+	<key>routePrototypeInset</key>
+	<string>anchorActionState</string>
+	<key>scrollableChallengeAlignment</key>
+	<string>cupertinoBaseTheme</string>
+	<key>tensorMatrixBrightness</key>
+	<string>builderStructureSaturation</string>
+	<key>timerDecoratorIndex</key>
+	<string>listviewWithoutChain</string>
+</dict>
+</plist>

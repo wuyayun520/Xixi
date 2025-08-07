@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateJobFlags</key>
+	<string>oldAwaitBottom</string>
+	<key>ephemeralReferenceAlignment</key>
+	<string>histogramPatternShade</string>
+	<key>greatContainerOrientation</key>
+	<string>callbackVersusStrategy</string>
+	<key>memberForLevel</key>
+	<string>globalDocumentDuration</string>
+	<key>optimizerFlyweightPosition</key>
+	<string>constraintUntilStrategy</string>
+	<key>reducerMethodShade</key>
+	<string>firstTransitionFormat</string>
+	<key>seamlessStorageSpeed</key>
+	<string>navigatorActivityBehavior</string>
+	<key>sensorOrValue</key>
+	<string>hashInterpreterCount</string>
+	<key>textfieldCompositeTension</key>
+	<string>overlayIncludePlatform</string>
+</dict>
+</plist>

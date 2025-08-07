@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSlashLocation</key>
+	<string>awaitOutsideStructure</string>
+	<key>buttonInPlatform</key>
+	<string>denseSizeLocation</string>
+	<key>capsuleCommandTheme</key>
+	<string>explicitDecorationStyle</string>
+	<key>dynamicTickerTop</key>
+	<string>riverpodAsBuffer</string>
+	<key>hashMediatorType</key>
+	<string>sessionContextBound</string>
+	<key>interactiveAnchorFormat</key>
+	<string>mutableDimensionTheme</string>
+	<key>mediocreAlertTension</key>
+	<string>mobileSkinBound</string>
+	<key>sortedBlocSkewx</key>
+	<string>uniformUnaryVisibility</string>
+</dict>
+</plist>

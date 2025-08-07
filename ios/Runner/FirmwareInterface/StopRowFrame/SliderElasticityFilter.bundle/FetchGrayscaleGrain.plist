@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandForContext</key>
+	<string>fusedDocumentSpeed</string>
+	<key>curveLikePhase</key>
+	<string>taskAtPhase</string>
+	<key>notifierOutsideScope</key>
+	<string>dependencyBeyondContext</string>
+	<key>presenterExceptNumber</key>
+	<string>aspectVisitorDensity</string>
+	<key>retainedConstraintBehavior</key>
+	<string>awaitBesideFramework</string>
+</dict>
+</plist>

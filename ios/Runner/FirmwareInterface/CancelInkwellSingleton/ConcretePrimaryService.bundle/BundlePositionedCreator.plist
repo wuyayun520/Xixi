@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeActivityRate</key>
+	<string>toolTaskDepth</string>
+	<key>animationPlatformInterval</key>
+	<string>gridviewSingletonShape</string>
+	<key>hyperbolicResourceScale</key>
+	<string>scaleValueSkewx</string>
+	<key>masterBeyondShape</key>
+	<string>matrixFormVisibility</string>
+	<key>routeByMethod</key>
+	<string>asyncPromiseDirection</string>
+	<key>stackDespiteVisitor</key>
+	<string>visibleOffsetLocation</string>
+	<key>tappableLayoutDirection</key>
+	<string>heapViaComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridAdapterType</key>
+	<string>buttonExceptVisitor</string>
+	<key>modelObserverTag</key>
+	<string>musicAlongForm</string>
+	<key>reusableCallbackTransparency</key>
+	<string>sliderModeSkewx</string>
+	<key>subscriptionObserverRate</key>
+	<string>staticReductionPadding</string>
+	<key>synchronousRadiusDirection</key>
+	<string>serviceOrPhase</string>
+</dict>
+</plist>

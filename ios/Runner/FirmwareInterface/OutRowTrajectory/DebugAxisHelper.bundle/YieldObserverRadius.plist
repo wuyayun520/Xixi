@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentObserverSpacing</key>
+	<string>musicAlongTask</string>
+	<key>delegateContextAcceleration</key>
+	<string>reducerWithoutCycle</string>
+	<key>futureDuringPattern</key>
+	<string>statefulLevelPosition</string>
+	<key>secondTimerLeft</key>
+	<string>sizeBufferSpeed</string>
+	<key>uniformCompositionValidation</key>
+	<string>consumerIncludeProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPerJob</key>
+	<string>enabledGraphSize</string>
+	<key>flexAndCommand</key>
+	<string>dropdownbuttonActionAppearance</string>
+	<key>numericalRowValidation</key>
+	<string>builderLayerBound</string>
+	<key>observerInterpreterAppearance</key>
+	<string>pinchableCurveForce</string>
+	<key>spriteStyleBound</key>
+	<string>containerTempleIndex</string>
+	<key>storeTierShape</key>
+	<string>deferredWorkflowInterval</string>
+</dict>
+</plist>

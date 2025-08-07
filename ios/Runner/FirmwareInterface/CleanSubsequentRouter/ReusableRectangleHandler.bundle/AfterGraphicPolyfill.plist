@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWithLayer</key>
+	<string>granularSceneBorder</string>
+	<key>captionStateDensity</key>
+	<string>cacheOrCommand</string>
+	<key>exceptionAgainstVisitor</key>
+	<string>spineModeBound</string>
+	<key>nativeTransitionEdge</key>
+	<string>labelTierContrast</string>
+	<key>prevPresenterVelocity</key>
+	<string>advancedBlocPadding</string>
+	<key>routeChainOrientation</key>
+	<string>sinkPerMode</string>
+	<key>typicalGateOffset</key>
+	<string>constraintExceptShape</string>
+	<key>usecaseForMemento</key>
+	<string>optimizerExceptFunction</string>
+</dict>
+</plist>

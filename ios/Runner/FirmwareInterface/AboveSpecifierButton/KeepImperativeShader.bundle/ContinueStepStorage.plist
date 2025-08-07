@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticObserverFlags</key>
+	<string>requestOperationTransparency</string>
+	<key>directNodeFeedback</key>
+	<string>interfaceBridgeType</string>
+	<key>paddingLikePlatform</key>
+	<string>grainKindSpeed</string>
+	<key>prevBlocVisible</key>
+	<string>synchronousMusicFeedback</string>
+	<key>resilientTouchAlignment</key>
+	<string>functionalApertureTransparency</string>
+</dict>
+</plist>

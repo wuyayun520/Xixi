@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnCompositeAlignment</key>
+	<string>appbarInDecorator</string>
+	<key>constraintKindLeft</key>
+	<string>visibleInterpolationOrigin</string>
+	<key>consultativeCurveFeedback</key>
+	<string>streamContainKind</string>
+	<key>deferredMetadataVisible</key>
+	<string>sharedStateInteraction</string>
+	<key>densePromiseRate</key>
+	<string>usecaseAwayBuffer</string>
+	<key>equalizationOutsideState</key>
+	<string>callbackObserverTint</string>
+	<key>functionalFactoryStyle</key>
+	<string>textfieldLikeDecorator</string>
+	<key>gateProcessFeedback</key>
+	<string>groupDecoratorBehavior</string>
+	<key>projectBesideBuffer</key>
+	<string>widgetOutsideSingleton</string>
+</dict>
+</plist>

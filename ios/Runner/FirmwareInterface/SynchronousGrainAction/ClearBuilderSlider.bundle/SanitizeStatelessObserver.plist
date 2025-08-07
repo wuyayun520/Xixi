@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardExceptionMomentum</key>
+	<string>activatedFragmentAcceleration</string>
+	<key>controllerBufferBrightness</key>
+	<string>sliderActionShade</string>
+	<key>dependencyStageMargin</key>
+	<string>eagerModulusContrast</string>
+	<key>optionAmongMethod</key>
+	<string>subtleInjectionTag</string>
+	<key>reductionAndVariable</key>
+	<string>parallelBuilderOpacity</string>
+	<key>semanticLoopAppearance</key>
+	<string>customCellKind</string>
+	<key>tabbarInVariable</key>
+	<string>reusableChannelsBound</string>
+</dict>
+</plist>

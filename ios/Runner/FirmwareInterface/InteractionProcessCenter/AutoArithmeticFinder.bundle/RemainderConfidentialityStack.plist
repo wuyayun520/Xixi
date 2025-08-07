@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGesturedetectorVisibility</key>
+	<string>standaloneQueryTop</string>
+	<key>alignmentBesideSingleton</key>
+	<string>constTextureDistance</string>
+	<key>bitrateActionCoord</key>
+	<string>channelsVersusState</string>
+	<key>semanticsForOperation</key>
+	<string>screenOutsideProcess</string>
+	<key>sinkContainChain</key>
+	<string>presenterBesideBridge</string>
+	<key>tangentPerVar</key>
+	<string>curveActionTag</string>
+</dict>
+</plist>

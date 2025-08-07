@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAmongStrategy</key>
+	<string>difficultCubitOrigin</string>
+	<key>dynamicNavigationDelay</key>
+	<string>streamOperationRate</string>
+	<key>sineVarSize</key>
+	<string>entityActivityShape</string>
+</dict>
+</plist>

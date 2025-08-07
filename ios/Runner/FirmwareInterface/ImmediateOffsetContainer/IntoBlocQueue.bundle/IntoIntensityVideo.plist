@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationUntilVisitor</key>
+	<string>stackAndTier</string>
+	<key>elasticViewScale</key>
+	<string>curveTierValidation</string>
+	<key>lossNumberTheme</key>
+	<string>symmetricModulusHead</string>
+	<key>singleZoneInterval</key>
+	<string>retainedPreviewSize</string>
+	<key>statefulWorkKind</key>
+	<string>transitionFrameworkInteraction</string>
+	<key>timerPerEnvironment</key>
+	<string>cellOutsideMediator</string>
+</dict>
+</plist>

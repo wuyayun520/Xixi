@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardProfileSpeed</key>
+	<string>paddingPerProxy</string>
+	<key>blocVisitorSpeed</key>
+	<string>finalLayoutVisibility</string>
+	<key>cubitVersusPrototype</key>
+	<string>momentumFormFeedback</string>
+	<key>interactorTempleBorder</key>
+	<string>scaleProxyFormat</string>
+	<key>mainResolverInterval</key>
+	<string>referenceBridgeColor</string>
+	<key>previewWithEnvironment</key>
+	<string>synchronousPaddingTransparency</string>
+	<key>queueWithoutCommand</key>
+	<string>topicObserverOrientation</string>
+	<key>responseParamTop</key>
+	<string>notifierMediatorStyle</string>
+	<key>secondButtonAppearance</key>
+	<string>standaloneTweenFormat</string>
+	<key>symmetricTouchLeft</key>
+	<string>immediateRectDistance</string>
+</dict>
+</plist>

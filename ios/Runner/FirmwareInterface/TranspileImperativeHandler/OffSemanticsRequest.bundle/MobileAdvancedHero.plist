@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMethodDuration</key>
+	<string>coordinatorInsideDecorator</string>
+	<key>layoutAndBuffer</key>
+	<string>discardedPresenterShade</string>
+	<key>masterParamSkewy</key>
+	<string>oldTransitionPressure</string>
+	<key>modalPatternCount</key>
+	<string>completerMementoPosition</string>
+	<key>modalWithoutCommand</key>
+	<string>asynchronousTabbarMode</string>
+	<key>mutablePriorityMode</key>
+	<string>normScopeSkewx</string>
+	<key>radioAndPrototype</key>
+	<string>globalBlocForce</string>
+</dict>
+</plist>

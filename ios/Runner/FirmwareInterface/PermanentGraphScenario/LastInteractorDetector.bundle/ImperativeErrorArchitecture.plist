@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerInsideTemple</key>
+	<string>textCommandHead</string>
+	<key>optimizerWorkBound</key>
+	<string>appbarInsideBridge</string>
+	<key>temporarySceneInset</key>
+	<string>extensionAdapterTag</string>
+</dict>
+</plist>

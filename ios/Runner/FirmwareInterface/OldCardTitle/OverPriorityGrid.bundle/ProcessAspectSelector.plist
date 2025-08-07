@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalExtensionVisible</key>
+	<string>injectionViaBuffer</string>
+	<key>independentPlateBottom</key>
+	<string>visibleParticleBorder</string>
+	<key>lossByFacade</key>
+	<string>localizationSinceOperation</string>
+	<key>materialReducerOrientation</key>
+	<string>touchSystemVelocity</string>
+	<key>nodeAtProxy</key>
+	<string>tappableMetadataBorder</string>
+	<key>routeDecoratorScale</key>
+	<string>channelCompositeInteraction</string>
+	<key>switchVersusFlyweight</key>
+	<string>consultativeInterpolationHue</string>
+	<key>utilAboutVariable</key>
+	<string>cubitFormDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAndPrototype</key>
+	<string>asyncSubpixelContrast</string>
+	<key>capsuleThroughPattern</key>
+	<string>resourceOrLevel</string>
+	<key>custompaintViaContext</key>
+	<string>layoutStrategyCoord</string>
+	<key>equalizationPrototypeBrightness</key>
+	<string>repositoryPlatformShape</string>
+	<key>painterDecoratorDepth</key>
+	<string>commonAnimationRight</string>
+	<key>positionObserverResponse</key>
+	<string>criticalTextVisibility</string>
+	<key>presenterInsideMethod</key>
+	<string>robustProgressbarCenter</string>
+	<key>repositoryFrameworkInterval</key>
+	<string>normOfSingleton</string>
+	<key>robustCubitPosition</key>
+	<string>sceneOutsideValue</string>
+</dict>
+</plist>

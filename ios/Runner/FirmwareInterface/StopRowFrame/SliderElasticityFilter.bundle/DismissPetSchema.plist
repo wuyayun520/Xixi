@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineExceptCycle</key>
+	<string>resolverFunctionSpeed</string>
+	<key>draggableCycleHue</key>
+	<string>cupertinoJobBrightness</string>
+	<key>explicitProjectStatus</key>
+	<string>animatedAlignmentBorder</string>
+	<key>iconWithoutShape</key>
+	<string>riverpodScopeIndex</string>
+	<key>mapProxyDuration</key>
+	<string>streamActivityVelocity</string>
+	<key>multiTabbarBehavior</key>
+	<string>effectAsForm</string>
+	<key>radiusAroundValue</key>
+	<string>displayableListviewPressure</string>
+	<key>resultSinceStrategy</key>
+	<string>canvasExceptActivity</string>
+	<key>richtextPhaseBorder</key>
+	<string>priorSignatureInterval</string>
+</dict>
+</plist>

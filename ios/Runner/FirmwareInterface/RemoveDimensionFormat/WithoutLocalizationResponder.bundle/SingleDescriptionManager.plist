@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFunctionKind</key>
+	<string>constraintByOperation</string>
+	<key>consultativeTitleTop</key>
+	<string>nextCurveMargin</string>
+	<key>curveParamInteraction</key>
+	<string>switchVersusCommand</string>
+	<key>independentDocumentDensity</key>
+	<string>resizableWorkflowCount</string>
+	<key>instructionFrameworkLeft</key>
+	<string>gridThroughType</string>
+	<key>positionedAwayMediator</key>
+	<string>allocatorFlyweightBound</string>
+	<key>storyboardAndPattern</key>
+	<string>declarativeResourceForce</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionFrameworkTheme</key>
+	<string>bufferVariableEdge</string>
+	<key>drawerInterpreterOpacity</key>
+	<string>dialogsDuringStyle</string>
+	<key>lostCurveVelocity</key>
+	<string>reducerThroughBuffer</string>
+	<key>smallAnimationOffset</key>
+	<string>momentumStructureVelocity</string>
+</dict>
+</plist>

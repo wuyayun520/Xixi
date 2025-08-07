@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOverlayVisible</key>
+	<string>activatedRouteInset</string>
+	<key>clipperSingletonBrightness</key>
+	<string>desktopLabelOrientation</string>
+	<key>delegateCommandBrightness</key>
+	<string>scrollableAsyncSkewy</string>
+	<key>frameAgainstLayer</key>
+	<string>materialTechniqueTint</string>
+	<key>grainBufferState</key>
+	<string>behaviorContainParam</string>
+	<key>histogramSinceBuffer</key>
+	<string>hyperbolicGrainSpacing</string>
+	<key>resizableIndicatorType</key>
+	<string>featureThanFacade</string>
+</dict>
+</plist>

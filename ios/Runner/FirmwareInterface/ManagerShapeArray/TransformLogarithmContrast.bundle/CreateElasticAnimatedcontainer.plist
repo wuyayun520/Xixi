@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTierFeedback</key>
+	<string>euclideanFutureTail</string>
+	<key>nibByScope</key>
+	<string>customProgressbarName</string>
+	<key>rapidSwitchColor</key>
+	<string>channelNearEnvironment</string>
+	<key>tableByLevel</key>
+	<string>operationInterpreterDelay</string>
+</dict>
+</plist>

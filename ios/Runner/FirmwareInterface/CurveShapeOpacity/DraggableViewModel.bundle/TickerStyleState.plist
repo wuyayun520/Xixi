@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseStyleAlignment</key>
+	<string>decorationFormSize</string>
+	<key>buttonOfMemento</key>
+	<string>listenerWorkDistance</string>
+	<key>customizedReducerDelay</key>
+	<string>customizedPopupDelay</string>
+	<key>liteGrainTop</key>
+	<string>dropdownbuttonAndMethod</string>
+	<key>nibWorkTag</key>
+	<string>rowPrototypeInterval</string>
+	<key>tabbarAgainstJob</key>
+	<string>sampleNumberTag</string>
+</dict>
+</plist>

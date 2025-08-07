@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsMethodBorder</key>
+	<string>directMaterialOffset</string>
+	<key>granularChannelsBrightness</key>
+	<string>channelStageBrightness</string>
+	<key>layerAboutVisitor</key>
+	<string>bitrateOrPattern</string>
+	<key>layoutInterpreterAcceleration</key>
+	<string>chapterValueSkewx</string>
+	<key>screenMementoIndex</key>
+	<string>titleUntilContext</string>
+	<key>spriteEnvironmentLeft</key>
+	<string>alignmentObserverOrientation</string>
+	<key>storeAtInterpreter</key>
+	<string>columnBeyondLayer</string>
+	<key>viewParamRate</key>
+	<string>sortedHistogramMode</string>
+</dict>
+</plist>

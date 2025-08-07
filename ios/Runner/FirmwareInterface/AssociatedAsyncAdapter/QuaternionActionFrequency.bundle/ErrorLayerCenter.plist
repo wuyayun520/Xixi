@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerParameterTransparency</key>
+	<string>responseDuringState</string>
+	<key>capsuleBridgeInteraction</key>
+	<string>directlyControllerOrigin</string>
+	<key>curveAgainstOperation</key>
+	<string>euclideanTransformerSaturation</string>
+	<key>durationAsSystem</key>
+	<string>certificateVariablePadding</string>
+	<key>hyperbolicSpriteKind</key>
+	<string>gradientStageDelay</string>
+	<key>injectionStrategyState</key>
+	<string>controllerOrEnvironment</string>
+	<key>navigatorSystemDepth</key>
+	<string>curveBridgeIndex</string>
+</dict>
+</plist>

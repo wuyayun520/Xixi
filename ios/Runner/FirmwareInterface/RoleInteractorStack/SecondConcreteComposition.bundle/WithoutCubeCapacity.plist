@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedFutureShade</key>
+	<string>lazyHeroRight</string>
+	<key>hierarchicalObserverCount</key>
+	<string>rowDecoratorColor</string>
+	<key>loopParamSpeed</key>
+	<string>curveAsCommand</string>
+	<key>toolByComposite</key>
+	<string>directProgressbarVisible</string>
+</dict>
+</plist>

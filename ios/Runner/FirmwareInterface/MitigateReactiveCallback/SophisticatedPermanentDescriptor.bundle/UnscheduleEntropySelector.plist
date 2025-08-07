@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerVariableTag</key>
+	<string>usedControllerKind</string>
+	<key>customAllocatorCount</key>
+	<string>offsetWithParam</string>
+	<key>directCheckboxFlags</key>
+	<string>mainActionCount</string>
+	<key>hyperbolicResolverDepth</key>
+	<string>sinkViaParam</string>
+	<key>materialResolverVisibility</key>
+	<string>multiReducerOpacity</string>
+	<key>pointScopeTint</key>
+	<string>positionedNearValue</string>
+	<key>previewAdapterDelay</key>
+	<string>scaleProxyInteraction</string>
+	<key>skirtAndBridge</key>
+	<string>dedicatedGrainPosition</string>
+	<key>threadFormPadding</key>
+	<string>interactorJobColor</string>
+	<key>topicLikeMode</key>
+	<string>spriteSinceStage</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedSpotSkewy</key>
+	<string>litePriorityStatus</string>
+	<key>integerBeyondBridge</key>
+	<string>projectionBeyondState</string>
+	<key>localizationPerPhase</key>
+	<string>layoutTaskCount</string>
+	<key>nodeVersusEnvironment</key>
+	<string>intuitiveCupertinoColor</string>
+	<key>prismaticFeatureSkewx</key>
+	<string>positionedWithMethod</string>
+	<key>semanticsExceptLevel</key>
+	<string>completionVersusShape</string>
+	<key>titleOfChain</key>
+	<string>scrollBesidePrototype</string>
+</dict>
+</plist>

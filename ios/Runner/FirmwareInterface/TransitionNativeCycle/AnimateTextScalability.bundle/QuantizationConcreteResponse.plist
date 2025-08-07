@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalTaskVisibility</key>
+	<string>dependencyViaPlatform</string>
+	<key>seamlessPreviewDepth</key>
+	<string>resilientDependencyValidation</string>
+	<key>sharedResolverCoord</key>
+	<string>basicAxisSize</string>
+	<key>specifierContainWork</key>
+	<string>easyPriorityTransparency</string>
+	<key>ternaryWithoutMediator</key>
+	<string>controllerAroundComposite</string>
+</dict>
+</plist>

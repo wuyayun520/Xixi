@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPositionBehavior</key>
+	<string>fusedUsageRotation</string>
+	<key>diversifiedResolverTheme</key>
+	<string>semanticsWithoutContext</string>
+	<key>histogramStateColor</key>
+	<string>mainStoryboardTransparency</string>
+	<key>semanticCursorTint</key>
+	<string>gramInOperation</string>
+	<key>semanticSegueFeedback</key>
+	<string>shaderDecoratorAlignment</string>
+</dict>
+</plist>

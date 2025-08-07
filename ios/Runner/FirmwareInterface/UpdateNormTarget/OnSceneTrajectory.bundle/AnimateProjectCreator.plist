@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFrameworkInteraction</key>
+	<string>variantFromTask</string>
+	<key>asyncSpriteBound</key>
+	<string>independentMetadataRight</string>
+	<key>errorAboutMediator</key>
+	<string>appbarCompositeInteraction</string>
+	<key>layerViaTask</key>
+	<string>specifyContainerHue</string>
+	<key>normActionDuration</key>
+	<string>richtextWorkResponse</string>
+	<key>optimizerUntilCycle</key>
+	<string>certificateDecoratorOpacity</string>
+	<key>tangentActionPosition</key>
+	<string>cursorMediatorScale</string>
+	<key>usecaseAwayActivity</key>
+	<string>spriteLevelBorder</string>
+</dict>
+</plist>

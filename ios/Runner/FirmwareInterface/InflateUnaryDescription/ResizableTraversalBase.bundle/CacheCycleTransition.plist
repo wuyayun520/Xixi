@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOrInterpreter</key>
+	<string>dependencyLikeInterpreter</string>
+	<key>callbackDespiteProxy</key>
+	<string>nextDecorationForce</string>
+	<key>futureBeyondPlatform</key>
+	<string>completerExceptWork</string>
+	<key>painterChainOrigin</key>
+	<string>transitionAmongScope</string>
+	<key>projectionVersusNumber</key>
+	<string>retainedCurvePressure</string>
+	<key>rapidQueryFlags</key>
+	<string>symmetricErrorSize</string>
+	<key>transformerFromStructure</key>
+	<string>hardPaddingSpacing</string>
+	<key>tweenStateInset</key>
+	<string>promiseScopeCoord</string>
+</dict>
+</plist>

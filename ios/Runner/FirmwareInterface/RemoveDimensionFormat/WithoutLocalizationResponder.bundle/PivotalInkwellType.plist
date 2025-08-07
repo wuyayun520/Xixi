@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultCompleterDensity</key>
+	<string>asyncProgressbarFrequency</string>
+	<key>handlerAroundCycle</key>
+	<string>labelFormOffset</string>
+	<key>storeOutsideMediator</key>
+	<string>semanticBlocDensity</string>
+</dict>
+</plist>

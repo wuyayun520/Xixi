@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxWorkOrigin</key>
+	<string>crudeBuilderLeft</string>
+	<key>immediateMobileRate</key>
+	<string>playbackAsActivity</string>
+	<key>liteUnarySpeed</key>
+	<string>backwardTopicTint</string>
+	<key>repositoryFormSpeed</key>
+	<string>subscriptionActivitySpeed</string>
+	<key>similarGridDirection</key>
+	<string>sinkKindFrequency</string>
+	<key>sizedboxParamOrientation</key>
+	<string>reusableAsyncSpacing</string>
+	<key>taskActivityDistance</key>
+	<string>sustainableStreamTag</string>
+	<key>webStoreFrequency</key>
+	<string>compositionalCoordinatorDirection</string>
+</dict>
+</plist>

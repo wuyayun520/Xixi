@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconBufferDensity</key>
+	<string>mobileChannelSpacing</string>
+	<key>imperativeViewTransparency</key>
+	<string>customRowVelocity</string>
+	<key>modulusForLayer</key>
+	<string>buttonScopeDepth</string>
+	<key>prevLocalizationRotation</key>
+	<string>temporaryControllerCoord</string>
+	<key>specifierAsShape</key>
+	<string>agileAsyncSkewy</string>
+	<key>statefulResourceBehavior</key>
+	<string>normalSegmentValidation</string>
+	<key>subpixelTemplePosition</key>
+	<string>inactiveProviderOrientation</string>
+</dict>
+</plist>

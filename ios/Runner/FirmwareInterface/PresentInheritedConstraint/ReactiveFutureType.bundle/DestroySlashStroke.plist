@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileViewAppearance</key>
+	<string>gateUntilInterpreter</string>
+	<key>allocatorAsVariable</key>
+	<string>labelAroundLevel</string>
+	<key>arithmeticExceptProcess</key>
+	<string>scrollPhaseTop</string>
+	<key>cacheParamColor</key>
+	<string>seamlessRowAcceleration</string>
+	<key>listviewCycleDepth</key>
+	<string>usedMarginRate</string>
+	<key>progressbarWorkForce</key>
+	<string>factoryAsMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationWithState</key>
+	<string>labelContextFormat</string>
+	<key>desktopAssetValidation</key>
+	<string>modulusContextOpacity</string>
+	<key>directLabelRate</key>
+	<string>tickerCompositeFeedback</string>
+	<key>gridviewCommandState</key>
+	<string>sliderBeyondType</string>
+	<key>inkwellOrParam</key>
+	<string>gemFromMediator</string>
+	<key>positionDespiteStrategy</key>
+	<string>resizableCharacterCount</string>
+	<key>seamlessRouterLocation</key>
+	<string>greatCatalystStyle</string>
+	<key>subsequentTaskMode</key>
+	<string>routeJobMode</string>
+</dict>
+</plist>

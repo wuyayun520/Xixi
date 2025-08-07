@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesLayerRate</key>
+	<string>labelBufferInset</string>
+	<key>delegateTypeVisible</key>
+	<string>menuAsActivity</string>
+	<key>particleMementoVisible</key>
+	<string>discardedPreviewDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAsCycle</key>
+	<string>spriteUntilPattern</string>
+	<key>crudeModalMode</key>
+	<string>alphaInChain</string>
+	<key>nextRectShape</key>
+	<string>certificateVariableHue</string>
+	<key>providerModePressure</key>
+	<string>effectAsBuffer</string>
+</dict>
+</plist>

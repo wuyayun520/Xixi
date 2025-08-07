@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAwayFunction</key>
+	<string>delicateStreamStatus</string>
+	<key>interpolationAwayStyle</key>
+	<string>containerExceptPrototype</string>
+	<key>nativeButtonAlignment</key>
+	<string>accordionGrayscaleContrast</string>
+	<key>popupProxyFeedback</key>
+	<string>compositionInKind</string>
+	<key>richtextScopeVelocity</key>
+	<string>captionFromFramework</string>
+	<key>segmentStyleTension</key>
+	<string>diffableProjectionAlignment</string>
+	<key>sinkOutsideParam</key>
+	<string>completionIncludePrototype</string>
+	<key>textEnvironmentSkewy</key>
+	<string>usageSinceBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDrawerDistance</key>
+	<string>canvasAndParameter</string>
+	<key>gridviewCommandSkewx</key>
+	<string>animationPerAction</string>
+	<key>heapAroundPlatform</key>
+	<string>independentQueryResponse</string>
+	<key>managerExceptMemento</key>
+	<string>segueJobMomentum</string>
+	<key>mobxEnvironmentPosition</key>
+	<string>priorUtilSaturation</string>
+	<key>requestKindDuration</key>
+	<string>statelessMethodDistance</string>
+	<key>resultStateBound</key>
+	<string>tweenMementoFrequency</string>
+	<key>tabviewTierTag</key>
+	<string>missedInstructionState</string>
+	<key>usecaseAmongBridge</key>
+	<string>actionAsNumber</string>
+</dict>
+</plist>

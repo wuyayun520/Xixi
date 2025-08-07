@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorOutsideShape</key>
+	<string>factoryForPattern</string>
+	<key>geometricProjectionRate</key>
+	<string>errorAroundStage</string>
+	<key>notifierVersusPrototype</key>
+	<string>granularProjectFlags</string>
+	<key>pageviewAdapterForce</key>
+	<string>publicSizeTint</string>
+	<key>scrollableTextureStatus</key>
+	<string>precisionMediatorSpacing</string>
+</dict>
+</plist>

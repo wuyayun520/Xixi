@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorModeBrightness</key>
+	<string>gesturedetectorThroughMode</string>
+	<key>gradientIncludeCommand</key>
+	<string>hierarchicalNibAlignment</string>
+	<key>intermediateSliderFlags</key>
+	<string>resizableGroupCoord</string>
+	<key>invisibleRouteDensity</key>
+	<string>dimensionLikeStyle</string>
+	<key>positionCommandDirection</key>
+	<string>descriptionNearParam</string>
+	<key>protectedTabviewTransparency</key>
+	<string>blocVariableVisibility</string>
+	<key>singleBehaviorVisible</key>
+	<string>fusedCycleState</string>
+	<key>textEnvironmentTail</key>
+	<string>delegateModeAlignment</string>
+	<key>transitionAndMemento</key>
+	<string>disabledLocalizationOffset</string>
+</dict>
+</plist>

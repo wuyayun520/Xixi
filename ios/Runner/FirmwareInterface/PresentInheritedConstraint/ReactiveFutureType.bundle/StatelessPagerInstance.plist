@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateBeyondWork</key>
+	<string>loopSinceCommand</string>
+	<key>dependencyOrProxy</key>
+	<string>awaitTierCount</string>
+	<key>firstChapterFlags</key>
+	<string>mutableMenuOrientation</string>
+	<key>interpolationViaAdapter</key>
+	<string>viewWorkStatus</string>
+	<key>sharedFragmentKind</key>
+	<string>remainderJobAcceleration</string>
+	<key>statefulVisitorContrast</key>
+	<string>pinchableTransitionContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOrAction</key>
+	<string>retainedDependencyBorder</string>
+	<key>drawerInsideStage</key>
+	<string>staticLayoutMode</string>
+	<key>specifierVersusPrototype</key>
+	<string>activeBorderOffset</string>
+	<key>specifyMissionOpacity</key>
+	<string>localizationValueName</string>
+	<key>synchronousRepositoryTheme</key>
+	<string>callbackFlyweightAlignment</string>
+	<key>tangentEnvironmentContrast</key>
+	<string>configurationPlatformHue</string>
+	<key>uniformTernaryFeedback</key>
+	<string>arithmeticReducerMode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilPattern</key>
+	<string>callbackLikeParam</string>
+	<key>customOffsetFeedback</key>
+	<string>titleCycleSpacing</string>
+	<key>deferredHistogramDepth</key>
+	<string>resultByVar</string>
+	<key>hardCubitOffset</key>
+	<string>pinchableChartDirection</string>
+	<key>offsetExceptActivity</key>
+	<string>beginnerLayerTag</string>
+	<key>presenterModeEdge</key>
+	<string>layerProxyOrigin</string>
+	<key>responseOperationInterval</key>
+	<string>finalNibShape</string>
+	<key>stateThroughTemple</key>
+	<string>nodeWithState</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInjectionTheme</key>
+	<string>positionedActionHead</string>
+	<key>displayableButtonResponse</key>
+	<string>gradientContainMediator</string>
+	<key>eventCompositeOrientation</key>
+	<string>factoryTaskFeedback</string>
+	<key>inactiveUsecaseStyle</key>
+	<string>reducerDespiteAdapter</string>
+	<key>storeTierPressure</key>
+	<string>memberExceptMemento</string>
+</dict>
+</plist>

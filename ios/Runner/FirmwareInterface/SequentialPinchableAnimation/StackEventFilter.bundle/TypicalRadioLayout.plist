@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintParameterDuration</key>
+	<string>logarithmAlongCycle</string>
+	<key>featureDuringTask</key>
+	<string>playbackBeyondChain</string>
+	<key>mapWithoutScope</key>
+	<string>segueInsideSystem</string>
+	<key>popupAgainstContext</key>
+	<string>commonPopupTail</string>
+	<key>positionAgainstPattern</key>
+	<string>spriteAboutActivity</string>
+	<key>specifierBufferPosition</key>
+	<string>roleContextDirection</string>
+	<key>statefulUtilValidation</key>
+	<string>logarithmContextHead</string>
+	<key>tweenPrototypeState</key>
+	<string>explicitDescriptionTransparency</string>
+	<key>widgetParamInteraction</key>
+	<string>singletonAboutProxy</string>
+</dict>
+</plist>

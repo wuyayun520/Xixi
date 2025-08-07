@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTypeShape</key>
+	<string>indicatorDuringForm</string>
+	<key>equipmentInStructure</key>
+	<string>largeTaskBorder</string>
+	<key>gestureFromType</key>
+	<string>mediocreModelFeedback</string>
+	<key>lazyGramFlags</key>
+	<string>aspectratioStateMargin</string>
+	<key>plateInMemento</key>
+	<string>heapCommandFeedback</string>
+	<key>segmentNumberFrequency</key>
+	<string>subtleStreamTint</string>
+	<key>sequentialNavigatorMode</key>
+	<string>transformerLikeTask</string>
+</dict>
+</plist>

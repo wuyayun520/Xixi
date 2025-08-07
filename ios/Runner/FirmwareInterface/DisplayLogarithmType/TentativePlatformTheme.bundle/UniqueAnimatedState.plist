@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStatelessAlignment</key>
+	<string>notifierAboutMode</string>
+	<key>dialogsPatternFeedback</key>
+	<string>gridLayerShade</string>
+	<key>gridviewForLayer</key>
+	<string>stampSinceOperation</string>
+	<key>localCertificateBottom</key>
+	<string>singletonActionLeft</string>
+	<key>repositoryBesideVisitor</key>
+	<string>cacheStageInset</string>
+	<key>uniformTabviewFrequency</key>
+	<string>euclideanNavigatorCount</string>
+</dict>
+</plist>

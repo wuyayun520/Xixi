@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayerValidation</key>
+	<string>anchorWithoutForm</string>
+	<key>constraintPatternFormat</key>
+	<string>clipperDuringMediator</string>
+	<key>coordinatorChainKind</key>
+	<string>metadataAndJob</string>
+	<key>geometricMasterKind</key>
+	<string>primaryAllocatorHue</string>
+	<key>modelChainSkewy</key>
+	<string>asyncOrStructure</string>
+	<key>resultDecoratorStyle</key>
+	<string>effectParameterBrightness</string>
+	<key>scrollableEffectInterval</key>
+	<string>logTierMode</string>
+	<key>spineEnvironmentStyle</key>
+	<string>histogramFacadeAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInterpreterOpacity</key>
+	<string>backwardLabelDepth</string>
+	<key>constraintSincePlatform</key>
+	<string>precisionAlongPlatform</string>
+	<key>equalizationSinceStrategy</key>
+	<string>statefulFormEdge</string>
+	<key>mapFlyweightTag</key>
+	<string>asynchronousClipperTint</string>
+	<key>nodeMediatorRight</key>
+	<string>effectByType</string>
+	<key>textfieldInAction</key>
+	<string>compositionTypeState</string>
+</dict>
+</plist>

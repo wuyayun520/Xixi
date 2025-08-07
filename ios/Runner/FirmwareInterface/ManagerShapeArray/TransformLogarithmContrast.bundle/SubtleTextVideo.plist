@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesForStyle</key>
+	<string>tickerJobStatus</string>
+	<key>constraintSystemSize</key>
+	<string>scrollableControllerTheme</string>
+	<key>deferredMenuVisible</key>
+	<string>reducerContainStructure</string>
+	<key>fusedTextureFeedback</key>
+	<string>dedicatedSizeTag</string>
+	<key>keyBufferDirection</key>
+	<string>grayscaleSingletonBound</string>
+	<key>previewFacadeBrightness</key>
+	<string>persistentScaffoldOrientation</string>
+	<key>primaryCompletionBound</key>
+	<string>channelsOrProxy</string>
+	<key>semanticDependencyTheme</key>
+	<string>borderFormTail</string>
+</dict>
+</plist>

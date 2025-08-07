@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPhaseType</key>
+	<string>brushStyleTag</string>
+	<key>cupertinoAsComposite</key>
+	<string>sortedAppbarInterval</string>
+	<key>finalUtilLocation</key>
+	<string>inactiveAlignmentStatus</string>
+	<key>layoutUntilMethod</key>
+	<string>memberFrameworkValidation</string>
+	<key>navigatorVisitorOrigin</key>
+	<string>collectionIncludeSingleton</string>
+	<key>timerInterpreterAcceleration</key>
+	<string>layerPrototypeOrientation</string>
+	<key>titleActionAlignment</key>
+	<string>menuAgainstForm</string>
+	<key>viewMethodColor</key>
+	<string>originalMetadataShape</string>
+</dict>
+</plist>

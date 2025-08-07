@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAgainstChain</key>
+	<string>particlePerStage</string>
+	<key>cellAndParameter</key>
+	<string>viewAmongNumber</string>
+	<key>interactorBeyondChain</key>
+	<string>eagerChecklistTheme</string>
+	<key>positionStructureOffset</key>
+	<string>resourceViaComposite</string>
+	<key>screenIncludeParameter</key>
+	<string>gateBufferOffset</string>
+	<key>sequentialSubscriptionVisibility</key>
+	<string>hashForShape</string>
+	<key>streamProxyPadding</key>
+	<string>labelOutsideSystem</string>
+	<key>tangentViaSystem</key>
+	<string>memberParamBehavior</string>
+	<key>textLayerResponse</key>
+	<string>autoEffectCount</string>
+</dict>
+</plist>

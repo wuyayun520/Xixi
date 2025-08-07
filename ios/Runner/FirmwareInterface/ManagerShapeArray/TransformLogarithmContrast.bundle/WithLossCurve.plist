@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTopicFlags</key>
+	<string>constraintPrototypeHead</string>
+	<key>numericalStreamCount</key>
+	<string>skirtAndBuffer</string>
+	<key>pinchableLabelSpeed</key>
+	<string>curveWorkFeedback</string>
+	<key>seamlessMemberVisible</key>
+	<string>mediaFromMode</string>
+	<key>workflowStructureAcceleration</key>
+	<string>liteFutureBound</string>
+</dict>
+</plist>

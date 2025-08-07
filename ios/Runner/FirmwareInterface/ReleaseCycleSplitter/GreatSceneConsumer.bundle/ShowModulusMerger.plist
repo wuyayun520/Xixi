@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStoreDensity</key>
+	<string>advancedFrameKind</string>
+	<key>featureInContext</key>
+	<string>operationEnvironmentSpeed</string>
+	<key>intermediateInterfaceFeedback</key>
+	<string>sequentialCupertinoBehavior</string>
+	<key>mainNavigationAppearance</key>
+	<string>callbackExceptFunction</string>
+	<key>seamlessTransitionBrightness</key>
+	<string>metadataBeyondChain</string>
+	<key>transitionSingletonShade</key>
+	<string>navigationCommandHead</string>
+	<key>webCatalystScale</key>
+	<string>alertPlatformDepth</string>
+</dict>
+</plist>

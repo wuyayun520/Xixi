@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRepositoryValidation</key>
+	<string>menuWorkStatus</string>
+	<key>consultativeExpandedIndex</key>
+	<string>titleTypePosition</string>
+	<key>futurePhaseStyle</key>
+	<string>liteIsolateEdge</string>
+	<key>independentButtonSpacing</key>
+	<string>painterShapeBrightness</string>
+	<key>kernelCycleSpacing</key>
+	<string>reactiveScrollEdge</string>
+	<key>semanticSignSpeed</key>
+	<string>requiredHeroContrast</string>
+	<key>signByComposite</key>
+	<string>decorationFromVariable</string>
+	<key>widgetOfVar</key>
+	<string>scaleTierSpeed</string>
+</dict>
+</plist>

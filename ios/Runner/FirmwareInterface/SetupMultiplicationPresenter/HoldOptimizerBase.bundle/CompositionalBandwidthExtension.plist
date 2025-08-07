@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerParameterOrientation</key>
+	<string>nativeTaskVelocity</string>
+	<key>heapInsidePrototype</key>
+	<string>playbackBridgeBorder</string>
+	<key>interpolationByLayer</key>
+	<string>symmetricStoreType</string>
+	<key>largeUsecaseInterval</key>
+	<string>crucialActionTail</string>
+	<key>nativeUtilTag</key>
+	<string>actionParamVisible</string>
+	<key>prevDurationRate</key>
+	<string>hashForNumber</string>
+</dict>
+</plist>

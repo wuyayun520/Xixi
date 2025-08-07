@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystOrPlatform</key>
+	<string>skinFrameworkValidation</string>
+	<key>navigationVariableFrequency</key>
+	<string>numericalQueryLeft</string>
+	<key>notificationCommandHead</key>
+	<string>singletonMementoResponse</string>
+	<key>positionPerContext</key>
+	<string>denseUsecaseTail</string>
+	<key>priorityContainScope</key>
+	<string>uniformProviderTheme</string>
+	<key>segueOrInterpreter</key>
+	<string>textureByType</string>
+	<key>smartTextureShape</key>
+	<string>ternaryThroughParameter</string>
+	<key>tickerForPlatform</key>
+	<string>borderAgainstMode</string>
+	<key>zoneByComposite</key>
+	<string>cellBeyondFacade</string>
+</dict>
+</plist>

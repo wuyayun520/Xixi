@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorOrVisitor</key>
+	<string>callbackChainSpeed</string>
+	<key>futureAgainstInterpreter</key>
+	<string>singletonVisitorBehavior</string>
+	<key>handlerOutsideEnvironment</key>
+	<string>callbackAroundParameter</string>
+	<key>localErrorSaturation</key>
+	<string>independentInterfaceStatus</string>
+	<key>providerUntilPattern</key>
+	<string>entropyJobMomentum</string>
+	<key>storeTempleTop</key>
+	<string>subscriptionCyclePosition</string>
+	<key>taskPerPattern</key>
+	<string>futureMethodShade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFromMediator</key>
+	<string>sceneByParam</string>
+	<key>directlyScreenDelay</key>
+	<string>requestNearNumber</string>
+	<key>frameCompositeTail</key>
+	<string>inactiveInterpolationTheme</string>
+	<key>intermediateDelegateVisibility</key>
+	<string>mobileResultOffset</string>
+	<key>lastResolverDirection</key>
+	<string>taskAtAdapter</string>
+	<key>momentumPhaseValidation</key>
+	<string>flexCompositePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleRequestInteraction</key>
+	<string>tweenFormScale</string>
+	<key>nibBeyondLayer</key>
+	<string>behaviorCommandOpacity</string>
+	<key>seamlessChapterShade</key>
+	<string>projectionFrameworkSkewy</string>
+	<key>webResolverTint</key>
+	<string>imagePhaseDelay</string>
+</dict>
+</plist>

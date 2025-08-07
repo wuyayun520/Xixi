@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTypeBorder</key>
+	<string>difficultCycleCenter</string>
+	<key>normOperationOrientation</key>
+	<string>eagerInstructionMode</string>
+	<key>notificationViaJob</key>
+	<string>usageCompositeBehavior</string>
+	<key>numericalDrawerInset</key>
+	<string>marginLevelType</string>
+	<key>presenterViaStrategy</key>
+	<string>petBridgeDensity</string>
+	<key>seamlessFeatureSize</key>
+	<string>diffableChannelsBound</string>
+	<key>statefulAroundPlatform</key>
+	<string>subpixelPlatformCoord</string>
+	<key>sustainableClipperRight</key>
+	<string>capsulePrototypeRotation</string>
+</dict>
+</plist>

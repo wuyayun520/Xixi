@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrProcess</key>
+	<string>switchActivityScale</string>
+	<key>constTableBehavior</key>
+	<string>asynchronousTimerSaturation</string>
+	<key>errorOutsideComposite</key>
+	<string>storyboardThanSingleton</string>
+	<key>finalExceptionPadding</key>
+	<string>interfacePerCycle</string>
+	<key>gateWithoutStage</key>
+	<string>tickerVisitorMargin</string>
+	<key>previewMementoInterval</key>
+	<string>cupertinoGradientAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,130 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Video 1",
+      "path": "assets/pk/video_1.mp4",
+      "filename": "video_1.mp4",
+      "likes": 1250,
+      "views": 15670
+    },
+    {
+      "id": 2,
+      "title": "Video 2",
+      "path": "assets/pk/video_2.mp4",
+      "filename": "video_2.mp4",
+      "likes": 2890,
+      "views": 32450
+    },
+    {
+      "id": 3,
+      "title": "Video 3",
+      "path": "assets/pk/video_3.mp4",
+      "filename": "video_3.mp4",
+      "likes": 4120,
+      "views": 48920
+    },
+    {
+      "id": 4,
+      "title": "Video 4",
+      "path": "assets/pk/video_4.mp4",
+      "filename": "video_4.mp4",
+      "likes": 3650,
+      "views": 41230
+    },
+    {
+      "id": 5,
+      "title": "Video 5",
+      "path": "assets/pk/video_5.mp4",
+      "filename": "video_5.mp4",
+      "likes": 2980,
+      "views": 35670
+    },
+    {
+      "id": 6,
+      "title": "Video 6",
+      "path": "assets/pk/video_6.mp4",
+      "filename": "video_6.mp4",
+      "likes": 1890,
+      "views": 31240
+    },
+    {
+      "id": 7,
+      "title": "Video 7",
+      "path": "assets/pk/video_7.mp4",
+      "filename": "video_7.mp4",
+      "likes": 1420,
+      "views": 18750
+    },
+    {
+      "id": 8,
+      "title": "Video 8",
+      "path": "assets/pk/video_8.mp4",
+      "filename": "video_8.mp4",
+      "likes": 1670,
+      "views": 20890
+    },
+    {
+      "id": 9,
+      "title": "Video 9",
+      "path": "assets/pk/video_9.mp4",
+      "filename": "video_9.mp4",
+      "likes": 1340,
+      "views": 17650
+    },
+    {
+      "id": 10,
+      "title": "Video 10",
+      "path": "assets/pk/video_10.mp4",
+      "filename": "video_10.mp4",
+      "likes": 4580,
+      "views": 52340
+    },
+    {
+      "id": 11,
+      "title": "Video 11",
+      "path": "assets/pk/video_11.mp4",
+      "filename": "video_11.mp4",
+      "likes": 3240,
+      "views": 38920
+    },
+    {
+      "id": 12,
+      "title": "Video 12",
+      "path": "assets/pk/video_12.mp4",
+      "filename": "video_12.mp4",
+      "likes": 1560,
+      "views": 19870
+    },
+    {
+      "id": 13,
+      "title": "Video 13",
+      "path": "assets/pk/video_13.mp4",
+      "filename": "video_13.mp4",
+      "likes": 1980,
+      "views": 24560
+    }
+  ],
+  "metadata": {
+    "totalVideos": 13,
+    "totalLikes": 32578,
+    "totalViews": 398287,
+    "averageLikes": 2506,
+    "averageViews": 30637,
+    "lastUpdated": "2024-01-27T10:30:00Z",
+    "categories": [
+      "entertainment",
+      "education", 
+      "tutorial",
+      "lifestyle",
+      "music",
+      "comedy",
+      "sports",
+      "travel",
+      "technology",
+      "food",
+      "art",
+      "nature"
+    ]
+  }
+} 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScreenSpeed</key>
+	<string>interpolationThroughAction</string>
+	<key>declarativeCheckboxName</key>
+	<string>mediocreRowBehavior</string>
+	<key>delegateJobMode</key>
+	<string>completionIncludeBuffer</string>
+	<key>gateIncludeAction</key>
+	<string>effectInterpreterSkewx</string>
+	<key>gridModeBound</key>
+	<string>dedicatedProviderContrast</string>
+	<key>rowPatternOffset</key>
+	<string>consultativePreviewPadding</string>
+</dict>
+</plist>

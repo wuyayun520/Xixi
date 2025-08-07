@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAwayPlatform</key>
+	<string>movementShapeDistance</string>
+	<key>controllerVersusAdapter</key>
+	<string>specifyRouterOrigin</string>
+	<key>movementModeRight</key>
+	<string>inheritedPrecisionSpeed</string>
+	<key>nodeCompositeSpeed</key>
+	<string>nodeDespiteEnvironment</string>
+	<key>prismaticProjectDuration</key>
+	<string>customizedLayoutKind</string>
+	<key>temporaryDependencySkewx</key>
+	<string>responsePerCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLogMomentum</key>
+	<string>timerOrChain</string>
+	<key>axisIncludeStrategy</key>
+	<string>interactiveTextfieldSpeed</string>
+	<key>nativeThreadSpacing</key>
+	<string>delegateSinceBridge</string>
+	<key>platePerVar</key>
+	<string>curveBeyondNumber</string>
+	<key>resizableHistogramSize</key>
+	<string>storeStageScale</string>
+	<key>resourceLikeProxy</key>
+	<string>fragmentAndKind</string>
+	<key>reusableMasterMode</key>
+	<string>techniqueBesideProcess</string>
+	<key>sequentialAssetColor</key>
+	<string>certificateInPrototype</string>
+	<key>webSceneDelay</key>
+	<string>specifierViaActivity</string>
+</dict>
+</plist>

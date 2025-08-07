@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedQueryBorder</key>
+	<string>serviceActionAppearance</string>
+	<key>apertureWithoutFlyweight</key>
+	<string>mobxFunctionContrast</string>
+	<key>disabledBinaryOffset</key>
+	<string>sessionCycleTheme</string>
+	<key>gateMethodAppearance</key>
+	<string>sizedboxCommandAlignment</string>
+	<key>interfaceModeTail</key>
+	<string>brushIncludeProxy</string>
+	<key>radiusAtCommand</key>
+	<string>interactiveConvolutionPosition</string>
+	<key>sizedboxDespiteLayer</key>
+	<string>subscriptionPerValue</string>
+	<key>spriteCycleAcceleration</key>
+	<string>previewAgainstState</string>
+</dict>
+</plist>

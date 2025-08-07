@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetEnvironmentIndex</key>
+	<string>sinkPerTask</string>
+	<key>documentOutsideOperation</key>
+	<string>interactiveInjectionKind</string>
+	<key>groupInType</key>
+	<string>nextTweenSaturation</string>
+	<key>layoutJobInset</key>
+	<string>playbackPlatformPressure</string>
+	<key>oldMobxKind</key>
+	<string>transitionCycleEdge</string>
+	<key>persistentCubitLeft</key>
+	<string>previewTempleScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintCompositeBottom</key>
+	<string>accordionAsyncTheme</string>
+	<key>curveStateSkewy</key>
+	<string>respectiveMediaStatus</string>
+	<key>independentSymbolHead</key>
+	<string>decorationByStage</string>
+	<key>listviewWithStrategy</key>
+	<string>fixedPreviewRate</string>
+	<key>lostExpandedScale</key>
+	<string>temporaryResponseValidation</string>
+	<key>positionedParamOpacity</key>
+	<string>contractionIncludeSingleton</string>
+	<key>spriteFacadeColor</key>
+	<string>resourceIncludeFlyweight</string>
+	<key>widgetShapeMargin</key>
+	<string>newestGateTransparency</string>
+</dict>
+</plist>

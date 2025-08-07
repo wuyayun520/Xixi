@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSubpixelOffset</key>
+	<string>tabviewCycleAcceleration</string>
+	<key>collectionPatternBottom</key>
+	<string>allocatorDecoratorShade</string>
+	<key>grayscalePrototypeEdge</key>
+	<string>usedCompositionState</string>
+	<key>localizationNearDecorator</key>
+	<string>arithmeticThroughStructure</string>
+	<key>mediaqueryContainProcess</key>
+	<string>ignoredCommandResponse</string>
+	<key>primaryRowOrigin</key>
+	<string>geometricTickerFrequency</string>
+	<key>rapidMenuRate</key>
+	<string>navigatorTaskShape</string>
+	<key>requestThroughLayer</key>
+	<string>similarGesturedetectorFlags</string>
+	<key>tensorExtensionOffset</key>
+	<string>autoFeatureBrightness</string>
+	<key>tickerWorkShade</key>
+	<string>channelNearAction</string>
+</dict>
+</plist>

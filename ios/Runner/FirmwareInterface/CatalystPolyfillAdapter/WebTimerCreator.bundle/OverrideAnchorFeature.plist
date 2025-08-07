@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorUntilComposite</key>
+	<string>containerAsShape</string>
+	<key>animatedResourceRate</key>
+	<string>subpixelSinceJob</string>
+	<key>criticalStoryboardBrightness</key>
+	<string>workflowPerDecorator</string>
+	<key>greatCatalystInterval</key>
+	<string>spineFlyweightBorder</string>
+	<key>imperativePlateVisibility</key>
+	<string>explicitCardHead</string>
+	<key>nodeSystemResponse</key>
+	<string>granularApertureMomentum</string>
+	<key>resourceStageOpacity</key>
+	<string>scrollableScrollFeedback</string>
+	<key>stateWithVisitor</key>
+	<string>navigatorOfWork</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasOrTier</key>
+	<string>allocatorVisitorFormat</string>
+	<key>eagerModelSpeed</key>
+	<string>gemPerValue</string>
+	<key>globalPageviewScale</key>
+	<string>typicalPrecisionSkewy</string>
+	<key>layerInProcess</key>
+	<string>observerAgainstVariable</string>
+	<key>smallSignatureLeft</key>
+	<string>segueSinceDecorator</string>
+	<key>symbolDuringVisitor</key>
+	<string>bulletFlyweightResponse</string>
+</dict>
+</plist>

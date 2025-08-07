@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCardStyle</key>
+	<string>euclideanChallengeTransparency</string>
+	<key>layerLevelDistance</key>
+	<string>descriptionPlatformColor</string>
+	<key>logPerSingleton</key>
+	<string>utilIncludeCommand</string>
+	<key>mediumManagerSkewy</key>
+	<string>descriptionObserverShape</string>
+	<key>permissiveUsecaseBound</key>
+	<string>controllerEnvironmentSize</string>
+	<key>prismaticCurveStatus</key>
+	<string>completerSingletonTransparency</string>
+	<key>relationalServiceAcceleration</key>
+	<string>coordinatorThroughForm</string>
+</dict>
+</plist>

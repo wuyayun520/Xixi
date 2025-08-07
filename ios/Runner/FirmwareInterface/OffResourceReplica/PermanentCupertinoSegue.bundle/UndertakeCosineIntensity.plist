@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityParameterAcceleration</key>
+	<string>gestureMediatorType</string>
+	<key>borderStyleName</key>
+	<string>keyCurveTension</string>
+	<key>catalystPerAction</key>
+	<string>layerByStructure</string>
+	<key>concurrentRequestMode</key>
+	<string>rectJobShape</string>
+	<key>momentumVarSize</key>
+	<string>originalDecorationResponse</string>
+	<key>pinchableViewAcceleration</key>
+	<string>controllerFacadeInterval</string>
+	<key>specifierAdapterInteraction</key>
+	<string>basicControllerTension</string>
+	<key>symbolContextDepth</key>
+	<string>blocAlongParameter</string>
+	<key>tangentBesideState</key>
+	<string>channelOutsideAction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiProgressbarBehavior</key>
+	<string>layoutFacadeInset</string>
+	<key>nativeLayerPadding</key>
+	<string>finalPainterShade</string>
+	<key>querySystemTheme</key>
+	<string>responseAboutLevel</string>
+	<key>signDespiteMethod</key>
+	<string>graphicBufferRotation</string>
+	<key>sinkForCommand</key>
+	<string>usedSemanticsStatus</string>
+	<key>widgetInPlatform</key>
+	<string>oldChapterAppearance</string>
+</dict>
+</plist>

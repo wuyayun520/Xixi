@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureScopeInterval</key>
+	<string>intensityBufferContrast</string>
+	<key>modulusWorkFeedback</key>
+	<string>featureInContext</string>
+	<key>mutableCallbackOrientation</key>
+	<string>numericalScrollOpacity</string>
+	<key>navigatorDespiteState</key>
+	<string>immutableChapterDuration</string>
+	<key>overlayContainMemento</key>
+	<string>consumerLayerVelocity</string>
+	<key>responseBesideObserver</key>
+	<string>techniqueBesideActivity</string>
+	<key>singleTimerMargin</key>
+	<string>constDecorationSpeed</string>
+	<key>subtleNibDelay</key>
+	<string>draggableBoxValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,235 @@
+{
+  "event": {
+    "title": "International Street Dance Festival 2025",
+    "subtitle": "Where Urban Culture Meets Athletic Excellence",
+    "date": "2025-08-09",
+    "time": "10:00 AM - 10:00 PM",
+    "location": "International Dance Arena",
+    "address": "Downtown Cultural District, Metro City",
+    "description": "A comprehensive street dance competition and showcase featuring various dance styles including breaking, popping, locking, and hip-hop choreography. Experience the raw energy, creativity, and athletic prowess of the world's most talented street dancers.",
+    "highlights": [
+      "International competitors from 15+ countries",
+      "Live DJ performances and beats",
+      "Professional judges panel",
+      "Cash prizes and trophies",
+      "Interactive workshops",
+      "Food trucks and vendor market"
+    ]
+  },
+  "activities": [
+    {
+      "id": "act_1",
+      "image_path": "assets/eve/act_1.jpg",
+      "type": "Breaking Battle",
+      "title": "Underground Cypher Showdown",
+      "description": "Competitive breaking battle with professional lighting and stage setup. Watch as b-boys throw down their most explosive power moves and intricate footwork in this high-energy competition that captures the essence of street dance culture.",
+      "participants": "Professional B-boys from around the globe",
+      "venue": "Main Competition Stage",
+      "time_slot": "2:00 PM - 4:00 PM",
+      "prize_pool": "$5,000 USD",
+      "difficulty_level": "Expert",
+      "features": ["Professional stage lighting", "Audience seating for 500+", "Competition format", "Live streaming", "DJ battle beats"],
+      "atmosphere": "Electric energy with crowd cheering and intense competition"
+    },
+    {
+      "id": "act_2",
+      "image_path": "assets/eve/act_2.jpg", 
+      "type": "Breaking Performance",
+      "title": "Solo Spotlight Showcase",
+      "description": "Solo breaking performance with dramatic stage lighting. A mesmerizing display of individual artistry where each dancer tells their unique story through movement, combining technical mastery with creative expression.",
+      "participants": "Featured solo performers and guest artists",
+      "venue": "Performance Stage",
+      "time_slot": "7:30 PM - 8:30 PM",
+      "difficulty_level": "Professional",
+      "features": ["Dramatic lighting effects", "Solo showcase format", "Artistic presentation", "Original choreography", "Live music accompaniment"],
+      "atmosphere": "Intimate and artistic with focused attention on individual expression"
+    },
+    {
+      "id": "act_3",
+      "image_path": "assets/eve/act_3.jpg",
+      "type": "Hip-Hop Dance",
+      "title": "Urban Groove Revolution",
+      "description": "Dynamic hip-hop dance performance with energetic movements. Experience the evolution of hip-hop culture through powerful choreography that blends old-school foundations with contemporary innovation.",
+      "participants": "Rising female hip-hop artists and choreographers",
+      "venue": "Black Box Theater",
+      "time_slot": "1:00 PM - 2:00 PM",
+      "difficulty_level": "Intermediate to Advanced",
+      "features": ["High energy movements", "Contemporary styling", "Expressive choreography", "Fashion-forward costumes", "Interactive audience moments"],
+      "atmosphere": "Empowering and energetic with strong female representation"
+    },
+    {
+      "id": "act_4",
+      "image_path": "assets/eve/act_4.jpg",
+      "type": "Breaking - Freeze",
+      "title": "Gravity-Defying Freeze Battle",
+      "description": "Outdoor breaking session demonstrating freeze techniques. Witness incredible displays of strength, balance, and creativity as dancers hold impossible positions that seem to defy the laws of physics.",
+      "participants": "Specialized freeze masters and power move experts",
+      "venue": "Outdoor Practice Arena",
+      "time_slot": "11:00 AM - 12:00 PM",
+      "difficulty_level": "Advanced",
+      "features": ["Outdoor natural lighting", "Technical skill focus", "Freeze position mastery", "Strength demonstrations", "Educational commentary"],
+      "atmosphere": "Raw and authentic street culture experience"
+    },
+    {
+      "id": "act_5",
+      "image_path": "assets/eve/act_5.jpg",
+      "type": "Breaking Battle",
+      "title": "Traditional Cypher Championship",
+      "description": "Competitive breaking battle in traditional cypher format. Experience the authentic roots of breaking culture where dancers form a circle and take turns showcasing their skills in an organic, community-driven format.",
+      "participants": "International b-boy crews and solo competitors",
+      "venue": "Community Competition Floor",
+      "time_slot": "4:30 PM - 6:00 PM",
+      "prize_pool": "$3,000 USD",
+      "difficulty_level": "All levels welcome",
+      "features": ["Traditional cypher format", "Community audience circle", "Competitive atmosphere", "Cultural authenticity", "Spontaneous battles"],
+      "atmosphere": "Authentic street culture with community spirit and respect"
+    },
+    {
+      "id": "act_6",
+      "image_path": "assets/eve/act_6.jpg",
+      "type": "Breaking - Headstand",
+      "title": "Master Class: Advanced Head Techniques",
+      "description": "Advanced breaking technique demonstration with headstand variations. Learn from world-renowned masters as they break down the most challenging head-based moves and share the secrets behind years of dedicated practice.",
+      "participants": "World champion head spin specialists and master instructors",
+      "venue": "Workshop Studio",
+      "time_slot": "10:30 AM - 11:30 AM",
+      "difficulty_level": "Expert",
+      "workshop_fee": "$25 USD",
+      "features": ["Advanced technique instruction", "Headstand skill development", "Technical precision training", "Safety guidelines", "Personal feedback"],
+      "atmosphere": "Educational and intensive with focused learning environment"
+    },
+    {
+      "id": "act_7",
+      "image_path": "assets/eve/act_7.jpg",
+      "type": "Breaking - Power Moves",
+      "title": "Urban Athletics: Power Move Spectacular",
+      "description": "Dynamic power move execution in urban setting. Witness the incredible athleticism and raw power as dancers perform windmills, flares, and other gravity-defying moves against the backdrop of urban architecture.",
+      "participants": "Elite power move specialists and athletic dancers",
+      "venue": "Urban Concrete Performance Space",
+      "time_slot": "3:00 PM - 4:00 PM",
+      "difficulty_level": "Expert",
+      "features": ["High-impact power moves", "Urban environment integration", "Athletic performance showcase", "Architectural backdrop", "Extreme skill demonstration"],
+      "atmosphere": "Intense and awe-inspiring with urban edge"
+    },
+    {
+      "id": "act_8",
+      "image_path": "assets/eve/act_8.jpg",
+      "type": "Breaking Competition",
+      "title": "Championship Finals 2025",
+      "description": "Formal breaking competition with judges and scoring. The ultimate showdown where only the best of the best compete for the championship title, with professional judging, official scoring, and prestigious recognition.",
+      "participants": "Top 16 qualified competitors from preliminary rounds",
+      "venue": "Championship Arena with Official Judging Panel",
+      "time_slot": "8:30 PM - 10:00 PM",
+      "prize_pool": "$10,000 USD + Trophy + Title",
+      "difficulty_level": "Championship Level",
+      "features": ["Official competition format", "International judging panel", "Professional setup", "Live broadcast", "Championship ceremony"],
+      "atmosphere": "Prestigious and competitive with championship stakes"
+    },
+    {
+      "id": "act_9",
+      "image_path": "assets/eve/act_9.jpg",
+      "type": "Breaking Battle",
+      "title": "Prime Time Battle Royale",
+      "description": "Intense breaking battle with stage lighting and audience. The most anticipated event of the day featuring explosive battles, surprise guest appearances, and non-stop action that keeps the crowd on their feet.",
+      "participants": "Celebrity dancers and international champions",
+      "venue": "Main Stage with Premium Production",
+      "time_slot": "6:30 PM - 7:30 PM",
+      "ticket_price": "VIP Section Available",
+      "difficulty_level": "World Class",
+      "features": ["Premium stage production", "Live audience interaction", "Professional lighting design", "Celebrity appearances", "Social media streaming"],
+      "atmosphere": "High-energy spectacle with celebrity excitement"
+    },
+    {
+      "id": "act_10",
+      "image_path": "assets/eve/act_10.jpg",
+      "type": "Parkour/Freerunning",
+      "title": "Urban Movement Mastery",
+      "description": "Urban movement and parkour demonstration showcasing the art of moving through urban environments with fluidity, creativity, and precision. Watch as athletes transform the cityscape into their playground.",
+      "participants": "Professional traceurs and freerunning athletes",
+      "venue": "Urban Architectural Playground",
+      "time_slot": "12:30 PM - 1:30 PM",
+      "difficulty_level": "Advanced",
+      "features": ["Urban environment utilization", "Architectural obstacle navigation", "Athletic skill demonstration", "Creative movement flow", "Safety technique education"],
+      "atmosphere": "Adventurous and inspiring with urban exploration spirit"
+    },
+    {
+      "id": "act_11",
+      "image_path": "assets/eve/act_11.jpg",
+      "type": "Group Hip-Hop Performance",
+      "title": "Community Unity Dance Celebration",
+      "description": "Synchronized group hip-hop choreography in public space bringing together dancers of all backgrounds in a celebration of unity, diversity, and the power of dance to connect communities across cultural boundaries.",
+      "participants": "Community dance groups and local crews",
+      "venue": "Central Public Plaza",
+      "time_slot": "5:00 PM - 6:00 PM",
+      "entry": "Free public event",
+      "difficulty_level": "All levels",
+      "features": ["Mass participation choreography", "Public accessibility", "Synchronized group movements", "Community involvement", "Cultural celebration"],
+      "atmosphere": "Inclusive and joyful with strong community spirit"
+    }
+  ],
+  "event_details": {
+    "total_activities": 11,
+    "total_images": 11,
+    "dance_styles": [
+      "Breaking/B-boying",
+      "Hip-Hop Dance", 
+      "Parkour/Freerunning"
+    ],
+    "venues": [
+      "Professional competition stages",
+      "Urban outdoor spaces", 
+      "Practice studios",
+      "Public plazas",
+      "Workshop facilities"
+    ],
+    "participants": {
+      "total_estimated": "200+ performers and 1000+ attendees",
+      "countries_represented": "15+",
+      "skill_levels": ["Beginner", "Intermediate", "Advanced", "Professional", "World Class"],
+      "demographics": "Mixed age groups and genders from diverse cultural backgrounds",
+      "special_guests": "International champions and celebrity dancers"
+    },
+    "event_format": {
+      "competitions": true,
+      "showcases": true,
+      "workshops": true,
+      "public_performances": true,
+      "masterclasses": true,
+      "community_events": true
+    },
+    "prizes_and_awards": {
+      "total_prize_pool": "$18,000+ USD",
+      "trophies": "Custom designed championship trophies",
+      "recognition": "International ranking points and certifications",
+      "special_awards": ["Best Style", "Most Creative", "People's Choice", "Rising Star"]
+    }
+  },
+  "media_and_coverage": {
+    "live_streaming": "Available on multiple platforms",
+    "photography": "Professional event photography included",
+    "social_media": "#StreetDanceFest2025 #BreakingChampionship",
+    "press_coverage": "International dance media and local news outlets"
+  },
+  "facilities_and_amenities": {
+    "food_and_beverage": "Food trucks, local vendors, and refreshment stands",
+    "merchandise": "Official event merchandise and artist goods",
+    "accessibility": "Wheelchair accessible venues and facilities",
+    "parking": "Available with shuttle service to venue"
+  },
+  "safety_and_guidelines": {
+    "age_requirements": "All ages welcome with parental supervision for minors",
+    "safety_measures": "Professional safety staff and medical personnel on-site",
+    "code_of_conduct": "Respectful behavior and sportsmanship expected from all participants",
+    "equipment_safety": "All performance areas inspected and maintained to safety standards"
+  },
+  "metadata": {
+    "created_date": "2025-01-08",
+    "last_updated": "2025-01-08",
+    "data_source": "Comprehensive image analysis of street dance activities",
+    "image_count": 11,
+    "image_format": "JPG",
+    "analysis_confidence": "High - based on detailed visual evidence from multiple activity photos",
+    "content_rating": "Family-friendly with parental guidance for younger children",
+    "app_store_compliance": "Content reviewed for App Store guidelines compliance"
+  }
+} 

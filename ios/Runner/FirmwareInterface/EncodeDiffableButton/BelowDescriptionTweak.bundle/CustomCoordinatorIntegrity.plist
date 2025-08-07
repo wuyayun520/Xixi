@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianConstraintCount</key>
+	<string>actionInState</string>
+	<key>drawerLevelFlags</key>
+	<string>cellAroundMemento</string>
+	<key>expandedPerEnvironment</key>
+	<string>memberAroundParam</string>
+	<key>featureAroundPrototype</key>
+	<string>lossProxySkewx</string>
+	<key>fixedInteractorInteraction</key>
+	<string>protectedPointAppearance</string>
+	<key>inactiveLayoutMode</key>
+	<string>masterObserverBorder</string>
+	<key>presenterThanOperation</key>
+	<string>providerThroughAdapter</string>
+	<key>sliderInterpreterFlags</key>
+	<string>aspectShapeVisible</string>
+	<key>subtleMenuVisibility</key>
+	<string>comprehensiveContainerFrequency</string>
+</dict>
+</plist>

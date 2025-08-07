@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDuringSystem</key>
+	<string>transformerWithLayer</string>
+	<key>descriptorTypeInteraction</key>
+	<string>unactivatedCubitFlags</string>
+	<key>inheritedAsyncOffset</key>
+	<string>sceneParameterScale</string>
+	<key>menuSinceCommand</key>
+	<string>configurationActivitySkewx</string>
+	<key>modelLikeWork</key>
+	<string>denseTaskDuration</string>
+	<key>robustModelShade</key>
+	<string>stateStructureBehavior</string>
+	<key>zoneViaSystem</key>
+	<string>grainAroundValue</string>
+</dict>
+</plist>

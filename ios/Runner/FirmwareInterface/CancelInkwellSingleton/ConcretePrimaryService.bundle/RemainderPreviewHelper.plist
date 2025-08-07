@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedQueueCount</key>
+	<string>subpixelParameterFlags</string>
+	<key>allocatorSingletonDensity</key>
+	<string>brushSystemLocation</string>
+	<key>diffableGrayscaleInset</key>
+	<string>brushForPattern</string>
+	<key>heapContextAppearance</key>
+	<string>fusedTransitionSize</string>
+	<key>hierarchicalThreadFlags</key>
+	<string>checklistAlongBridge</string>
+	<key>loopDecoratorFeedback</key>
+	<string>ternaryViaVisitor</string>
+</dict>
+</plist>

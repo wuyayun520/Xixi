@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePerFlyweight</key>
+	<string>lazyExtensionShade</string>
+	<key>cursorActionValidation</key>
+	<string>observerOfShape</string>
+	<key>delegateNearLayer</key>
+	<string>flexibleInjectionLocation</string>
+	<key>immutableInjectionTransparency</key>
+	<string>allocatorSinceAdapter</string>
+	<key>routerStyleLeft</key>
+	<string>requestWithoutStructure</string>
+	<key>similarPositionValidation</key>
+	<string>subsequentMonsterBehavior</string>
+	<key>sineMementoSpacing</key>
+	<string>smallManagerOrientation</string>
+	<key>symmetricNibBehavior</key>
+	<string>convolutionInKind</string>
+	<key>zoneViaDecorator</key>
+	<string>animationMediatorBehavior</string>
+</dict>
+</plist>

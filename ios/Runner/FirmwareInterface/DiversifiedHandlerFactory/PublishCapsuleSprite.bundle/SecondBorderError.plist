@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateControllerCount</key>
+	<string>declarativeInterfaceVisibility</string>
+	<key>localConstraintTheme</key>
+	<string>positionPerType</string>
+	<key>resilientOverlayAlignment</key>
+	<string>petModeDistance</string>
+	<key>storeActionCount</key>
+	<string>popupKindSpeed</string>
+</dict>
+</plist>

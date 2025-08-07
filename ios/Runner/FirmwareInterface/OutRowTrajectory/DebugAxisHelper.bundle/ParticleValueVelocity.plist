@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsFromPhase</key>
+	<string>eventProxyPosition</string>
+	<key>entityObserverSize</key>
+	<string>persistentExpandedMargin</string>
+	<key>resourceFlyweightKind</key>
+	<string>dynamicIconMargin</string>
+	<key>responsiveMomentumBrightness</key>
+	<string>collectionMediatorOrientation</string>
+	<key>sequentialChapterDirection</key>
+	<string>appbarWithoutStage</string>
+	<key>symmetricStreamMomentum</key>
+	<string>asyncWithoutProcess</string>
+</dict>
+</plist>

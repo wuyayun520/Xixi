@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelJobPosition</key>
+	<string>staticMarginTail</string>
+	<key>cursorParamRotation</key>
+	<string>baselineModeShade</string>
+	<key>decorationPatternOrientation</key>
+	<string>dedicatedStorageBottom</string>
+	<key>easyConvolutionState</key>
+	<string>ephemeralResourceAppearance</string>
+	<key>positionedStructureSpacing</key>
+	<string>fusedRectBound</string>
+	<key>relationalAccessoryRotation</key>
+	<string>projectAwayEnvironment</string>
+	<key>sceneOrSingleton</key>
+	<string>mobxThanFlyweight</string>
+	<key>statefulAdapterBound</key>
+	<string>buttonSinceStrategy</string>
+	<key>subscriptionNearAdapter</key>
+	<string>channelsScopeAcceleration</string>
+	<key>temporaryActionVisibility</key>
+	<string>skinInDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStrategyVisible</key>
+	<string>asyncAssetSpacing</string>
+	<key>compositionalTabbarShade</key>
+	<string>paddingBeyondTemple</string>
+	<key>desktopShaderBrightness</key>
+	<string>lazySegueDirection</string>
+	<key>layoutPhaseDirection</key>
+	<string>robustSessionShade</string>
+	<key>mainGroupPosition</key>
+	<string>mediumAppbarSkewx</string>
+	<key>materialClipperShade</key>
+	<string>skinAndPlatform</string>
+	<key>primaryCellOrigin</key>
+	<string>offsetCycleMomentum</string>
+	<key>relationalTextfieldOffset</key>
+	<string>cacheOutsideMediator</string>
+	<key>routerMementoPadding</key>
+	<string>uniqueRectFormat</string>
+	<key>screenScopeName</key>
+	<string>durationAboutEnvironment</string>
+</dict>
+</plist>

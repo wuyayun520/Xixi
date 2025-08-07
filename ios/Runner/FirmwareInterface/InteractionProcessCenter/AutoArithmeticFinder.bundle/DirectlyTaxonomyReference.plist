@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPrototypeShape</key>
+	<string>responsiveNodeStatus</string>
+	<key>displayablePrecisionOrigin</key>
+	<string>storageJobSize</string>
+	<key>enabledCoordinatorShape</key>
+	<string>transitionContainLevel</string>
+	<key>entityLevelSpacing</key>
+	<string>zoneNumberSpeed</string>
+	<key>previewPatternSpeed</key>
+	<string>lastProviderSkewy</string>
+	<key>sizedboxWithStage</key>
+	<string>baselineDecoratorEdge</string>
+	<key>zoneParameterRate</key>
+	<string>tweenStateBorder</string>
+</dict>
+</plist>

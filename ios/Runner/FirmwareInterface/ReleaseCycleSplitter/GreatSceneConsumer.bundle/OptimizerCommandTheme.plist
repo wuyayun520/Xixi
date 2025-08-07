@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMomentumFlags</key>
+	<string>signatureFacadeState</string>
+	<key>commonCommandHue</key>
+	<string>mainActivityLeft</string>
+	<key>custompaintStrategyDistance</key>
+	<string>notificationEnvironmentInset</string>
+	<key>loopStyleHue</key>
+	<string>graphEnvironmentHue</string>
+	<key>scrollableStackTop</key>
+	<string>containerInKind</string>
+	<key>staticGateCount</key>
+	<string>tappableMediaTint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleCellInteraction</key>
+	<string>immutableTopicMargin</string>
+	<key>globalOverlayBehavior</key>
+	<string>normalBuilderDepth</string>
+	<key>listenerFromBuffer</key>
+	<string>resourceVersusType</string>
+	<key>resilientDelegateLeft</key>
+	<string>managerViaPrototype</string>
+	<key>scaffoldKindTheme</key>
+	<string>lazySpriteOrientation</string>
+	<key>sortedCheckboxHue</key>
+	<string>stateFromActivity</string>
+	<key>tappableDescriptorOpacity</key>
+	<string>mainBitrateOffset</string>
+</dict>
+</plist>

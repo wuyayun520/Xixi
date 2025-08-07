@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTouchTheme</key>
+	<string>smartEffectDuration</string>
+	<key>containerDespiteValue</key>
+	<string>tabbarFrameworkCoord</string>
+	<key>euclideanRiverpodTransparency</key>
+	<string>inkwellAdapterCount</string>
+	<key>tickerWorkMode</key>
+	<string>enabledRouteMomentum</string>
+	<key>visibleConfigurationRight</key>
+	<string>workflowSinceBridge</string>
+</dict>
+</plist>

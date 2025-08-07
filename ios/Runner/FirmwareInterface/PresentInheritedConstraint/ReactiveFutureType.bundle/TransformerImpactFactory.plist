@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSensorAcceleration</key>
+	<string>singletonAtObserver</string>
+	<key>durationVariableSpeed</key>
+	<string>layerChainSpacing</string>
+	<key>publicChapterPosition</key>
+	<string>draggablePreviewCenter</string>
+	<key>routeNumberLeft</key>
+	<string>stateOfAction</string>
+	<key>storyboardPlatformBottom</key>
+	<string>cardUntilVisitor</string>
+</dict>
+</plist>

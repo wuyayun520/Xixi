@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOrCycle</key>
+	<string>accessoryBeyondObserver</string>
+	<key>assetIncludeProxy</key>
+	<string>widgetPerStyle</string>
+	<key>cycleInsideScope</key>
+	<string>sliderAgainstTask</string>
+	<key>keyCellSaturation</key>
+	<string>activeEntityBrightness</string>
+	<key>labelTemplePressure</key>
+	<string>asyncAroundProxy</string>
+	<key>resizableBlocEdge</key>
+	<string>queryAboutVisitor</string>
+</dict>
+</plist>

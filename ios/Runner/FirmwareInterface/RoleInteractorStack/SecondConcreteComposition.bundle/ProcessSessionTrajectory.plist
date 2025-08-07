@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAboutTier</key>
+	<string>nodePerPrototype</string>
+	<key>disparateBoxOffset</key>
+	<string>variantFromSystem</string>
+	<key>sliderInsideMethod</key>
+	<string>methodUntilNumber</string>
+	<key>spriteProcessTop</key>
+	<string>desktopRectSize</string>
+</dict>
+</plist>

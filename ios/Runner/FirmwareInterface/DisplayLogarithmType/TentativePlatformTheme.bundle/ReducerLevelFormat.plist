@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferForStrategy</key>
+	<string>specifyTextfieldPadding</string>
+	<key>constraintNearMediator</key>
+	<string>logDespiteContext</string>
+	<key>loopOrComposite</key>
+	<string>tickerPrototypeForce</string>
+	<key>matrixOutsideContext</key>
+	<string>threadTempleBorder</string>
+	<key>memberSingletonSpacing</key>
+	<string>mobileByPlatform</string>
+	<key>precisionVariableAlignment</key>
+	<string>interactorThanParam</string>
+	<key>retainedConstraintFeedback</key>
+	<string>injectionIncludeType</string>
+</dict>
+</plist>

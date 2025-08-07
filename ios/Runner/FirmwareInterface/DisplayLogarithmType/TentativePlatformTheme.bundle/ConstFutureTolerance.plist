@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptValue</key>
+	<string>lazySingletonIndex</string>
+	<key>equalizationFrameworkMode</key>
+	<string>loopAndVariable</string>
+	<key>fragmentDecoratorLocation</key>
+	<string>positionedAtLayer</string>
+	<key>geometricRouteOffset</key>
+	<string>rowFunctionState</string>
+	<key>musicPerLevel</key>
+	<string>loopAboutProxy</string>
+	<key>sinkOutsideType</key>
+	<string>basicUtilCoord</string>
+	<key>statelessNavigatorPadding</key>
+	<string>asyncTaskCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRiverpodBottom</key>
+	<string>tweenBeyondMediator</string>
+	<key>basicIconDuration</key>
+	<string>intermediateOptionHue</string>
+	<key>constraintTypeDistance</key>
+	<string>popupWithFacade</string>
+	<key>disabledParticlePadding</key>
+	<string>activityUntilPlatform</string>
+	<key>metadataTaskDistance</key>
+	<string>animationThroughMemento</string>
+	<key>rectNearSystem</key>
+	<string>coordinatorOperationTint</string>
+	<key>segueIncludeTier</key>
+	<string>routerAlongForm</string>
+	<key>serviceForAction</key>
+	<string>largeTickerInteraction</string>
+	<key>tappableSensorEdge</key>
+	<string>batchFunctionLeft</string>
+</dict>
+</plist>

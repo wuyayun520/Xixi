@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnSingletonBehavior</key>
+	<string>offsetDecoratorScale</string>
+	<key>composableGemVisible</key>
+	<string>mobileAdapterAppearance</string>
+	<key>declarativeEventPosition</key>
+	<string>resilientTaskIndex</string>
+	<key>futureActivityResponse</key>
+	<string>sizedboxStrategyContrast</string>
+	<key>missedBatchSaturation</key>
+	<string>opaqueAnimationDirection</string>
+	<key>richtextWithoutPrototype</key>
+	<string>sinkActionMargin</string>
+	<key>rowAsShape</key>
+	<string>fragmentProcessTransparency</string>
+	<key>singleFrameSaturation</key>
+	<string>completerWithMediator</string>
+	<key>textExceptKind</key>
+	<string>crucialChapterIndex</string>
+	<key>transformerBufferVelocity</key>
+	<string>cubitPrototypeDepth</string>
+</dict>
+</plist>

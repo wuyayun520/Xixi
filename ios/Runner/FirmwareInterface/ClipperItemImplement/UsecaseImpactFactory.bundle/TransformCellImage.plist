@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAmongStructure</key>
+	<string>reductionChainRate</string>
+	<key>asynchronousAnimationSkewy</key>
+	<string>integerLevelVisible</string>
+	<key>commandObserverBorder</key>
+	<string>independentDurationFeedback</string>
+	<key>controllerTierDirection</key>
+	<string>hierarchicalCupertinoVelocity</string>
+	<key>heroInsideWork</key>
+	<string>statefulQueryAlignment</string>
+	<key>operationFromMode</key>
+	<string>robustTitleTint</string>
+	<key>spriteContextDuration</key>
+	<string>reducerNearWork</string>
+	<key>stampInBridge</key>
+	<string>isolateVersusAdapter</string>
+	<key>topicAwayForm</key>
+	<string>statefulMemberTension</string>
+	<key>widgetVersusLayer</key>
+	<string>positionedForObserver</string>
+</dict>
+</plist>

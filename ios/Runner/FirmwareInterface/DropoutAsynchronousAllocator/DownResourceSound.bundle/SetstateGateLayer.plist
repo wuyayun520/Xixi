@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBesideNumber</key>
+	<string>channelAtMode</string>
+	<key>aspectratioCycleResponse</key>
+	<string>standaloneGrainCount</string>
+	<key>channelMediatorRotation</key>
+	<string>mediaWorkHue</string>
+	<key>directlyAppbarName</key>
+	<string>layoutAwayEnvironment</string>
+	<key>mobileSizedboxSpeed</key>
+	<string>diversifiedFeatureBehavior</string>
+	<key>overlayStageOffset</key>
+	<string>captionTypeMargin</string>
+	<key>routerVarSkewx</key>
+	<string>utilScopeFrequency</string>
+	<key>specifyGestureSkewx</key>
+	<string>localizationFacadeFlags</string>
+	<key>storageSinceEnvironment</key>
+	<string>unsortedGridSize</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxMethodRate</key>
+	<string>unactivatedRadioCount</string>
+	<key>configurationScopeAlignment</key>
+	<string>viewThroughLevel</string>
+	<key>imageMediatorTheme</key>
+	<string>compositionExceptComposite</string>
+	<key>layoutExceptMemento</key>
+	<string>hierarchicalResourceColor</string>
+	<key>pointSinceOperation</key>
+	<string>rowOrNumber</string>
+	<key>resultSinceValue</key>
+	<string>persistentIsolateTint</string>
+	<key>smartStoreColor</key>
+	<string>vectorScopeRight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRemainderFeedback</key>
+	<string>callbackStyleTint</string>
+	<key>futureStructureStyle</key>
+	<string>tickerWithoutMediator</string>
+	<key>intermediateLabelFormat</key>
+	<string>immediateAlphaEdge</string>
+	<key>lastButtonOpacity</key>
+	<string>cacheObserverResponse</string>
+	<key>precisionWithVariable</key>
+	<string>uniformSizeLeft</string>
+	<key>routerEnvironmentStyle</key>
+	<string>sceneUntilFlyweight</string>
+	<key>semanticsViaTier</key>
+	<string>requestOutsideVariable</string>
+</dict>
+</plist>

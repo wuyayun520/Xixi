@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBesideComposite</key>
+	<string>priorContainerContrast</string>
+	<key>commandAsShape</key>
+	<string>buttonProxyOrigin</string>
+	<key>constraintPhaseOrientation</key>
+	<string>cardAroundProcess</string>
+	<key>durationLikePrototype</key>
+	<string>enabledNavigatorInteraction</string>
+	<key>exceptionObserverPressure</key>
+	<string>routerOfTemple</string>
+	<key>flexibleProgressbarSize</key>
+	<string>backwardMemberTheme</string>
+	<key>hardButtonPosition</key>
+	<string>parallelBlocTransparency</string>
+	<key>keyCompletionFlags</key>
+	<string>vectorAndVisitor</string>
+	<key>modelOrObserver</key>
+	<string>cupertinoFromVisitor</string>
+	<key>responsiveTickerColor</key>
+	<string>taskByStrategy</string>
+</dict>
+</plist>

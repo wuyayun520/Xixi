@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpriteOrigin</key>
+	<string>labelSingletonOffset</string>
+	<key>currentTransitionAppearance</key>
+	<string>grainDespiteAction</string>
+	<key>gestureAdapterDuration</key>
+	<string>groupStyleTint</string>
+	<key>grayscaleVersusState</key>
+	<string>roleAtContext</string>
+	<key>layerLikeStructure</key>
+	<string>normalArithmeticBehavior</string>
+	<key>retainedButtonVisibility</key>
+	<string>fixedInteractorSaturation</string>
+	<key>sensorPerMode</key>
+	<string>durationProcessTransparency</string>
+	<key>synchronousHeapShade</key>
+	<string>labelValueCenter</string>
+	<key>taskFunctionHead</key>
+	<string>mutableBlocVisibility</string>
+	<key>usecaseJobInteraction</key>
+	<string>finalRouteState</string>
+</dict>
+</plist>

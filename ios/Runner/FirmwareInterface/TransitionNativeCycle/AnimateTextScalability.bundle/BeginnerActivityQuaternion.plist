@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAccessorySize</key>
+	<string>axisAndSingleton</string>
+	<key>diffablePaddingCenter</key>
+	<string>baseWithMethod</string>
+	<key>futureUntilPattern</key>
+	<string>timerActionTint</string>
+	<key>immutableProjectionTint</key>
+	<string>similarSignatureDepth</string>
+	<key>lazyDelegateState</key>
+	<string>activatedEqualizationPosition</string>
+	<key>parallelGrainVelocity</key>
+	<string>menuKindAcceleration</string>
+	<key>queryUntilChain</key>
+	<string>metadataFormAcceleration</string>
+	<key>reducerCycleMode</key>
+	<string>webBufferPosition</string>
+</dict>
+</plist>

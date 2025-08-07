@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTypeCenter</key>
+	<string>delegateBySystem</string>
+	<key>cupertinoParamOrientation</key>
+	<string>semanticUtilValidation</string>
+	<key>futureBeyondInterpreter</key>
+	<string>completerVarSkewx</string>
+	<key>gesturedetectorEnvironmentSpacing</key>
+	<string>descriptorFunctionCoord</string>
+	<key>handlerByFunction</key>
+	<string>routerAtStructure</string>
+	<key>intensityProxyDepth</key>
+	<string>priorityForShape</string>
+	<key>interactiveModulusFrequency</key>
+	<string>stateOutsideVariable</string>
+	<key>materialPerCommand</key>
+	<string>resolverFacadePosition</string>
+	<key>storyboardAmongLevel</key>
+	<string>textureLayerScale</string>
+</dict>
+</plist>

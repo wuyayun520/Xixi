@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxBridgeMode</key>
+	<string>activatedAperturePressure</string>
+	<key>declarativeCompleterStatus</key>
+	<string>smartPromiseState</string>
+	<key>graphicUntilLevel</key>
+	<string>buttonAlongJob</string>
+	<key>indicatorWorkRight</key>
+	<string>resultBeyondOperation</string>
+	<key>inkwellActionLeft</key>
+	<string>symbolKindFormat</string>
+	<key>sceneAlongTier</key>
+	<string>fragmentUntilChain</string>
+</dict>
+</plist>

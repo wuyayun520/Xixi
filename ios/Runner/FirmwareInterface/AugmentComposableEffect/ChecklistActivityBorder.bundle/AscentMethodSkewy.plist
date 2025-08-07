@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasUntilPlatform</key>
+	<string>cycleForWork</string>
+	<key>customizedTickerStatus</key>
+	<string>eventCompositeVelocity</string>
+	<key>keyTextfieldBound</key>
+	<string>animationOrTier</string>
+	<key>listenerFlyweightSaturation</key>
+	<string>entityBeyondWork</string>
+	<key>managerAdapterSaturation</key>
+	<string>layoutThanPlatform</string>
+	<key>semanticCollectionSaturation</key>
+	<string>channelFrameworkOpacity</string>
+</dict>
+</plist>

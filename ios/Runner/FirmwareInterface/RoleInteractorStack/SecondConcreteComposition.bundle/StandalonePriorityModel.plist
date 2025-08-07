@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackForPhase</key>
+	<string>titleExceptScope</string>
+	<key>constraintBeyondType</key>
+	<string>localizationAtCommand</string>
+	<key>localMatrixPressure</key>
+	<string>nodeInShape</string>
+	<key>navigatorStageFormat</key>
+	<string>unactivatedBlocCoord</string>
+	<key>parallelMediaBehavior</key>
+	<string>alignmentAroundNumber</string>
+	<key>queryKindEdge</key>
+	<string>screenAgainstCycle</string>
+</dict>
+</plist>

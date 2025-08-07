@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFromParam</key>
+	<string>utilViaProxy</string>
+	<key>descriptorNumberFeedback</key>
+	<string>multiControllerDirection</string>
+	<key>intuitiveMapVisible</key>
+	<string>specifyRouteOrientation</string>
+	<key>requiredTransitionTag</key>
+	<string>compositionFacadeName</string>
+	<key>sequentialScaleFrequency</key>
+	<string>agileChecklistAppearance</string>
+	<key>viewDecoratorOrientation</key>
+	<string>rapidOptionRotation</string>
+</dict>
+</plist>

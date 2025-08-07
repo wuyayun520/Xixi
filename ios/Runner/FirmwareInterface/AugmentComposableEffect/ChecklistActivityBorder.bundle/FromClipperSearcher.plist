@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDescriptorRotation</key>
+	<string>seamlessCheckboxSpeed</string>
+	<key>containerPlatformSkewy</key>
+	<string>prevWidgetForce</string>
+	<key>eagerSubpixelEdge</key>
+	<string>customizedGrayscaleBorder</string>
+	<key>effectScopeInset</key>
+	<string>localizationCycleBorder</string>
+	<key>sinkTaskTag</key>
+	<string>hardContainerCount</string>
+	<key>statefulReducerIndex</key>
+	<string>axisTaskEdge</string>
+	<key>streamDecoratorFormat</key>
+	<string>localBaseStyle</string>
+	<key>tickerJobSpacing</key>
+	<string>fusedProgressbarVisible</string>
+</dict>
+</plist>

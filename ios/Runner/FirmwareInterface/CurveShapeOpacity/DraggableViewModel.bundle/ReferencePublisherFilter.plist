@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGroupMode</key>
+	<string>sortedGestureCount</string>
+	<key>animatedSensorCoord</key>
+	<string>topicBridgeScale</string>
+	<key>durationOperationMode</key>
+	<string>cupertinoObserverSkewx</string>
+	<key>techniqueMethodRight</key>
+	<string>layoutSinceComposite</string>
+</dict>
+</plist>

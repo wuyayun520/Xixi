@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPrototypeStyle</key>
+	<string>relationalCubitType</string>
+	<key>gesturedetectorAwayOperation</key>
+	<string>popupAndParam</string>
+	<key>handlerExceptParameter</key>
+	<string>gramUntilVariable</string>
+	<key>inkwellSinceBridge</key>
+	<string>tensorCustompaintSaturation</string>
+	<key>requestContextSize</key>
+	<string>usecasePatternStatus</string>
+	<key>routeAroundMode</key>
+	<string>sliderOfStage</string>
+</dict>
+</plist>

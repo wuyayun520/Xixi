@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionCycleOrigin</key>
+	<string>curveWithProcess</string>
+	<key>explicitRouterType</key>
+	<string>normFunctionAcceleration</string>
+	<key>fixedMatrixVelocity</key>
+	<string>uniqueSegmentTail</string>
+	<key>particleStateStatus</key>
+	<string>flexibleTabbarValidation</string>
+</dict>
+</plist>

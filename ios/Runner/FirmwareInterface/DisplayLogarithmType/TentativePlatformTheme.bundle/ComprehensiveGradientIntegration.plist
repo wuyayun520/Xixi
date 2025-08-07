@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateWithoutFramework</key>
+	<string>tappableTabviewTag</string>
+	<key>extensionByState</key>
+	<string>resourceAndVisitor</string>
+	<key>inkwellAmongPattern</key>
+	<string>synchronousScrollPadding</string>
+	<key>isolatePerBuffer</key>
+	<string>segmentParamColor</string>
+	<key>modalAdapterValidation</key>
+	<string>statelessVersusLevel</string>
+	<key>rectSincePrototype</key>
+	<string>statefulStrategyDistance</string>
+	<key>scaleFrameworkShape</key>
+	<string>largeUtilStyle</string>
+</dict>
+</plist>

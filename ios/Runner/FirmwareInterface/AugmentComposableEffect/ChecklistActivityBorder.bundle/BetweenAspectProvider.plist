@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMediatorBottom</key>
+	<string>seamlessTimerBrightness</string>
+	<key>extensionAsLevel</key>
+	<string>viewMediatorInteraction</string>
+	<key>hardTopicTransparency</key>
+	<string>hashTemplePosition</string>
+	<key>largeChartDelay</key>
+	<string>lostZoneBorder</string>
+	<key>modelStateType</key>
+	<string>threadAndVar</string>
+	<key>respectiveSliderSaturation</key>
+	<string>cupertinoSingletonStyle</string>
+	<key>usecaseSinceComposite</key>
+	<string>checklistActionDistance</string>
+</dict>
+</plist>

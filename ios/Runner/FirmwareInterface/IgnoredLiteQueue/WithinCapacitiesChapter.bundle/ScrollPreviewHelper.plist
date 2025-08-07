@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAmongContext</key>
+	<string>descriptorOutsideComposite</string>
+	<key>crudeInjectionVisible</key>
+	<string>routerAsSystem</string>
+	<key>cursorSinceCycle</key>
+	<string>reusableConfigurationSkewx</string>
+	<key>cycleInProcess</key>
+	<string>channelOfFunction</string>
+	<key>decorationDecoratorCoord</key>
+	<string>metadataStyleDuration</string>
+	<key>modelMementoStatus</key>
+	<string>allocatorFunctionFlags</string>
+</dict>
+</plist>

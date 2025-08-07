@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAdapterMode</key>
+	<string>richtextByShape</string>
+	<key>anchorFromMode</key>
+	<string>ephemeralDescriptorFeedback</string>
+	<key>animatedcontainerVisitorHue</key>
+	<string>tappableViewHead</string>
+	<key>capsuleTierTag</key>
+	<string>normalListenerSpacing</string>
+	<key>cubeEnvironmentFeedback</key>
+	<string>directOptionBorder</string>
+	<key>euclideanBlocShade</key>
+	<string>asyncCertificateKind</string>
+	<key>metadataLayerHue</key>
+	<string>multiDescriptionShade</string>
+	<key>metadataViaInterpreter</key>
+	<string>actionNumberColor</string>
+</dict>
+</plist>

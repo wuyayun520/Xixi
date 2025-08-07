@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationTypeOrigin</key>
+	<string>descriptionNearObserver</string>
+	<key>euclideanSubscriptionForce</key>
+	<string>responsiveTransitionRotation</string>
+	<key>interfaceVersusMediator</key>
+	<string>unsortedResponseSpeed</string>
+	<key>layoutVersusLayer</key>
+	<string>tweenAgainstChain</string>
+	<key>localizationContainVar</key>
+	<string>subscriptionDecoratorDepth</string>
+	<key>platePrototypeRight</key>
+	<string>interfaceBesideParam</string>
+	<key>repositoryTypeVisible</key>
+	<string>inactiveDecorationAlignment</string>
+	<key>signatureStrategyShade</key>
+	<string>secondProjectionShape</string>
+	<key>transitionTaskBound</key>
+	<string>resultWithChain</string>
+</dict>
+</plist>

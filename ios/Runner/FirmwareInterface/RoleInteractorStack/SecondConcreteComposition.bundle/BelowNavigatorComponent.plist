@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelStrategyPressure</key>
+	<string>concurrentArithmeticRotation</string>
+	<key>delegateInterpreterMode</key>
+	<string>constTernaryState</string>
+	<key>easyHeapVelocity</key>
+	<string>densePositionedContrast</string>
+	<key>gateVarRotation</key>
+	<string>positionBufferCenter</string>
+	<key>labelForLevel</key>
+	<string>sizeOperationAlignment</string>
+	<key>methodOutsideMethod</key>
+	<string>boxTempleTail</string>
+	<key>sliderParamLocation</key>
+	<string>shaderKindShade</string>
+</dict>
+</plist>

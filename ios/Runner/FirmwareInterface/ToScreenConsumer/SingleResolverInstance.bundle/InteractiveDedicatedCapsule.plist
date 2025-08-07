@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAlongPlatform</key>
+	<string>arithmeticCupertinoSaturation</string>
+	<key>cardAmongCommand</key>
+	<string>materialSingletonStyle</string>
+	<key>decorationSinceMemento</key>
+	<string>multiSubpixelTheme</string>
+	<key>deferredBuilderInset</key>
+	<string>customHeroShade</string>
+	<key>featureWithoutFunction</key>
+	<string>flexibleTitleEdge</string>
+	<key>interpolationStructureOrientation</key>
+	<string>tickerOrScope</string>
+	<key>menuModeVisibility</key>
+	<string>sophisticatedMissionState</string>
+	<key>mutableStatefulLocation</key>
+	<string>cupertinoPopupRight</string>
+	<key>rowFrameworkLocation</key>
+	<string>checklistStrategyShape</string>
+	<key>subpixelPhaseSkewx</key>
+	<string>opaqueFeatureOffset</string>
+</dict>
+</plist>

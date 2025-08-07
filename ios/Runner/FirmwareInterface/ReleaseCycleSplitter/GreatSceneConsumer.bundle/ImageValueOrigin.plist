@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleWithoutBridge</key>
+	<string>interfaceChainName</string>
+	<key>providerVersusBuffer</key>
+	<string>missedSwitchBrightness</string>
+	<key>textModeFormat</key>
+	<string>transitionOfStructure</string>
+	<key>usedFlexValidation</key>
+	<string>cupertinoSymbolVisible</string>
+</dict>
+</plist>

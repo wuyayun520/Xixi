@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeInterpolationShape</key>
+	<string>heapScopeTransparency</string>
+	<key>granularButtonAcceleration</key>
+	<string>tappableBulletStatus</string>
+	<key>kernelWorkOffset</key>
+	<string>rowPerBuffer</string>
+	<key>logarithmFormEdge</key>
+	<string>keyCapsuleLeft</string>
+	<key>newestBitrateOffset</key>
+	<string>sliderProxyDelay</string>
+	<key>offsetThroughObserver</key>
+	<string>symbolOfStructure</string>
+	<key>slashViaContext</key>
+	<string>storageLikePattern</string>
+	<key>techniqueBeyondJob</key>
+	<string>accessibleGroupBound</string>
+</dict>
+</plist>

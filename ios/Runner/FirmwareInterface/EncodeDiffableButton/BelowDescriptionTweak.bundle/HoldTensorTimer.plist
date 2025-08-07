@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashDuringStage</key>
+	<string>boxPerVar</string>
+	<key>routeWithBuffer</key>
+	<string>rowVisitorName</string>
+	<key>sharedOffsetRight</key>
+	<string>sizeFrameworkBrightness</string>
+	<key>statefulForShape</key>
+	<string>priorBoxshadowRate</string>
+	<key>storageInsideInterpreter</key>
+	<string>scrollableChannelTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeMemento</key>
+	<string>subscriptionAgainstWork</string>
+	<key>fragmentFlyweightInterval</key>
+	<string>nodeNumberPadding</string>
+	<key>imperativeSpriteValidation</key>
+	<string>permissiveControllerSkewx</string>
+	<key>layoutFlyweightBound</key>
+	<string>textfieldValueMode</string>
+	<key>marginAsLayer</key>
+	<string>logAwayFacade</string>
+	<key>presenterWithFunction</key>
+	<string>chapterUntilPattern</string>
+	<key>queueUntilMediator</key>
+	<string>referenceBesideObserver</string>
+</dict>
+</plist>

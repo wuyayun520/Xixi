@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeFutureKind</key>
+	<string>agileSpriteTheme</string>
+	<key>fixedUtilSkewx</key>
+	<string>projectionSystemCoord</string>
+	<key>hashExceptBuffer</key>
+	<string>shaderKindOffset</string>
+	<key>repositoryFormForce</key>
+	<string>interpolationAwaySingleton</string>
+	<key>spritePlatformAcceleration</key>
+	<string>denseKernelHue</string>
+</dict>
+</plist>

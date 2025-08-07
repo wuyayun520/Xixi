@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProgressbarAlignment</key>
+	<string>futureThroughContext</string>
+	<key>indicatorBridgeStatus</key>
+	<string>baselineTierRight</string>
+	<key>invisibleBaselinePadding</key>
+	<string>statelessProtocolBound</string>
+	<key>layoutAgainstPlatform</key>
+	<string>statefulWorkFrequency</string>
+	<key>masterBufferAcceleration</key>
+	<string>lastAnimationFeedback</string>
+	<key>playbackFrameworkDensity</key>
+	<string>alphaCommandCoord</string>
+	<key>sizeForScope</key>
+	<string>dialogsAboutFacade</string>
+</dict>
+</plist>

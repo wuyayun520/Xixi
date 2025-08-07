@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resourceOfAdapter</key>
+	<string>labelViaStructure</string>
+	<key>stackAtProxy</key>
+	<string>menuActivityFlags</string>
+	<key>timerInPhase</key>
+	<string>displayableCubeInterval</string>
+	<key>usecaseCompositeCount</key>
+	<string>interactiveQueryRight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAndStage</key>
+	<string>repositoryExceptComposite</string>
+	<key>basicDependencyShade</key>
+	<string>directlyStampVelocity</string>
+	<key>blocStateValidation</key>
+	<string>previewUntilContext</string>
+	<key>disabledGemValidation</key>
+	<string>popupWithoutMode</string>
+	<key>requiredColumnVelocity</key>
+	<string>curvePrototypeDepth</string>
+	<key>threadAlongStyle</key>
+	<string>consultativeUtilBottom</string>
+	<key>tweenWithoutComposite</key>
+	<string>kernelNearOperation</string>
+</dict>
+</plist>

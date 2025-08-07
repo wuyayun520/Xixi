@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianProtocolDensity</key>
+	<string>transitionCommandPosition</string>
+	<key>deferredAppbarSkewy</key>
+	<string>transitionAndInterpreter</string>
+	<key>delicateConstraintStyle</key>
+	<string>menuStateName</string>
+	<key>menuStateBorder</key>
+	<string>responsiveStoryboardSkewy</string>
+	<key>navigationAndForm</key>
+	<string>fragmentInObserver</string>
+	<key>opaqueRowSaturation</key>
+	<string>statelessIncludeComposite</string>
+	<key>specifyIsolateCount</key>
+	<string>asyncVersusChain</string>
+	<key>vectorContainStructure</key>
+	<string>diversifiedChecklistBorder</string>
+</dict>
+</plist>

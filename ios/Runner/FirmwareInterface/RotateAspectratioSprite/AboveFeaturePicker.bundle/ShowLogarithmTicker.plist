@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletProxyMode</key>
+	<string>secondReducerLeft</string>
+	<key>cubitDecoratorSaturation</key>
+	<string>segmentStyleSkewy</string>
+	<key>decorationAndActivity</key>
+	<string>channelPrototypeStatus</string>
+	<key>extensionBesideStyle</key>
+	<string>isolateContainStyle</string>
+	<key>layoutFlyweightStatus</key>
+	<string>previewOperationSaturation</string>
+	<key>publicResourceSaturation</key>
+	<string>promiseLikeParameter</string>
+</dict>
+</plist>

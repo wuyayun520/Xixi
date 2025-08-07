@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleExceptionPadding</key>
+	<string>transitionFormIndex</string>
+	<key>asyncDocumentAcceleration</key>
+	<string>cubitBufferInset</string>
+	<key>callbackFromPattern</key>
+	<string>signVarLocation</string>
+	<key>consumerMediatorTag</key>
+	<string>asyncAlongWork</string>
+	<key>denseLocalizationSpacing</key>
+	<string>actionSingletonTop</string>
+	<key>eventVersusEnvironment</key>
+	<string>materialDespiteChain</string>
+	<key>intermediateSubscriptionSize</key>
+	<string>descriptorAboutType</string>
+	<key>listenerLevelDirection</key>
+	<string>statelessOffsetResponse</string>
+</dict>
+</plist>

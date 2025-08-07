@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLikePrototype</key>
+	<string>buttonSingletonHue</string>
+	<key>checkboxShapeKind</key>
+	<string>sharedStatefulTop</string>
+	<key>dynamicMissionPressure</key>
+	<string>immutableSessionStatus</string>
+	<key>injectionWithStyle</key>
+	<string>concretePresenterBound</string>
+	<key>layoutMediatorTheme</key>
+	<string>transformerForMediator</string>
+	<key>loopCompositeMargin</key>
+	<string>injectionInsideMediator</string>
+	<key>modulusAtWork</key>
+	<string>fusedSpriteTheme</string>
+	<key>popupFlyweightRight</key>
+	<string>gesturedetectorProcessInset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerEnvironmentVisibility</key>
+	<string>iterativeListviewForce</string>
+	<key>observerPatternSkewy</key>
+	<string>marginVersusValue</string>
+	<key>resultAlongMediator</key>
+	<string>directIntensityMargin</string>
+	<key>sinkAgainstEnvironment</key>
+	<string>operationObserverOpacity</string>
+	<key>stateViaVar</key>
+	<string>apertureSinceFacade</string>
+	<key>statefulLocalizationDepth</key>
+	<string>cupertinoValueInteraction</string>
+</dict>
+</plist>

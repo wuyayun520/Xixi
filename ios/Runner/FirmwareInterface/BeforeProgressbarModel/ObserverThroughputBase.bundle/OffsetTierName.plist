@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisChainDepth</key>
+	<string>similarIntensitySkewx</string>
+	<key>curveProxyIndex</key>
+	<string>momentumInLevel</string>
+	<key>deferredNibVisible</key>
+	<string>coordinatorObserverState</string>
+	<key>displayableInteractorVisible</key>
+	<string>threadAdapterRight</string>
+	<key>functionalResultMode</key>
+	<string>ternaryModeSkewx</string>
+	<key>graphModeShape</key>
+	<string>injectionContextVisibility</string>
+	<key>localizationWorkSpeed</key>
+	<string>interfaceLayerDistance</string>
+	<key>sliderModeMargin</key>
+	<string>inactiveGraphicAcceleration</string>
+</dict>
+</plist>

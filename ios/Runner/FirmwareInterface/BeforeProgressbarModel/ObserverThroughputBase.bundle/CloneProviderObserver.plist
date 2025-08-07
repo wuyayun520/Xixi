@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customConstraintStatus</key>
+	<string>draggableBuilderCoord</string>
+	<key>draggableWidgetTint</key>
+	<string>priorityAsEnvironment</string>
+	<key>mobilePhaseSaturation</key>
+	<string>granularAppbarDuration</string>
+	<key>pinchableStoryboardDuration</key>
+	<string>precisionContextEdge</string>
+	<key>repositoryNearEnvironment</key>
+	<string>errorForMode</string>
+	<key>sinkSystemMode</key>
+	<string>profileScopeDelay</string>
+	<key>standaloneContainerSpeed</key>
+	<string>frameFrameworkOrigin</string>
+</dict>
+</plist>

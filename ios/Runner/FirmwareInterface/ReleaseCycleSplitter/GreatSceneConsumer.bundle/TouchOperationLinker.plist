@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAgainstDecorator</key>
+	<string>smallGridHead</string>
+	<key>declarativeAwaitInteraction</key>
+	<string>presenterParameterScale</string>
+	<key>grainDecoratorInteraction</key>
+	<string>responseObserverScale</string>
+	<key>intuitiveNavigationTint</key>
+	<string>mediocreMethodBorder</string>
+	<key>modelForMode</key>
+	<string>configurationStateDuration</string>
+	<key>permanentAspectratioAlignment</key>
+	<string>basicContainerRate</string>
+	<key>specifierAroundValue</key>
+	<string>signWorkType</string>
+	<key>tabviewActionTheme</key>
+	<string>finalChartInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorShapePosition</key>
+	<string>injectionExceptFramework</string>
+	<key>featureDecoratorDensity</key>
+	<string>screenUntilTier</string>
+	<key>nativeManagerMomentum</key>
+	<string>compositionShapeValidation</string>
+	<key>previewDecoratorShape</key>
+	<string>alphaMethodSkewx</string>
+	<key>prismaticObserverBorder</key>
+	<string>singleTernarySkewy</string>
+	<key>providerIncludeComposite</key>
+	<string>asyncBufferAlignment</string>
+	<key>reactiveRadiusPadding</key>
+	<string>shaderWithJob</string>
+	<key>symbolOfOperation</key>
+	<string>transitionDecoratorSkewx</string>
+	<key>tweenForJob</key>
+	<string>streamAroundWork</string>
+</dict>
+</plist>

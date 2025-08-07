@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseForTemple</key>
+	<string>textureViaShape</string>
+	<key>baseObserverDepth</key>
+	<string>binaryAsProxy</string>
+	<key>imageTaskMargin</key>
+	<string>movementPhaseInteraction</string>
+	<key>publicEventStyle</key>
+	<string>interactiveBlocMargin</string>
+	<key>rapidGrayscaleFlags</key>
+	<string>disabledInterpolationSize</string>
+	<key>rapidTabviewTint</key>
+	<string>entityNearBuffer</string>
+	<key>sizeNearShape</key>
+	<string>zoneForPattern</string>
+</dict>
+</plist>

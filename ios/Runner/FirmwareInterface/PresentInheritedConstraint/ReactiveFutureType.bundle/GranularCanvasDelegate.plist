@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFromStrategy</key>
+	<string>standaloneAspectRotation</string>
+	<key>basicZoneSpacing</key>
+	<string>actionFromObserver</string>
+	<key>currentBrushMode</key>
+	<string>coordinatorActivityOrientation</string>
+	<key>fragmentFromPlatform</key>
+	<string>zonePerTier</string>
+	<key>geometricLayerFlags</key>
+	<string>reducerMementoVisibility</string>
+	<key>grainObserverFeedback</key>
+	<string>curveFunctionAlignment</string>
+	<key>inactiveResolverValidation</key>
+	<string>curveKindAppearance</string>
+	<key>numericalScrollSpeed</key>
+	<string>skirtAgainstComposite</string>
+	<key>riverpodThanAction</key>
+	<string>heapForProxy</string>
+</dict>
+</plist>

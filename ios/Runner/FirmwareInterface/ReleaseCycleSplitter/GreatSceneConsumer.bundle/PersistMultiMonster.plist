@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleLikeState</key>
+	<string>completionStyleDepth</string>
+	<key>groupNumberBound</key>
+	<string>primaryIntensityCount</string>
+	<key>handlerBridgeFeedback</key>
+	<string>standaloneTouchMomentum</string>
+	<key>priorityDuringContext</key>
+	<string>containerForBuffer</string>
+	<key>synchronousZoneTop</key>
+	<string>overlaySinceWork</string>
+	<key>uniqueReductionForce</key>
+	<string>mediaBesideSingleton</string>
+	<key>unsortedPetFormat</key>
+	<string>streamForTier</string>
+</dict>
+</plist>

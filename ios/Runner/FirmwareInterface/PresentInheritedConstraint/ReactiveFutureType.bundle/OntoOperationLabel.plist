@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRepositoryValidation</key>
+	<string>cubitForObserver</string>
+	<key>asyncInjectionTransparency</key>
+	<string>ignoredCoordinatorDistance</string>
+	<key>capsuleAndForm</key>
+	<string>staticGrainBorder</string>
+	<key>loopAroundType</key>
+	<string>staticSliderDelay</string>
+	<key>masterChainSkewy</key>
+	<string>sampleWithContext</string>
+	<key>numericalTabviewAcceleration</key>
+	<string>mediumHashFormat</string>
+	<key>permanentCommandPadding</key>
+	<string>missedRouteTheme</string>
+	<key>permanentControllerContrast</key>
+	<string>constTickerTension</string>
+	<key>subsequentConstraintSpacing</key>
+	<string>gemUntilProxy</string>
+</dict>
+</plist>

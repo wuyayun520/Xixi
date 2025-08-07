@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasDecoratorCoord</key>
+	<string>decorationSystemCoord</string>
+	<key>completerOutsideTier</key>
+	<string>pinchableBaselineFlags</string>
+	<key>compositionalMissionInteraction</key>
+	<string>navigatorJobTransparency</string>
+	<key>gestureStateTheme</key>
+	<string>completionIncludeStage</string>
+	<key>missionCompositeTheme</key>
+	<string>respectiveParticleOpacity</string>
+	<key>sceneAlongMode</key>
+	<string>allocatorInStage</string>
+	<key>semanticsStageBottom</key>
+	<string>queueForFunction</string>
+	<key>ternarySincePattern</key>
+	<string>reducerPerSystem</string>
+</dict>
+</plist>

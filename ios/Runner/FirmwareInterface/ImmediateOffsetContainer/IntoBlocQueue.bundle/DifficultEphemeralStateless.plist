@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphFormSpacing</key>
+	<string>dimensionOutsideLevel</string>
+	<key>segueStyleRate</key>
+	<string>subscriptionDuringStructure</string>
+	<key>sinkOrState</key>
+	<string>effectCycleDepth</string>
+	<key>symbolStrategyResponse</key>
+	<string>animationChainScale</string>
+	<key>typicalTangentSkewy</key>
+	<string>exceptionMementoSpeed</string>
+	<key>viewAsPattern</key>
+	<string>smallGraphCount</string>
+</dict>
+</plist>

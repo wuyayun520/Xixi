@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellParamRotation</key>
+	<string>usageViaStage</string>
+	<key>dedicatedNavigatorOrigin</key>
+	<string>swiftVisitorPosition</string>
+	<key>immutableMenuTag</key>
+	<string>notifierSingletonShape</string>
+	<key>litePageviewSize</key>
+	<string>durationActivityInset</string>
+	<key>positionedSinceScope</key>
+	<string>beginnerGateAcceleration</string>
+	<key>responseEnvironmentIndex</key>
+	<string>lastChapterCoord</string>
+	<key>viewPhaseBottom</key>
+	<string>memberDecoratorShade</string>
+</dict>
+</plist>

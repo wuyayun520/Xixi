@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAndBuffer</key>
+	<string>drawerThroughDecorator</string>
+	<key>positionNearPrototype</key>
+	<string>crudeTickerOffset</string>
+	<key>smallRepositoryDensity</key>
+	<string>inactiveLoopPadding</string>
+	<key>titleOrScope</key>
+	<string>buttonStructureValidation</string>
+	<key>transitionParamSize</key>
+	<string>asyncTickerSpacing</string>
+	<key>usecaseCycleDuration</key>
+	<string>retainedStorageHue</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCardScale</key>
+	<string>segmentObserverContrast</string>
+	<key>cacheAboutCycle</key>
+	<string>presenterAsParam</string>
+	<key>callbackOutsideCycle</key>
+	<string>controllerOperationBorder</string>
+	<key>containerShapeBehavior</key>
+	<string>constraintViaSingleton</string>
+	<key>customAccessoryValidation</key>
+	<string>temporaryUsecaseScale</string>
+	<key>retainedLayoutKind</key>
+	<string>queueBridgeDirection</string>
+</dict>
+</plist>

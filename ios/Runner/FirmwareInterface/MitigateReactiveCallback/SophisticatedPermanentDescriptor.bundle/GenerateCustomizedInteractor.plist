@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeExceptSystem</key>
+	<string>mobileButtonKind</string>
+	<key>consultativeCurveOrientation</key>
+	<string>routeValueState</string>
+	<key>dimensionAlongState</key>
+	<string>transformerPlatformSkewx</string>
+	<key>ephemeralPlaybackVelocity</key>
+	<string>unsortedCubeOpacity</string>
+	<key>musicViaMethod</key>
+	<string>eventDuringAction</string>
+	<key>observerAmongStructure</key>
+	<string>signatureMediatorSkewx</string>
+	<key>plateLikeVisitor</key>
+	<string>callbackOrScope</string>
+	<key>priorityTypeDensity</key>
+	<string>basicHeroHead</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureByType</key>
+	<string>hardAsyncTop</string>
+	<key>optionAndFunction</key>
+	<string>asyncForComposite</string>
+	<key>widgetMediatorAlignment</key>
+	<string>ephemeralRoleScale</string>
+	<key>workflowOperationFormat</key>
+	<string>providerThroughTask</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackWithoutEnvironment</key>
+	<string>aspectratioMediatorVisible</string>
+	<key>capacitiesExceptCommand</key>
+	<string>lostHandlerContrast</string>
+	<key>draggableAllocatorDensity</key>
+	<string>segmentContextEdge</string>
+	<key>euclideanTitleMode</key>
+	<string>grayscaleObserverTheme</string>
+	<key>gridCycleInterval</key>
+	<string>gateCommandDensity</string>
+	<key>memberTypeOrigin</key>
+	<string>taskLevelBound</string>
+	<key>multiConstraintScale</key>
+	<string>transitionTaskTint</string>
+	<key>prevServiceSpeed</key>
+	<string>batchThroughProcess</string>
+	<key>streamBesideFacade</key>
+	<string>animatedMetadataFrequency</string>
+	<key>themeCycleKind</key>
+	<string>alertProxyShade</string>
+</dict>
+</plist>

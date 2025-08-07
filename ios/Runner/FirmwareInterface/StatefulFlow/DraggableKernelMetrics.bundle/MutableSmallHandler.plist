@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFunctionAppearance</key>
+	<string>permissiveFrameVelocity</string>
+	<key>channelsAtLevel</key>
+	<string>getxForParam</string>
+	<key>loopOrSingleton</key>
+	<string>menuProcessOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertThroughFramework</key>
+	<string>graphVersusMediator</string>
+	<key>customEntitySpeed</key>
+	<string>themeProcessMargin</string>
+	<key>directBaseDuration</key>
+	<string>radiusIncludeTask</string>
+	<key>euclideanCommandVelocity</key>
+	<string>serviceVariableAcceleration</string>
+	<key>hardSceneLeft</key>
+	<string>observerMethodKind</string>
+	<key>materialSpineSpeed</key>
+	<string>prismaticNibDelay</string>
+	<key>overlayAtInterpreter</key>
+	<string>overlayOfProcess</string>
+	<key>screenVariableMode</key>
+	<string>stateCommandCoord</string>
+	<key>spriteLikeParam</key>
+	<string>curveOrValue</string>
+</dict>
+</plist>

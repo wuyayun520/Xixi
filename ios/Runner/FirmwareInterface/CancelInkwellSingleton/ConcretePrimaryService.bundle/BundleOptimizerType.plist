@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSinceBridge</key>
+	<string>ignoredTextLeft</string>
+	<key>fusedEventDuration</key>
+	<string>elasticRoutePosition</string>
+	<key>labelViaParam</key>
+	<string>draggableStoreSaturation</string>
+	<key>sequentialSemanticsIndex</key>
+	<string>sliderOperationDistance</string>
+</dict>
+</plist>

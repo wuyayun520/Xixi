@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAmongLevel</key>
+	<string>heroOrVariable</string>
+	<key>durationBufferSize</key>
+	<string>controllerThroughOperation</string>
+	<key>graphOrParameter</key>
+	<string>statelessResponseResponse</string>
+	<key>tabviewTierRight</key>
+	<string>widgetContainShape</string>
+</dict>
+</plist>

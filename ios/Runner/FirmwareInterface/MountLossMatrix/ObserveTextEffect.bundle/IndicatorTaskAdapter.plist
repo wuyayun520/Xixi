@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAndKind</key>
+	<string>tickerSingletonPosition</string>
+	<key>originalLoopHead</key>
+	<string>prevPositionAcceleration</string>
+	<key>rapidTickerSkewy</key>
+	<string>metadataAwayBridge</string>
+	<key>requestOperationValidation</key>
+	<string>skinUntilNumber</string>
+</dict>
+</plist>

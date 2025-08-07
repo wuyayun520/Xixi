@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAsKind</key>
+	<string>deferredActionDepth</string>
+	<key>asynchronousWidgetBorder</key>
+	<string>progressbarInsideScope</string>
+	<key>canvasCycleContrast</key>
+	<string>containerObserverForce</string>
+	<key>concurrentNibRate</key>
+	<string>frameFrameworkDelay</string>
+	<key>crucialAppbarMargin</key>
+	<string>rapidBlocDuration</string>
+	<key>decorationSingletonHue</key>
+	<string>resizableEffectKind</string>
+	<key>sensorAndComposite</key>
+	<string>notifierFromInterpreter</string>
+	<key>techniqueEnvironmentAppearance</key>
+	<string>spriteLikePhase</string>
+</dict>
+</plist>

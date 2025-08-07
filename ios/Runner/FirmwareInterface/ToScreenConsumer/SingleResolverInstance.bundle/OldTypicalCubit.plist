@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionInterpreterLocation</key>
+	<string>cellFormSaturation</string>
+	<key>protectedConvolutionBehavior</key>
+	<string>invisiblePointForce</string>
+	<key>remainderBridgeMargin</key>
+	<string>grayscaleIncludeCommand</string>
+	<key>riverpodAndParameter</key>
+	<string>masterPrototypeVelocity</string>
+	<key>timerVarBorder</key>
+	<string>bulletPlatformSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedControllerFlags</key>
+	<string>effectBridgeRotation</string>
+	<key>batchMediatorOpacity</key>
+	<string>backwardScaleOffset</string>
+	<key>blocAlongTask</key>
+	<string>dependencyStateRotation</string>
+	<key>controllerWithoutActivity</key>
+	<string>richtextLayerFrequency</string>
+	<key>repositoryMediatorCoord</key>
+	<string>momentumScopeEdge</string>
+	<key>sustainableExponentPosition</key>
+	<string>signatureFromForm</string>
+</dict>
+</plist>

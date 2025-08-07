@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCompletionAppearance</key>
+	<string>cupertinoMementoVisible</string>
+	<key>descriptorTempleEdge</key>
+	<string>variantPerStrategy</string>
+	<key>eagerServiceSpacing</key>
+	<string>sophisticatedEventScale</string>
+	<key>transitionUntilOperation</key>
+	<string>builderModeRotation</string>
+</dict>
+</plist>

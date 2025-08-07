@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveVersusVisitor</key>
+	<string>blocVisitorDepth</string>
+	<key>easyCubeAlignment</key>
+	<string>nativeCheckboxMargin</string>
+	<key>fixedEventValidation</key>
+	<string>statefulDespiteScope</string>
+	<key>providerVariableAcceleration</key>
+	<string>sortedTimerStyle</string>
+	<key>streamInParam</key>
+	<string>notificationMethodStyle</string>
+	<key>toolFunctionSize</key>
+	<string>mediocrePositionedKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAgainstTier</key>
+	<string>responsiveAsyncDuration</string>
+	<key>dedicatedCacheOffset</key>
+	<string>immutableContainerBorder</string>
+	<key>gestureDespiteParam</key>
+	<string>aspectratioScopePosition</string>
+	<key>movementDecoratorDirection</key>
+	<string>gateOutsideParameter</string>
+	<key>oldCupertinoCenter</key>
+	<string>checkboxPrototypeBottom</string>
+	<key>radioDespiteStructure</key>
+	<string>instructionAdapterDirection</string>
+	<key>reactiveNotificationTransparency</key>
+	<string>localPlaybackTop</string>
+	<key>resolverOrPattern</key>
+	<string>columnMethodRight</string>
+	<key>vectorBufferIndex</key>
+	<string>basicThemeType</string>
+</dict>
+</plist>

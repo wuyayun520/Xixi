@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAroundStrategy</key>
+	<string>intuitiveProjectionBound</string>
+	<key>heapFrameworkOffset</key>
+	<string>concurrentMarginInset</string>
+	<key>metadataVarTint</key>
+	<string>sizedboxCompositeVisible</string>
+	<key>otherTernaryDepth</key>
+	<string>paddingForChain</string>
+	<key>presenterInMediator</key>
+	<string>controllerPrototypeShade</string>
+	<key>priorityAmongInterpreter</key>
+	<string>disparateCommandDistance</string>
+	<key>signatureWithObserver</key>
+	<string>cubitFunctionSkewy</string>
+	<key>titleJobEdge</key>
+	<string>containerStageSize</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationChainTint</key>
+	<string>materialVarFeedback</string>
+	<key>eventForMode</key>
+	<string>loopInSingleton</string>
+	<key>managerWithoutValue</key>
+	<string>constIntensityRotation</string>
+	<key>resourceThroughMediator</key>
+	<string>permanentBinaryInteraction</string>
+	<key>sortedMaterialInteraction</key>
+	<string>directInstructionBound</string>
+</dict>
+</plist>

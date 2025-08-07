@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAmongValue</key>
+	<string>asynchronousCallbackStyle</string>
+	<key>finalBehaviorMargin</key>
+	<string>injectionWithoutScope</string>
+	<key>navigationTypeTag</key>
+	<string>effectOfComposite</string>
+	<key>pinchableErrorName</key>
+	<string>disparateEventKind</string>
+	<key>remainderDecoratorMargin</key>
+	<string>futureTypeTag</string>
+	<key>resourceAsType</key>
+	<string>menuPerPhase</string>
+	<key>routeValueTail</key>
+	<string>statefulMethodBound</string>
+	<key>sceneFunctionSpacing</key>
+	<string>bufferShapeOpacity</string>
+	<key>spriteAlongFacade</key>
+	<string>projectSingletonColor</string>
+	<key>zoneAndSystem</key>
+	<string>capacitiesAmongVariable</string>
+</dict>
+</plist>

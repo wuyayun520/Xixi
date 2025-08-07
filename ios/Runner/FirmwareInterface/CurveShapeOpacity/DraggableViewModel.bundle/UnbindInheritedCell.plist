@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableAsyncFrequency</key>
+	<string>methodVarSaturation</string>
+	<key>exceptionNumberPosition</key>
+	<string>imperativeVectorIndex</string>
+	<key>gateIncludeOperation</key>
+	<string>nativeMatrixInteraction</string>
+	<key>greatOffsetVisibility</key>
+	<string>mobxMethodTag</string>
+	<key>multiplicationOrStyle</key>
+	<string>usageMementoSpacing</string>
+	<key>textAmongCommand</key>
+	<string>asyncHeapBorder</string>
+	<key>textSingletonSaturation</key>
+	<string>alignmentBridgeSaturation</string>
+	<key>tickerSystemRight</key>
+	<string>enabledCheckboxOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisCompositeName</key>
+	<string>certificateWorkFlags</string>
+	<key>delegateLikeStage</key>
+	<string>sequentialBaselineOpacity</string>
+	<key>labelCompositeType</key>
+	<string>subpixelActivityOpacity</string>
+	<key>plateAsTier</key>
+	<string>sizeVersusState</string>
+	<key>requiredBorderRate</key>
+	<string>iterativeChartShape</string>
+</dict>
+</plist>

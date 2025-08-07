@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasOutsideOperation</key>
+	<string>functionalWidgetOrientation</string>
+	<key>customizedCardRight</key>
+	<string>timerTypeOpacity</string>
+	<key>graphSingletonFeedback</key>
+	<string>pointChainName</string>
+	<key>requiredAsyncCount</key>
+	<string>gateAtFramework</string>
+</dict>
+</plist>

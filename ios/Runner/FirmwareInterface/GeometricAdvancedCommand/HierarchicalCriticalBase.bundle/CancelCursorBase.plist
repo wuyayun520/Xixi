@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandValueRate</key>
+	<string>plateAgainstFramework</string>
+	<key>draggableTickerVisibility</key>
+	<string>requiredLogarithmResponse</string>
+	<key>finalLayerForce</key>
+	<string>subpixelCommandInset</string>
+	<key>futureOperationLeft</key>
+	<string>progressbarActionSkewy</string>
+	<key>liteViewHue</key>
+	<string>ignoredUsageSkewx</string>
+	<key>navigationForFunction</key>
+	<string>asynchronousNavigationSize</string>
+	<key>prevGrainAlignment</key>
+	<string>screenAgainstObserver</string>
+	<key>tickerStateTheme</key>
+	<string>unsortedMediaqueryVisibility</string>
+	<key>widgetMediatorResponse</key>
+	<string>challengeBufferSkewx</string>
+</dict>
+</plist>

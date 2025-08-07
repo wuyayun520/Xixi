@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAgainstState</key>
+	<string>robustProviderOpacity</string>
+	<key>coordinatorIncludePrototype</key>
+	<string>animationScopeSkewx</string>
+	<key>immutableGrainStyle</key>
+	<string>containerViaObserver</string>
+	<key>observerThroughStage</key>
+	<string>graphicInterpreterForce</string>
+	<key>routeTypeTag</key>
+	<string>queuePerTask</string>
+	<key>singletonNumberSkewy</key>
+	<string>displayableStateHead</string>
+</dict>
+</plist>

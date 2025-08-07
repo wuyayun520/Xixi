@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStateShape</key>
+	<string>capsulePhaseName</string>
+	<key>callbackForLayer</key>
+	<string>responsiveTransformerTheme</string>
+	<key>fragmentWithInterpreter</key>
+	<string>eventFlyweightPressure</string>
+	<key>modulusByPrototype</key>
+	<string>exponentViaPlatform</string>
+	<key>resizableMonsterRotation</key>
+	<string>stampSingletonName</string>
+	<key>stepFacadeDepth</key>
+	<string>isolateScopeMargin</string>
+	<key>workflowJobVisibility</key>
+	<string>otherLayoutDepth</string>
+</dict>
+</plist>

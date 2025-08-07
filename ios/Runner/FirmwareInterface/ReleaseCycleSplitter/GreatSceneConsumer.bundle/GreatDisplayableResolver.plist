@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFromPrototype</key>
+	<string>frameShapeBehavior</string>
+	<key>builderMediatorVisibility</key>
+	<string>keyConsumerFrequency</string>
+	<key>configurationAlongForm</key>
+	<string>completerFromBridge</string>
+	<key>dedicatedFeatureLeft</key>
+	<string>managerFlyweightBehavior</string>
+	<key>liteDecorationVisibility</key>
+	<string>taskPerDecorator</string>
+	<key>storyboardFrameworkRate</key>
+	<string>previewStageBottom</string>
+	<key>tweenProxyMode</key>
+	<string>callbackWithoutAction</string>
+</dict>
+</plist>

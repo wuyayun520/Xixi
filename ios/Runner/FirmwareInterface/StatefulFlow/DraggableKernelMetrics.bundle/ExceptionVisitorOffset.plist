@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDecorationShape</key>
+	<string>zoneBeyondStage</string>
+	<key>awaitScopeTop</key>
+	<string>beginnerRequestOrientation</string>
+	<key>channelWithoutMethod</key>
+	<string>characterVersusMethod</string>
+	<key>euclideanSubscriptionSize</key>
+	<string>actionVariableDirection</string>
+	<key>extensionForMode</key>
+	<string>autoSensorAppearance</string>
+	<key>gemSystemDensity</key>
+	<string>providerContextLocation</string>
+	<key>hashBeyondChain</key>
+	<string>textfieldVisitorBehavior</string>
+	<key>resourceStageOpacity</key>
+	<string>imperativeDurationMargin</string>
+	<key>scaleActionColor</key>
+	<string>inkwellByLayer</string>
+</dict>
+</plist>

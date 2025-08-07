@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryWithoutProxy</key>
+	<string>globalCheckboxBrightness</string>
+	<key>channelsLevelOpacity</key>
+	<string>navigatorWithSingleton</string>
+	<key>globalAnimationSaturation</key>
+	<string>queueIncludeChain</string>
+	<key>ignoredLoopTail</key>
+	<string>interfaceOrSystem</string>
+	<key>iterativeStoreBorder</key>
+	<string>builderFacadeBehavior</string>
+	<key>paddingModeOrientation</key>
+	<string>cellPerMediator</string>
+	<key>responseNearStructure</key>
+	<string>similarHandlerSkewy</string>
+	<key>uniqueDescriptionEdge</key>
+	<string>constraintAdapterMode</string>
+</dict>
+</plist>

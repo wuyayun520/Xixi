@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFrameworkTail</key>
+	<string>sineByPlatform</string>
+	<key>displayableMovementSkewx</key>
+	<string>globalTextBorder</string>
+	<key>dropdownbuttonVisitorBrightness</key>
+	<string>greatDescriptionAlignment</string>
+	<key>indicatorAdapterForce</key>
+	<string>elasticSegmentSaturation</string>
+	<key>observerAtMode</key>
+	<string>sharedPresenterAlignment</string>
+	<key>repositoryInsideVisitor</key>
+	<string>radiusNearPlatform</string>
+</dict>
+</plist>

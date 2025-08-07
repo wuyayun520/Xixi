@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionOptimizerDuration</key>
+	<string>tickerProcessBottom</string>
+	<key>assetObserverBound</key>
+	<string>collectionStrategyRotation</string>
+	<key>asyncSceneColor</key>
+	<string>accessibleStampVelocity</string>
+	<key>bufferLevelStyle</key>
+	<string>optimizerMediatorMode</string>
+	<key>finalGraphInteraction</key>
+	<string>sharedCupertinoSkewy</string>
+	<key>methodAdapterTint</key>
+	<string>captionByShape</string>
+	<key>paddingAgainstLevel</key>
+	<string>compositionDuringComposite</string>
+	<key>seamlessTransitionShape</key>
+	<string>expandedBesideBuffer</string>
+	<key>topicStyleDensity</key>
+	<string>singletonAmongVisitor</string>
+</dict>
+</plist>

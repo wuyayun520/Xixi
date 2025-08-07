@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSinkCenter</key>
+	<string>observerContainWork</string>
+	<key>controllerFlyweightCenter</key>
+	<string>semanticChannelStatus</string>
+	<key>enabledStepSkewx</key>
+	<string>statelessReferenceBound</string>
+	<key>mobileCupertinoFormat</key>
+	<string>autoMissionSpacing</string>
+	<key>mobxLevelTransparency</key>
+	<string>reducerOrAdapter</string>
+	<key>remainderParameterSpacing</key>
+	<string>intuitiveHandlerState</string>
+	<key>roleVersusSystem</key>
+	<string>tappableRiverpodIndex</string>
+	<key>singletonFromParam</key>
+	<string>usedProfileSpacing</string>
+</dict>
+</plist>

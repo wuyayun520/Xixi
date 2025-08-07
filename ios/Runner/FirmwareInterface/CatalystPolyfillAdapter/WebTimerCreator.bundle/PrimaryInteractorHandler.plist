@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithoutLayer</key>
+	<string>sharedMusicBrightness</string>
+	<key>crudeSinkStyle</key>
+	<string>missedPreviewContrast</string>
+	<key>decorationViaStyle</key>
+	<string>multiplicationWithoutVariable</string>
+	<key>descriptionAmongVisitor</key>
+	<string>primaryConstraintPressure</string>
+	<key>greatSignScale</key>
+	<string>globalInterfaceTransparency</string>
+	<key>iterativeEventVelocity</key>
+	<string>listviewCommandMargin</string>
+	<key>mediaqueryParamCenter</key>
+	<string>tensorCoordinatorOrigin</string>
+	<key>screenThroughDecorator</key>
+	<string>activeControllerForce</string>
+	<key>widgetScopeHead</key>
+	<string>touchWithContext</string>
+</dict>
+</plist>

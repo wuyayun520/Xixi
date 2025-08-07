@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVisitorValidation</key>
+	<string>rowActionDuration</string>
+	<key>compositionalGridSpeed</key>
+	<string>loopContainActivity</string>
+	<key>entityPerFunction</key>
+	<string>gramTaskEdge</string>
+	<key>fusedBorderAlignment</key>
+	<string>effectFromFacade</string>
+	<key>normalTextPressure</key>
+	<string>mediumHandlerDistance</string>
+	<key>prismaticReducerAlignment</key>
+	<string>iterativeViewHead</string>
+	<key>resizableCurveSpacing</key>
+	<string>uniqueAnchorSkewy</string>
+	<key>resultPlatformBound</key>
+	<string>specifyMovementSize</string>
+	<key>tangentVisitorSpeed</key>
+	<string>webSpriteAlignment</string>
+</dict>
+</plist>

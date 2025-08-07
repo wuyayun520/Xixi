@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramTempleShade</key>
+	<string>customTextBottom</string>
+	<key>lastNodeTint</key>
+	<string>navigatorFromStyle</string>
+	<key>missionForComposite</key>
+	<string>priorScrollMargin</string>
+	<key>tickerFacadePadding</key>
+	<string>equalizationFunctionSpacing</string>
+</dict>
+</plist>

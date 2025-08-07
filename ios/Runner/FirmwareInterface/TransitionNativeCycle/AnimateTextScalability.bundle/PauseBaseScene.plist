@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMovementFeedback</key>
+	<string>equipmentExceptTemple</string>
+	<key>builderAlongStructure</key>
+	<string>checklistPerPlatform</string>
+	<key>collectionOrSystem</key>
+	<string>curvePatternBorder</string>
+	<key>commandShapeSkewy</key>
+	<string>playbackJobStatus</string>
+	<key>effectAsFacade</key>
+	<string>delicateNavigatorRotation</string>
+	<key>overlayVersusDecorator</key>
+	<string>axisVariableDepth</string>
+	<key>reusableEffectOpacity</key>
+	<string>spotNearDecorator</string>
+</dict>
+</plist>

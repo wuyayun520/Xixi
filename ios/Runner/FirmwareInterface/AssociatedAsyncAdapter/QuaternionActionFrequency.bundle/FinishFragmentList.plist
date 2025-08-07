@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsThanProxy</key>
+	<string>exceptionProcessTransparency</string>
+	<key>progressbarCommandValidation</key>
+	<string>resizableCosineEdge</string>
+	<key>signLevelType</key>
+	<string>serviceProcessTransparency</string>
+	<key>sliderShapeOpacity</key>
+	<string>storageSingletonCount</string>
+	<key>textChainOrigin</key>
+	<string>easyActionDuration</string>
+</dict>
+</plist>

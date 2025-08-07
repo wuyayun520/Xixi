@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedObserverOpacity</key>
+	<string>tabbarThroughProcess</string>
+	<key>clipperAtBridge</key>
+	<string>completionAgainstVariable</string>
+	<key>decorationDuringType</key>
+	<string>sampleStyleBorder</string>
+	<key>delegateInType</key>
+	<string>intuitiveTabviewTop</string>
+	<key>navigatorObserverFormat</key>
+	<string>denseDecorationScale</string>
+	<key>smartBoxshadowStyle</key>
+	<string>parallelAllocatorHead</string>
+	<key>statefulDecoratorBottom</key>
+	<string>functionalPreviewValidation</string>
+	<key>visibleIconDirection</key>
+	<string>tweenAwayMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCurveOffset</key>
+	<string>publicApertureLeft</string>
+	<key>ignoredButtonHue</key>
+	<string>logarithmDuringPattern</string>
+	<key>keyInterfaceLocation</key>
+	<string>cubitContainValue</string>
+	<key>offsetShapeContrast</key>
+	<string>histogramByKind</string>
+	<key>rapidBufferLeft</key>
+	<string>builderPatternScale</string>
+	<key>spotAroundMethod</key>
+	<string>customizedChannelColor</string>
+	<key>tappableStepMode</key>
+	<string>pointNumberMode</string>
+	<key>textureAroundFramework</key>
+	<string>progressbarLikeProcess</string>
+	<key>themeAndOperation</key>
+	<string>overlayThroughPrototype</string>
+	<key>titleStrategyResponse</key>
+	<string>queueInStyle</string>
+</dict>
+</plist>

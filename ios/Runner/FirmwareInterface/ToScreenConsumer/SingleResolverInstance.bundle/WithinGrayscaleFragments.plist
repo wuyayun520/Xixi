@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSingletonTint</key>
+	<string>imperativeOverlayState</string>
+	<key>concurrentWidgetMargin</key>
+	<string>interfaceNearBuffer</string>
+	<key>crudeCommandValidation</key>
+	<string>pinchableControllerScale</string>
+	<key>descriptorSystemVisibility</key>
+	<string>certificateVersusAdapter</string>
+	<key>disparateCanvasLocation</key>
+	<string>cupertinoParamMode</string>
+	<key>pageviewCompositeSkewx</key>
+	<string>newestNotificationFeedback</string>
+	<key>taskDespiteMethod</key>
+	<string>tweenAmongPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMasterVisible</key>
+	<string>dynamicMobxVelocity</string>
+	<key>eventEnvironmentSkewy</key>
+	<string>notifierCommandDirection</string>
+	<key>globalTaskLocation</key>
+	<string>durationTaskResponse</string>
+	<key>requestValueTransparency</key>
+	<string>remainderStrategyFrequency</string>
+	<key>sinkWithoutMode</key>
+	<string>visibleQueryDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPerScope</key>
+	<string>localizationStrategySpacing</string>
+	<key>cubeOrPlatform</key>
+	<string>segmentFunctionOrientation</string>
+	<key>gridTypeEdge</key>
+	<string>sliderFormKind</string>
+	<key>primaryBlocDuration</key>
+	<string>nativeLabelBorder</string>
+	<key>sortedRowSize</key>
+	<string>textureUntilStrategy</string>
+</dict>
+</plist>

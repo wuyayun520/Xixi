@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNodeValidation</key>
+	<string>permissiveRouterDepth</string>
+	<key>criticalHashFlags</key>
+	<string>adaptiveIntensityPosition</string>
+	<key>cupertinoKindMargin</key>
+	<string>descriptorEnvironmentLeft</string>
+	<key>currentProviderVisible</key>
+	<string>statefulOrPrototype</string>
+	<key>directActivityFrequency</key>
+	<string>paddingAroundWork</string>
+	<key>explicitMetadataName</key>
+	<string>retainedRadiusColor</string>
+	<key>featureLevelDensity</key>
+	<string>fusedWidgetVelocity</string>
+	<key>histogramIncludeNumber</key>
+	<string>independentSensorForce</string>
+	<key>missionInShape</key>
+	<string>capsuleOfAction</string>
+	<key>statefulAtProcess</key>
+	<string>reactiveMatrixAppearance</string>
+</dict>
+</plist>

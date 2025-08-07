@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constSwiftSpacing</key>
+	<string>controllerOperationVisibility</string>
+	<key>containerThanPhase</key>
+	<string>interactivePlaybackHead</string>
+	<key>directStoreInterval</key>
+	<string>statelessVersusInterpreter</string>
+	<key>pivotalMovementTheme</key>
+	<string>builderInBridge</string>
+	<key>reusableRadiusLeft</key>
+	<string>protectedBulletDuration</string>
+</dict>
+</plist>

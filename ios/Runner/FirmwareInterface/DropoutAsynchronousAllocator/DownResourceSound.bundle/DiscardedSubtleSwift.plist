@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoProjectionAppearance</key>
+	<string>custompaintNearBuffer</string>
+	<key>fixedTextVelocity</key>
+	<string>sliderPatternInteraction</string>
+	<key>futureDuringPattern</key>
+	<string>functionalCheckboxFormat</string>
+	<key>liteGestureHead</key>
+	<string>transitionFromContext</string>
+	<key>presenterChainEdge</key>
+	<string>navigatorActionRight</string>
+	<key>reducerLevelPressure</key>
+	<string>subsequentChapterTheme</string>
+	<key>segmentShapeInteraction</key>
+	<string>lostManagerForce</string>
+	<key>transitionMethodAppearance</key>
+	<string>queryAmongComposite</string>
+</dict>
+</plist>

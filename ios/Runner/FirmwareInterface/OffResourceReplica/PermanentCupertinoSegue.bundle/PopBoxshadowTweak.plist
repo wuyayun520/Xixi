@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAroundMethod</key>
+	<string>basicCanvasPressure</string>
+	<key>composableTangentBehavior</key>
+	<string>providerStructureBehavior</string>
+	<key>inactiveAnimationContrast</key>
+	<string>inkwellWithParam</string>
+	<key>memberTypeBottom</key>
+	<string>notificationOperationInteraction</string>
+	<key>queueDecoratorSize</key>
+	<string>threadSinceParam</string>
+	<key>radiusTempleTag</key>
+	<string>opaqueModulusSkewy</string>
+	<key>reactiveErrorDistance</key>
+	<string>builderStageCenter</string>
+	<key>textFunctionRight</key>
+	<string>boxProxyBorder</string>
+	<key>tweenExceptEnvironment</key>
+	<string>alphaAsBuffer</string>
+</dict>
+</plist>

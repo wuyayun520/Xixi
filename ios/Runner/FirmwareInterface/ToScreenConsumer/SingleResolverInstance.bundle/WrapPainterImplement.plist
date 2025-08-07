@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanentRadioInset</key>
+	<string>optionSincePhase</string>
+	<key>protectedRowBehavior</key>
+	<string>stampIncludeOperation</string>
+	<key>routeFormInteraction</key>
+	<string>activatedLayoutLeft</string>
+</dict>
+</plist>

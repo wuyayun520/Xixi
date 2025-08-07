@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPerContext</key>
+	<string>primaryMenuDelay</string>
+	<key>directActionScale</key>
+	<string>hardHashIndex</string>
+	<key>layerAmongSystem</key>
+	<string>touchOrStyle</string>
+	<key>roleMediatorValidation</key>
+	<string>subpixelWithoutMediator</string>
+	<key>unactivatedMultiplicationInteraction</key>
+	<string>cacheByDecorator</string>
+</dict>
+</plist>

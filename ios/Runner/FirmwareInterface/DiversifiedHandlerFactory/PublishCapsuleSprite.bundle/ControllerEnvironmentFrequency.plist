@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInteractorOrientation</key>
+	<string>containerByStyle</string>
+	<key>catalystStructureFrequency</key>
+	<string>customizedUtilBehavior</string>
+	<key>disparateIsolateLeft</key>
+	<string>priorActivitySaturation</string>
+	<key>fixedMetadataFeedback</key>
+	<string>dialogsAsStage</string>
+	<key>responseInParameter</key>
+	<string>missionScopeShape</string>
+</dict>
+</plist>

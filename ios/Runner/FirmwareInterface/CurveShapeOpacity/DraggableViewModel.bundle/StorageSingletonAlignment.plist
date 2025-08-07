@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSubscriptionFeedback</key>
+	<string>similarBitrateCenter</string>
+	<key>contractionAdapterTag</key>
+	<string>desktopAllocatorSkewx</string>
+	<key>durationChainSpeed</key>
+	<string>dropdownbuttonPlatformPosition</string>
+	<key>normalConfigurationSaturation</key>
+	<string>widgetCommandPressure</string>
+	<key>pageviewModeValidation</key>
+	<string>commonMovementIndex</string>
+	<key>secondPositionSpacing</key>
+	<string>compositionalSymbolOpacity</string>
+	<key>widgetAroundAction</key>
+	<string>alertAroundPlatform</string>
+</dict>
+</plist>

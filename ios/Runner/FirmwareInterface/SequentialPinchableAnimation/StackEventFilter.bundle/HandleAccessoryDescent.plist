@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedIntensityName</key>
+	<string>challengeFlyweightSaturation</string>
+	<key>activatedViewMargin</key>
+	<string>draggableStoreDelay</string>
+	<key>exceptionAtPlatform</key>
+	<string>descriptionVariableInterval</string>
+	<key>grayscaleEnvironmentSkewx</key>
+	<string>coordinatorVisitorDuration</string>
+	<key>symmetricIconName</key>
+	<string>dedicatedTransitionVisible</string>
+	<key>titleMediatorKind</key>
+	<string>tangentDecoratorFrequency</string>
+	<key>unactivatedAnchorVelocity</key>
+	<string>catalystViaEnvironment</string>
+	<key>viewNearBuffer</key>
+	<string>resizableBaseDistance</string>
+</dict>
+</plist>

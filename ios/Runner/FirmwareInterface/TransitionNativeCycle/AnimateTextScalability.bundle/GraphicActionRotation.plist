@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDimensionValidation</key>
+	<string>tabviewJobInset</string>
+	<key>comprehensiveDescriptionTheme</key>
+	<string>parallelCompletionPosition</string>
+	<key>cursorOperationPressure</key>
+	<string>containerIncludeSystem</string>
+	<key>factoryAndAction</key>
+	<string>requestExceptTask</string>
+	<key>mobileLocalizationOffset</key>
+	<string>decorationForTask</string>
+	<key>visibleViewPressure</key>
+	<string>originalTextIndex</string>
+</dict>
+</plist>

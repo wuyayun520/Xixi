@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAroundMethod</key>
+	<string>denseRouteInteraction</string>
+	<key>delegateUntilCommand</key>
+	<string>directWidgetRotation</string>
+	<key>fixedMediaqueryRate</key>
+	<string>animationOperationVisible</string>
+	<key>hierarchicalReducerAcceleration</key>
+	<string>stackAlongProxy</string>
+	<key>projectionBridgeBound</key>
+	<string>interpolationBeyondPattern</string>
+	<key>semanticBufferRotation</key>
+	<string>subscriptionEnvironmentTransparency</string>
+	<key>shaderParamBound</key>
+	<string>pointDespitePlatform</string>
+</dict>
+</plist>

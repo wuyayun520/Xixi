@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitLikeStrategy</key>
+	<string>gradientStyleValidation</string>
+	<key>exponentAtPrototype</key>
+	<string>cursorContextBehavior</string>
+	<key>geometricDelegateValidation</key>
+	<string>pinchableUsecaseSkewy</string>
+	<key>inheritedSessionEdge</key>
+	<string>stateViaMemento</string>
+	<key>routeProxyPosition</key>
+	<string>otherCubeBound</string>
+	<key>significantWorkflowSize</key>
+	<string>frameVarHead</string>
+	<key>swiftLikeFramework</key>
+	<string>protocolVarTransparency</string>
+	<key>timerAgainstComposite</key>
+	<string>invisibleUtilRotation</string>
+</dict>
+</plist>

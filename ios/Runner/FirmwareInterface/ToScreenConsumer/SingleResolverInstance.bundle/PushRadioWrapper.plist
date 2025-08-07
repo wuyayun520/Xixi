@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFormHue</key>
+	<string>singletonActionTint</string>
+	<key>callbackAgainstProxy</key>
+	<string>secondFactoryTag</string>
+	<key>diversifiedTransformerBorder</key>
+	<string>dependencyDuringFlyweight</string>
+	<key>fragmentNearShape</key>
+	<string>staticChartMomentum</string>
+	<key>resourceForStage</key>
+	<string>channelsFlyweightKind</string>
+</dict>
+</plist>

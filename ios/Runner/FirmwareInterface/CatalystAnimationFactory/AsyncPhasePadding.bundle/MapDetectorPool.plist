@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customArithmeticStyle</key>
+	<string>workflowDespiteShape</string>
+	<key>immutableServiceMode</key>
+	<string>drawerAgainstBridge</string>
+	<key>menuAtFlyweight</key>
+	<string>delegateBufferCoord</string>
+</dict>
+</plist>

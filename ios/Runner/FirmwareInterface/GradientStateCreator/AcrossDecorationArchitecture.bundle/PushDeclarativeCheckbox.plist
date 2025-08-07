@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorForProcess</key>
+	<string>managerExceptAdapter</string>
+	<key>durationStrategyDensity</key>
+	<string>stateBeyondBridge</string>
+	<key>exceptionCommandEdge</key>
+	<string>richtextPlatformDirection</string>
+	<key>providerByPlatform</key>
+	<string>spriteWorkTheme</string>
+	<key>requiredButtonInterval</key>
+	<string>transformerStyleTop</string>
+	<key>sensorMethodResponse</key>
+	<string>activatedIsolateHead</string>
+	<key>visibleAllocatorDirection</key>
+	<string>movementViaScope</string>
+</dict>
+</plist>

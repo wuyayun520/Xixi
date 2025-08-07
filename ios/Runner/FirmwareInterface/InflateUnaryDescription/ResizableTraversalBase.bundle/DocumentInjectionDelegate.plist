@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureByCommand</key>
+	<string>elasticCoordinatorRotation</string>
+	<key>observerByParameter</key>
+	<string>chartObserverDuration</string>
+	<key>statefulThanAdapter</key>
+	<string>dedicatedLayoutFlags</string>
+	<key>ternaryInsidePlatform</key>
+	<string>decorationSystemTag</string>
+	<key>textureAsMemento</key>
+	<string>threadDuringContext</string>
+</dict>
+</plist>

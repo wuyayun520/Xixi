@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineEnvironmentDepth</key>
+	<string>activityAdapterMode</string>
+	<key>channelCycleStatus</key>
+	<string>fusedRadiusCount</string>
+	<key>constNodeSaturation</key>
+	<string>loopContextStatus</string>
+	<key>delegateDuringStructure</key>
+	<string>nativeQueryValidation</string>
+	<key>draggableMethodDensity</key>
+	<string>responsiveBoxshadowKind</string>
+	<key>iterativeCallbackDirection</key>
+	<string>cellContainDecorator</string>
+	<key>navigatorCommandDuration</key>
+	<string>drawerVersusFlyweight</string>
+	<key>repositoryNearWork</key>
+	<string>nodeExceptFlyweight</string>
+	<key>smartPlaybackBorder</key>
+	<string>tickerStageRight</string>
+	<key>viewParameterTint</key>
+	<string>signAmongFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAlongSystem</key>
+	<string>awaitPlatformKind</string>
+	<key>directlyMethodVisible</key>
+	<string>animationFromComposite</string>
+	<key>precisionAgainstPhase</key>
+	<string>geometricQueueTop</string>
+	<key>sliderWithInterpreter</key>
+	<string>groupPrototypeCount</string>
+	<key>themeParameterAlignment</key>
+	<string>binaryMediatorTag</string>
+	<key>unaryActionTop</key>
+	<string>observerProxyDelay</string>
+</dict>
+</plist>

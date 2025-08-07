@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocByAction</key>
+	<string>cycleAsStructure</string>
+	<key>concurrentErrorState</key>
+	<string>navigatorCycleBorder</string>
+	<key>curveLikeSystem</key>
+	<string>mobxWithoutTask</string>
+	<key>gramOrScope</key>
+	<string>binaryAdapterForce</string>
+	<key>methodFromSingleton</key>
+	<string>gestureUntilMediator</string>
+	<key>paddingOutsideAction</key>
+	<string>customizedAnimationBorder</string>
+</dict>
+</plist>

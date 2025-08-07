@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeThemeType</key>
+	<string>isolateThroughAdapter</string>
+	<key>flexAlongSystem</key>
+	<string>sliderFromActivity</string>
+	<key>greatAspectForce</key>
+	<string>multiControllerShade</string>
+	<key>projectionAlongNumber</key>
+	<string>plateAndComposite</string>
+	<key>providerIncludeTier</key>
+	<string>accessibleFactoryTail</string>
+	<key>semanticGridShade</key>
+	<string>singletonInKind</string>
+	<key>sliderJobSize</key>
+	<string>specifyPainterShade</string>
+	<key>statelessWithoutLevel</key>
+	<string>workflowPrototypeDensity</string>
+	<key>techniqueStageName</key>
+	<string>discardedConfigurationHue</string>
+</dict>
+</plist>

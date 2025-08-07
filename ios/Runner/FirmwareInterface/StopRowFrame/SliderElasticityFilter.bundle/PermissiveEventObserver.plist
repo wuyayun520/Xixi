@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAlignmentHead</key>
+	<string>builderNearAction</string>
+	<key>functionalEventLocation</key>
+	<string>tableBeyondFacade</string>
+	<key>handlerFromForm</key>
+	<string>providerInsideStage</string>
+	<key>nextChannelFlags</key>
+	<string>constraintMementoPosition</string>
+	<key>notifierPerMemento</key>
+	<string>loopFrameworkTag</string>
+	<key>unactivatedIsolateMode</key>
+	<string>geometricCoordinatorVisibility</string>
+</dict>
+</plist>

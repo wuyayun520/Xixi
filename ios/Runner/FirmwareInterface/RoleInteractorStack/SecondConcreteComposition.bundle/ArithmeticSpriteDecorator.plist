@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionIncludeFunction</key>
+	<string>variantSingletonBound</string>
+	<key>histogramActionInset</key>
+	<string>constraintKindVelocity</string>
+	<key>hyperbolicProviderOrientation</key>
+	<string>cubitFlyweightContrast</string>
+	<key>iconInVisitor</key>
+	<string>sharedActionTop</string>
+	<key>sessionFrameworkVisible</key>
+	<string>offsetMementoColor</string>
+	<key>storyboardBeyondFlyweight</key>
+	<string>titleScopeStatus</string>
+</dict>
+</plist>

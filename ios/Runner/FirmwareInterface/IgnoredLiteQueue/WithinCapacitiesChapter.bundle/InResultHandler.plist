@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitViaDecorator</key>
+	<string>crudeNormOrigin</string>
+	<key>beginnerStorageFrequency</key>
+	<string>extensionNearBridge</string>
+	<key>geometricSignFrequency</key>
+	<string>cubitViaVariable</string>
+	<key>operationInsideDecorator</key>
+	<string>fusedTabbarDistance</string>
+	<key>repositorySinceFlyweight</key>
+	<string>modelMethodOffset</string>
+	<key>reusableGraphFrequency</key>
+	<string>scrollableCoordinatorOffset</string>
+	<key>streamByLayer</key>
+	<string>listviewThroughMediator</string>
+	<key>textureWorkFormat</key>
+	<string>grayscaleContainAdapter</string>
+</dict>
+</plist>

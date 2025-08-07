@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleViewSkewx</key>
+	<string>interactorAtInterpreter</string>
+	<key>boxWithoutWork</key>
+	<string>responsiveLoopRight</string>
+	<key>currentTitleOffset</key>
+	<string>menuMementoRotation</string>
+	<key>offsetPatternTop</key>
+	<string>standaloneCubeSize</string>
+	<key>sceneCycleSkewy</key>
+	<string>customTextureTheme</string>
+	<key>singleHeroAcceleration</key>
+	<string>disparateExceptionBehavior</string>
+	<key>smartSizedboxEdge</key>
+	<string>lossKindKind</string>
+	<key>unactivatedCurveAlignment</key>
+	<string>spriteOperationTop</string>
+</dict>
+</plist>

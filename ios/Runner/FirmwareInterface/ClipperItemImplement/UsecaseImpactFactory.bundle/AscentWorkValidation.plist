@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInValue</key>
+	<string>visibleRiverpodVelocity</string>
+	<key>listenerActivityVisibility</key>
+	<string>crudeBrushSaturation</string>
+	<key>pinchableSignPressure</key>
+	<string>subsequentPromiseBrightness</string>
+	<key>previewTypeScale</key>
+	<string>customizedResponseBorder</string>
+</dict>
+</plist>

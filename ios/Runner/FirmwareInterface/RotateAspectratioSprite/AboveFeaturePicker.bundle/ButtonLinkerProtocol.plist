@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerVariableVelocity</key>
+	<string>customAlphaForce</string>
+	<key>layoutPrototypeLeft</key>
+	<string>offsetByMethod</string>
+	<key>positionFlyweightBehavior</key>
+	<string>groupThanContext</string>
+	<key>responseStyleTail</key>
+	<string>anchorAmongContext</string>
+	<key>robustAlphaForce</key>
+	<string>resilientSinkVisibility</string>
+	<key>sizeCycleVelocity</key>
+	<string>resizableBehaviorBrightness</string>
+	<key>titleOperationFormat</key>
+	<string>advancedTangentDensity</string>
+	<key>widgetByPhase</key>
+	<string>basicIntensityBorder</string>
+	<key>widgetValueIndex</key>
+	<string>layoutFromPhase</string>
+</dict>
+</plist>

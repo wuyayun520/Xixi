@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBufferDistance</key>
+	<string>viewAdapterInterval</string>
+	<key>containerModeCoord</key>
+	<string>layoutBesideActivity</string>
+	<key>observerContextDuration</key>
+	<string>frameAgainstFunction</string>
+	<key>reductionInForm</key>
+	<string>hyperbolicImageHue</string>
+	<key>streamPlatformFrequency</key>
+	<string>apertureAndAction</string>
+</dict>
+</plist>

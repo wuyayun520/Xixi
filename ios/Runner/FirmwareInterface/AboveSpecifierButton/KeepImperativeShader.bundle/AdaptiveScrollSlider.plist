@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStateMomentum</key>
+	<string>labelTaskLocation</string>
+	<key>buttonChainFeedback</key>
+	<string>flexiblePositionMargin</string>
+	<key>finalMediaqueryHead</key>
+	<string>exceptionCyclePadding</string>
+	<key>gridOrStage</key>
+	<string>protectedResolverSpacing</string>
+	<key>gridviewExceptComposite</key>
+	<string>hashMementoCount</string>
+	<key>offsetForFacade</key>
+	<string>oldSliderDistance</string>
+	<key>textureTypeRotation</key>
+	<string>loopChainHead</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorPatternValidation</key>
+	<string>scaleFormValidation</string>
+	<key>interpolationFromTier</key>
+	<string>exponentFacadeMargin</string>
+	<key>popupFrameworkShape</key>
+	<string>indicatorBesideParam</string>
+	<key>requestInCycle</key>
+	<string>sampleParameterLeft</string>
+</dict>
+</plist>

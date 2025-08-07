@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumButtonVisible</key>
+	<string>denseSinkDepth</string>
+	<key>providerWithoutChain</key>
+	<string>priorBatchInterval</string>
+	<key>radiusWithLevel</key>
+	<string>particleOrCommand</string>
+	<key>sizedboxBufferType</key>
+	<string>singlePointTag</string>
+	<key>skirtDuringVar</key>
+	<string>handlerCycleResponse</string>
+	<key>taskUntilState</key>
+	<string>reducerBesideState</string>
+</dict>
+</plist>

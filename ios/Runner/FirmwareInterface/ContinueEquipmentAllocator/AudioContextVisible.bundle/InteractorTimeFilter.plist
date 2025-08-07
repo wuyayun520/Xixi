@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVisitorValidation</key>
+	<string>respectiveCoordinatorOpacity</string>
+	<key>animatedcontainerContextBehavior</key>
+	<string>firstStateDensity</string>
+	<key>finalModalBrightness</key>
+	<string>finalReducerDuration</string>
+	<key>futureBridgeSaturation</key>
+	<string>boxOfJob</string>
+	<key>promiseDuringLayer</key>
+	<string>tweenThroughBuffer</string>
+	<key>vectorShapeShape</key>
+	<string>commonCollectionInterval</string>
+</dict>
+</plist>

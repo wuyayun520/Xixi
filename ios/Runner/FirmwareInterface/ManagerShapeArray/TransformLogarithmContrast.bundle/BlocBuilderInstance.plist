@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTypeTail</key>
+	<string>titleStageContrast</string>
+	<key>cubeViaAction</key>
+	<string>constServiceHue</string>
+	<key>dependencyUntilCycle</key>
+	<string>accordionCallbackAppearance</string>
+	<key>fragmentPlatformDistance</key>
+	<string>positionTypeBorder</string>
+	<key>invisiblePositionedDistance</key>
+	<string>storageAlongDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalHandlerVelocity</key>
+	<string>cartesianSpriteMargin</string>
+	<key>hardLabelDuration</key>
+	<string>mobileModulusScale</string>
+	<key>keyBlocInset</key>
+	<string>eagerListenerShape</string>
+</dict>
+</plist>

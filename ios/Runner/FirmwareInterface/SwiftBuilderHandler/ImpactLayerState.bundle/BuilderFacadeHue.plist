@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientCommandOpacity</key>
+	<string>topicNearOperation</string>
+	<key>greatMissionFlags</key>
+	<string>providerSingletonContrast</string>
+	<key>largeDescriptorTint</key>
+	<string>interfaceVersusCommand</string>
+	<key>metadataAsNumber</key>
+	<string>publicStoreSaturation</string>
+	<key>overlayMethodStatus</key>
+	<string>groupOperationForce</string>
+	<key>serviceCompositeVisible</key>
+	<string>sortedMobileAlignment</string>
+	<key>serviceMethodVisible</key>
+	<string>heroScopeBorder</string>
+	<key>smallResourceEdge</key>
+	<string>observerBesideSingleton</string>
+	<key>tabviewMediatorFrequency</key>
+	<string>documentProcessOpacity</string>
+</dict>
+</plist>

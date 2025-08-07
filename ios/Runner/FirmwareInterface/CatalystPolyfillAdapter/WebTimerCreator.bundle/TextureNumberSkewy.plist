@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitGramFlags</key>
+	<string>menuAmongState</string>
+	<key>segueVersusChain</key>
+	<string>usageMediatorScale</string>
+	<key>sliderPhaseKind</key>
+	<string>materialProgressbarTail</string>
+	<key>sortedTransitionPosition</key>
+	<string>primaryFrameTag</string>
+	<key>tangentAgainstContext</key>
+	<string>coordinatorChainRotation</string>
+	<key>transitionInterpreterSaturation</key>
+	<string>delegateVersusVar</string>
+	<key>vectorTypeDuration</key>
+	<string>timerAwayParam</string>
+	<key>webProviderBorder</key>
+	<string>configurationModeShade</string>
+</dict>
+</plist>

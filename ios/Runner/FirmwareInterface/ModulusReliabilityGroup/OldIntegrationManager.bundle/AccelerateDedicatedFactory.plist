@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystAtLayer</key>
+	<string>largeSizeLeft</string>
+	<key>contractionMethodStyle</key>
+	<string>offsetOrValue</string>
+	<key>groupFlyweightContrast</key>
+	<string>missedDelegateCoord</string>
+	<key>presenterCommandInteraction</key>
+	<string>assetOfBridge</string>
+	<key>specifyNibDelay</key>
+	<string>elasticCacheInteraction</string>
+</dict>
+</plist>

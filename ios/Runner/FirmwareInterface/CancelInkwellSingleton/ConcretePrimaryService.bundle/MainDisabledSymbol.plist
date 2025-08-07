@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFrameworkHead</key>
+	<string>playbackTempleShape</string>
+	<key>desktopActivityScale</key>
+	<string>segueExceptLevel</string>
+	<key>diffableEntityOpacity</key>
+	<string>localSinkFlags</string>
+	<key>fusedNavigatorDistance</key>
+	<string>backwardGraphStyle</string>
+	<key>injectionCommandName</key>
+	<string>scrollableRectFlags</string>
+	<key>loopByInterpreter</key>
+	<string>configurationFacadeBrightness</string>
+	<key>storageCompositeShape</key>
+	<string>disabledProgressbarShade</string>
+	<key>toolBufferValidation</key>
+	<string>mapProcessInterval</string>
+</dict>
+</plist>

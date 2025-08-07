@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTierAlignment</key>
+	<string>intensityAgainstPrototype</string>
+	<key>coordinatorMediatorTheme</key>
+	<string>responseThroughPlatform</string>
+	<key>cubitContextTheme</key>
+	<string>singletonThanFramework</string>
+	<key>custompaintAboutChain</key>
+	<string>gradientStateType</string>
+	<key>errorByActivity</key>
+	<string>instructionVersusOperation</string>
+	<key>errorContextContrast</key>
+	<string>semanticsWithoutSingleton</string>
+	<key>logSinceFacade</key>
+	<string>inactiveLogState</string>
+	<key>resourceFromStrategy</key>
+	<string>mutableLossRate</string>
+	<key>semanticSwiftPressure</key>
+	<string>temporaryChallengeVisibility</string>
+	<key>subscriptionMediatorTop</key>
+	<string>respectiveProviderBorder</string>
+</dict>
+</plist>

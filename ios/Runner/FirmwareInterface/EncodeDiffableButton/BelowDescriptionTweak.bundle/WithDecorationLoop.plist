@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBulletAppearance</key>
+	<string>consultativeTextfieldPosition</string>
+	<key>asynchronousObserverDelay</key>
+	<string>nodeBeyondStyle</string>
+	<key>characterInMediator</key>
+	<string>screenPhaseBrightness</string>
+	<key>requiredTabviewLocation</key>
+	<string>convolutionMethodRight</string>
+	<key>spriteTierDuration</key>
+	<string>handlerNearCommand</string>
+	<key>textureAgainstJob</key>
+	<string>profileMementoOffset</string>
+</dict>
+</plist>

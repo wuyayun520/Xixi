@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderForOperation</key>
+	<string>actionProcessDelay</string>
+	<key>coordinatorAroundSystem</key>
+	<string>currentDependencyFormat</string>
+	<key>criticalPlaybackBorder</key>
+	<string>semanticsForLayer</string>
+	<key>lazyIsolateBound</key>
+	<string>resourceAboutLayer</string>
+	<key>navigatorCommandVisibility</key>
+	<string>canvasMediatorInteraction</string>
+	<key>requestParamForce</key>
+	<string>accessibleScrollPosition</string>
+	<key>shaderStructureDensity</key>
+	<string>compositionalAlignmentVelocity</string>
+	<key>sinkNearTemple</key>
+	<string>remainderOperationFeedback</string>
+	<key>tableWorkMargin</key>
+	<string>textureBufferDistance</string>
+	<key>timerObserverFrequency</key>
+	<string>queryFacadeMode</string>
+</dict>
+</plist>

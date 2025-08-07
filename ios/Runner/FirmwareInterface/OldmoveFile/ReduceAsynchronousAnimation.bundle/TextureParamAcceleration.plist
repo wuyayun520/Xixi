@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletCommandVelocity</key>
+	<string>errorWithStage</string>
+	<key>curveByPlatform</key>
+	<string>loopNumberScale</string>
+	<key>lastStatefulSpeed</key>
+	<string>tweenCompositeTop</string>
+	<key>popupViaObserver</key>
+	<string>directlyInjectionFrequency</string>
+	<key>retainedTaskState</key>
+	<string>animatedcontainerVarSpeed</string>
+	<key>usecaseAroundWork</key>
+	<string>indicatorShapeShape</string>
+	<key>widgetAndStyle</key>
+	<string>originalResolverDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderThroughPlatform</key>
+	<string>localizationActivityInterval</string>
+	<key>channelsStrategyFeedback</key>
+	<string>globalCompositionMode</string>
+	<key>semanticMenuDirection</key>
+	<string>accessibleNodeVisible</string>
+	<key>symbolActivityLeft</key>
+	<string>arithmeticGrayscaleBehavior</string>
+	<key>temporaryResourceTint</key>
+	<string>symmetricColumnPressure</string>
+	<key>toolThanShape</key>
+	<string>precisionMediatorSize</string>
+</dict>
+</plist>

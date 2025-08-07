@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterShapeAppearance</key>
+	<string>customNavigationForce</string>
+	<key>concurrentMetadataVisible</key>
+	<string>dimensionExceptEnvironment</string>
+	<key>lastSkirtCount</key>
+	<string>switchBesideState</string>
+	<key>localizationContainStrategy</key>
+	<string>accessibleInterfaceStatus</string>
+	<key>nativeRoleInterval</key>
+	<string>presenterVarTension</string>
+	<key>radiusByType</key>
+	<string>euclideanSegmentCenter</string>
+	<key>synchronousAllocatorFrequency</key>
+	<string>inactiveMediaMargin</string>
+	<key>tabbarBesideFramework</key>
+	<string>titleOfFlyweight</string>
+</dict>
+</plist>

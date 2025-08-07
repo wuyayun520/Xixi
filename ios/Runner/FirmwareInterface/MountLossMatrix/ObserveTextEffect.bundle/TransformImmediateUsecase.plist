@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPhaseValidation</key>
+	<string>resourceCompositeState</string>
+	<key>appbarPhaseVelocity</key>
+	<string>statelessBorderInset</string>
+	<key>geometricAnimationVisible</key>
+	<string>directlyThemeVelocity</string>
+	<key>gridIncludeVariable</key>
+	<string>nibBesideChain</string>
+	<key>modulusVariableCoord</key>
+	<string>semanticAllocatorType</string>
+	<key>numericalPreviewInteraction</key>
+	<string>logTierSaturation</string>
+	<key>pointSystemStatus</key>
+	<string>consultativeStreamDistance</string>
+	<key>providerValueBound</key>
+	<string>checklistMethodResponse</string>
+	<key>smallLoopPosition</key>
+	<string>transformerTypePressure</string>
+</dict>
+</plist>

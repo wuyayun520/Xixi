@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseOrigin</key>
+	<string>widgetSinceParam</string>
+	<key>arithmeticJobFeedback</key>
+	<string>tickerOfParameter</string>
+	<key>cacheOperationTag</key>
+	<string>gestureForFlyweight</string>
+	<key>coordinatorInContext</key>
+	<string>sceneNumberSaturation</string>
+	<key>eventPerShape</key>
+	<string>alignmentAgainstScope</string>
+	<key>loopIncludeVar</key>
+	<string>priorityUntilMediator</string>
+	<key>mobileViaSingleton</key>
+	<string>alertFrameworkPressure</string>
+	<key>queryLikeOperation</key>
+	<string>hashAdapterRotation</string>
+</dict>
+</plist>

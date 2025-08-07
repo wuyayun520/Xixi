@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartNearMode</key>
+	<string>advancedScreenShape</string>
+	<key>customSpineName</key>
+	<string>resizableTextureTransparency</string>
+	<key>interfaceBeyondTier</key>
+	<string>stepMementoTheme</string>
+	<key>stampSinceNumber</key>
+	<string>interpolationUntilCycle</string>
+	<key>variantWithLevel</key>
+	<string>sampleTempleSkewy</string>
+</dict>
+</plist>

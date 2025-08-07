@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDependencyForce</key>
+	<string>logarithmVarDepth</string>
+	<key>channelWithoutParam</key>
+	<string>gridStateColor</string>
+	<key>criticalChecklistTension</key>
+	<string>constraintStyleRotation</string>
+	<key>cycleIncludePattern</key>
+	<string>smartHeroPadding</string>
+	<key>effectStructureFrequency</key>
+	<string>declarativeRequestMargin</string>
+	<key>layoutOrState</key>
+	<string>futureChainOrientation</string>
+	<key>nodeValuePressure</key>
+	<string>apertureInterpreterDirection</string>
+	<key>notificationStructureSpacing</key>
+	<string>spineFlyweightOpacity</string>
+	<key>radioSinceStrategy</key>
+	<string>activityStrategyStyle</string>
+	<key>resizableGetxDirection</key>
+	<string>touchContainMemento</string>
+</dict>
+</plist>

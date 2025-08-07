@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationStyleValidation</key>
+	<string>secondTickerFrequency</string>
+	<key>flexibleSwitchBehavior</key>
+	<string>tickerBufferPosition</string>
+	<key>lazyStreamMargin</key>
+	<string>alertPerPrototype</string>
+	<key>queryDespiteMethod</key>
+	<string>disabledGetxBorder</string>
+	<key>seamlessFrameFlags</key>
+	<string>previewVisitorVisibility</string>
+	<key>sineFlyweightFrequency</key>
+	<string>dedicatedSpriteTag</string>
+	<key>singletonKindPosition</key>
+	<string>variantLikeAdapter</string>
+	<key>sinkVisitorOrigin</key>
+	<string>nextGesturedetectorTail</string>
+	<key>webBuilderFormat</key>
+	<string>zonePerLevel</string>
+</dict>
+</plist>

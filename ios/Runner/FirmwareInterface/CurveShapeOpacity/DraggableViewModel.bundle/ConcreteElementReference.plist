@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCubeType</key>
+	<string>controllerAmongStage</string>
+	<key>alignmentMethodStyle</key>
+	<string>expandedFlyweightShape</string>
+	<key>asyncAgainstBridge</key>
+	<string>accordionHashEdge</string>
+	<key>mapStructureLeft</key>
+	<string>flexMementoTag</string>
+	<key>resourceFromJob</key>
+	<string>activatedTabbarBound</string>
+	<key>storyboardVisitorInterval</key>
+	<string>instructionThanMemento</string>
+	<key>tableOutsideMethod</key>
+	<string>reductionViaBuffer</string>
+</dict>
+</plist>

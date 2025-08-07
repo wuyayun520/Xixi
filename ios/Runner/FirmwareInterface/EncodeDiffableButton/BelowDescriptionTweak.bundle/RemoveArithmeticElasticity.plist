@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitParameterRate</key>
+	<string>singletonForStrategy</string>
+	<key>cycleParamTag</key>
+	<string>functionalSymbolDelay</string>
+	<key>masterWorkBorder</key>
+	<string>remainderVarHead</string>
+	<key>observerActionOrigin</key>
+	<string>grainOrProxy</string>
+	<key>sizeDuringMethod</key>
+	<string>pointWithoutStage</string>
+</dict>
+</plist>

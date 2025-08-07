@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInterpolationForce</key>
+	<string>webResultInteraction</string>
+	<key>asyncSingletonAlignment</key>
+	<string>keyDecorationBound</string>
+	<key>cubitOfDecorator</key>
+	<string>visibleObserverTail</string>
+	<key>cupertinoPerStage</key>
+	<string>sizedboxFrameworkStyle</string>
+	<key>eagerContractionSkewx</key>
+	<string>containerBridgeBehavior</string>
+	<key>geometricGraphicCount</key>
+	<string>baseOfMediator</string>
+	<key>hyperbolicSegueKind</key>
+	<string>mediumInjectionRotation</string>
+	<key>kernelShapeIndex</key>
+	<string>delegateAndTier</string>
+	<key>relationalGroupAcceleration</key>
+	<string>spineIncludeMethod</string>
+</dict>
+</plist>

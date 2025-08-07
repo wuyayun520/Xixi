@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorStyleBound</key>
+	<string>priorInterfaceShade</string>
+	<key>futureTaskValidation</key>
+	<string>providerAgainstSingleton</string>
+	<key>injectionAmongObserver</key>
+	<string>petWithoutPrototype</string>
+	<key>interactiveModelOrigin</key>
+	<string>navigatorTempleScale</string>
+	<key>intuitiveSceneAppearance</key>
+	<string>resizableInterpolationContrast</string>
+	<key>matrixThroughProcess</key>
+	<string>reactiveDrawerLocation</string>
+	<key>storageVisitorBound</key>
+	<string>memberJobBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorWithMethod</key>
+	<string>precisionParameterResponse</string>
+	<key>chapterForKind</key>
+	<string>responseAroundDecorator</string>
+	<key>inactiveRectFrequency</key>
+	<string>ephemeralAnimationDelay</string>
+	<key>seamlessTangentBorder</key>
+	<string>graphicValueEdge</string>
+	<key>usecaseOrTask</key>
+	<string>tappableLossResponse</string>
+	<key>zoneFormInset</key>
+	<string>eventThanContext</string>
+</dict>
+</plist>

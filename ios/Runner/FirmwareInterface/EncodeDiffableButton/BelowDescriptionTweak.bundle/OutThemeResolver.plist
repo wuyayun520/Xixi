@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStackVisible</key>
+	<string>appbarVersusPattern</string>
+	<key>cartesianStreamInterval</key>
+	<string>secondSizedboxOrientation</string>
+	<key>interactiveServiceDelay</key>
+	<string>buttonBufferSize</string>
+	<key>singletonAmongScope</key>
+	<string>storageTaskOffset</string>
+	<key>statelessStampVisibility</key>
+	<string>responseMethodVelocity</string>
+	<key>tabviewStateVisible</key>
+	<string>constSkinInset</string>
+</dict>
+</plist>

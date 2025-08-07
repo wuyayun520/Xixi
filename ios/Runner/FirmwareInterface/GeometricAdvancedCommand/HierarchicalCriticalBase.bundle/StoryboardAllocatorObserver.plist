@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAmongWork</key>
+	<string>retainedNotificationForce</string>
+	<key>axisProcessVisible</key>
+	<string>advancedServiceDelay</string>
+	<key>clipperAgainstMediator</key>
+	<string>canvasOperationFlags</string>
+	<key>drawerShapeState</key>
+	<string>richtextParamFormat</string>
+	<key>handlerInMode</key>
+	<string>curveValueInset</string>
+	<key>interfaceThanPattern</key>
+	<string>beginnerNotificationFrequency</string>
+	<key>retainedUnaryDuration</key>
+	<string>mediumOverlayValidation</string>
+</dict>
+</plist>

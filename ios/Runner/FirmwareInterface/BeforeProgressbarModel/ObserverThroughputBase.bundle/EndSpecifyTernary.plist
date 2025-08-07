@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticConsumerMode</key>
+	<string>blocBeyondVariable</string>
+	<key>enabledDescriptionInset</key>
+	<string>cubitProcessForce</string>
+	<key>explicitScaleMode</key>
+	<string>riverpodAgainstStructure</string>
+	<key>exponentCycleSize</key>
+	<string>semanticsVarMargin</string>
+	<key>listenerVersusLevel</key>
+	<string>threadAgainstContext</string>
+	<key>marginShapeOrientation</key>
+	<string>dynamicBatchFrequency</string>
+	<key>mediocreTimerDuration</key>
+	<string>seamlessAnimatedcontainerAcceleration</string>
+	<key>plateAsShape</key>
+	<string>requestWithFunction</string>
+	<key>transformerVersusState</key>
+	<string>lossChainInterval</string>
+</dict>
+</plist>

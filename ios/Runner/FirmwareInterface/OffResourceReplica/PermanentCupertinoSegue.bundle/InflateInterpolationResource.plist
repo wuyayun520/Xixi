@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeWidgetTint</key>
+	<string>providerThroughStructure</string>
+	<key>durationValueRight</key>
+	<string>accordionGridviewStatus</string>
+	<key>exceptionStrategyInteraction</key>
+	<string>compositionalInteractorInteraction</string>
+	<key>granularNotificationDepth</key>
+	<string>axisDespiteActivity</string>
+	<key>hierarchicalCharacterBorder</key>
+	<string>equalizationWithoutActivity</string>
+	<key>statelessChartValidation</key>
+	<string>explicitQueryKind</string>
+</dict>
+</plist>

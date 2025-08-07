@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPrototypeFeedback</key>
+	<string>mediumBlocShade</string>
+	<key>masterSystemBorder</key>
+	<string>zoneAwayObserver</string>
+	<key>navigatorPrototypeTransparency</key>
+	<string>sharedGridStyle</string>
+	<key>queueAtAction</key>
+	<string>materialDelegateOpacity</string>
+	<key>resolverOutsideOperation</key>
+	<string>sensorCycleDistance</string>
+	<key>scrollCompositeShade</key>
+	<string>metadataKindDensity</string>
+	<key>skirtJobRight</key>
+	<string>viewAmongPrototype</string>
+</dict>
+</plist>

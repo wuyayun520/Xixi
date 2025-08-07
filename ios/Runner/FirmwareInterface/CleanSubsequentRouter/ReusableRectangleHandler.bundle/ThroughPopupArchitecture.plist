@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletInMethod</key>
+	<string>interpolationLayerLocation</string>
+	<key>handlerInFramework</key>
+	<string>plateViaFramework</string>
+	<key>hardApertureBehavior</key>
+	<string>transformerVersusComposite</string>
+	<key>localizationAsDecorator</key>
+	<string>semanticsInterpreterBorder</string>
+	<key>menuObserverFlags</key>
+	<string>normalRichtextDistance</string>
+	<key>missedAwaitPadding</key>
+	<string>boxshadowTaskOrigin</string>
+</dict>
+</plist>

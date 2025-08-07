@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBridgeShape</key>
+	<string>behaviorBeyondPattern</string>
+	<key>buttonProxyBorder</key>
+	<string>notificationBridgeInterval</string>
+	<key>interfaceExceptShape</key>
+	<string>tappableSensorOffset</string>
+	<key>storeInterpreterEdge</key>
+	<string>boxshadowActionStyle</string>
+	<key>tappableMobileSkewy</key>
+	<string>beginnerHeapOrigin</string>
+	<key>transitionActivityInteraction</key>
+	<string>sizeBeyondSystem</string>
+	<key>usedAppbarTop</key>
+	<string>respectiveTernaryScale</string>
+</dict>
+</plist>

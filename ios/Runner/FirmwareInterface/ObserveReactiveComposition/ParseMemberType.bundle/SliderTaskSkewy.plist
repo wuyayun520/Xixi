@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEffectFrequency</key>
+	<string>multiplicationPatternOffset</string>
+	<key>configurationWithStyle</key>
+	<string>listenerAlongOperation</string>
+	<key>frameOutsideMethod</key>
+	<string>statelessUntilParam</string>
+	<key>gateParamRate</key>
+	<string>pivotalGroupInterval</string>
+	<key>interactiveSpriteInterval</key>
+	<string>queryPlatformHue</string>
+	<key>operationWithCycle</key>
+	<string>robustCompleterCount</string>
+	<key>routeAmongMode</key>
+	<string>adaptiveUsecaseOpacity</string>
+</dict>
+</plist>

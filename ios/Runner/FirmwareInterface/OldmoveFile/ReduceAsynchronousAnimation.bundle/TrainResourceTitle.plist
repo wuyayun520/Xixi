@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDescriptionStyle</key>
+	<string>primaryMovementMargin</string>
+	<key>elasticAwaitDelay</key>
+	<string>sliderWorkDensity</string>
+	<key>navigationFunctionCoord</key>
+	<string>streamAmongVar</string>
+	<key>offsetSinceState</key>
+	<string>sensorInFacade</string>
+	<key>sinkAmongNumber</key>
+	<string>bufferParameterContrast</string>
+	<key>tensorChannelCenter</key>
+	<string>eventPerState</string>
+	<key>usedBlocDensity</key>
+	<string>coordinatorIncludeAction</string>
+</dict>
+</plist>

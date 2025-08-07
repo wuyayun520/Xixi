@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableNodeMode</key>
+	<string>lazyNodeOpacity</string>
+	<key>inkwellThroughScope</key>
+	<string>appbarWithFramework</string>
+	<key>resizableCallbackVelocity</key>
+	<string>entityAndStyle</string>
+	<key>subscriptionTypeVisible</key>
+	<string>transitionVersusStyle</string>
+	<key>tableBufferOrigin</key>
+	<string>reusableLayerFrequency</string>
+	<key>temporaryStreamCount</key>
+	<string>diversifiedSceneDepth</string>
+	<key>zoneLikeMethod</key>
+	<string>frameAwayProcess</string>
+</dict>
+</plist>

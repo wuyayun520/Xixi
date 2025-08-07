@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMovementInteraction</key>
+	<string>completerOperationColor</string>
+	<key>missedBorderBound</key>
+	<string>immutableCommandOrientation</string>
+	<key>popupPerOperation</key>
+	<string>ephemeralHashContrast</string>
+	<key>positionAtScope</key>
+	<string>navigatorUntilState</string>
+	<key>previewContainVisitor</key>
+	<string>numericalContainerFeedback</string>
+	<key>scrollableLabelTheme</key>
+	<string>profilePerMethod</string>
+	<key>spotProcessSpacing</key>
+	<string>viewContainBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandActivitySpacing</key>
+	<string>tappableMethodAlignment</string>
+	<key>declarativeKernelMode</key>
+	<string>viewFrameworkFeedback</string>
+	<key>descriptionCommandBorder</key>
+	<string>frameAmongMemento</string>
+	<key>diffableContainerFeedback</key>
+	<string>menuFromKind</string>
+	<key>fixedAnimationBottom</key>
+	<string>presenterActionDistance</string>
+	<key>granularPlateEdge</key>
+	<string>webTextInset</string>
+	<key>hardChannelTop</key>
+	<string>notificationDecoratorAppearance</string>
+	<key>newestExceptionPadding</key>
+	<string>resourceVersusScope</string>
+	<key>richtextVarValidation</key>
+	<string>constraintValueInteraction</string>
+	<key>tickerStateLeft</key>
+	<string>playbackOrVariable</string>
+</dict>
+</plist>

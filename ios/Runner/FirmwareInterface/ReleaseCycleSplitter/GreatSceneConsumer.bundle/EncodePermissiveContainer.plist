@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledPopupInteraction</key>
+	<string>immediateEventVisibility</string>
+	<key>indicatorKindPosition</key>
+	<string>rowDecoratorKind</string>
+	<key>routerCycleDistance</key>
+	<string>reducerBridgeSpacing</string>
+	<key>sceneFlyweightInterval</key>
+	<string>profileAboutBridge</string>
+	<key>titleInsideInterpreter</key>
+	<string>transformerSinceSystem</string>
+	<key>utilAwayContext</key>
+	<string>concurrentUsecaseHue</string>
+</dict>
+</plist>

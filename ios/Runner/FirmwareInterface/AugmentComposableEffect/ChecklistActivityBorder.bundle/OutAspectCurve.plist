@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerParamScale</key>
+	<string>transitionViaWork</string>
+	<key>cosinePerType</key>
+	<string>keyLoopPosition</string>
+	<key>deferredChannelDensity</key>
+	<string>oldViewState</string>
+	<key>delegateByKind</key>
+	<string>segmentMethodCenter</string>
+	<key>hashAsVar</key>
+	<string>inactiveModulusMargin</string>
+	<key>nodeStateSkewx</key>
+	<string>collectionVisitorInteraction</string>
+	<key>permissiveMenuSpacing</key>
+	<string>animationAmongPattern</string>
+	<key>taskWithCommand</key>
+	<string>resultProxyType</string>
+	<key>zoneForFacade</key>
+	<string>protectedPresenterShape</string>
+</dict>
+</plist>

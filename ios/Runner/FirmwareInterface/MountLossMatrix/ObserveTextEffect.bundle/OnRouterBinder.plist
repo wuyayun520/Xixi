@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTypeBottom</key>
+	<string>fusedCoordinatorTransparency</string>
+	<key>materialInsideStrategy</key>
+	<string>menuWithoutScope</string>
+	<key>mobxBeyondLevel</key>
+	<string>checklistCompositeBottom</string>
+	<key>otherTransitionDensity</key>
+	<string>smartMapSize</string>
+	<key>rapidModalBound</key>
+	<string>interfaceFromMode</string>
+	<key>subtleChapterLeft</key>
+	<string>pageviewAmongBridge</string>
+	<key>synchronousTransitionTop</key>
+	<string>discardedNodeLeft</string>
+	<key>unactivatedObserverFrequency</key>
+	<string>menuChainPressure</string>
+	<key>variantDespiteVar</key>
+	<string>stateByParameter</string>
+</dict>
+</plist>

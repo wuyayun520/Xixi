@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutActionKind</key>
+	<string>borderJobInteraction</string>
+	<key>reducerDuringPhase</key>
+	<string>sizeContainWork</string>
+	<key>tweenBufferStyle</key>
+	<string>nodeParameterSaturation</string>
+</dict>
+</plist>

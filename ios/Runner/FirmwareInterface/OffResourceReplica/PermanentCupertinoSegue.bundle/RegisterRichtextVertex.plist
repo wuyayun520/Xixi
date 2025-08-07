@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerTierAlignment</key>
+	<string>segmentContainLayer</string>
+	<key>enabledFlexFrequency</key>
+	<string>observerCompositeState</string>
+	<key>layoutByAdapter</key>
+	<string>curveActivityOrigin</string>
+	<key>resilientBuilderEdge</key>
+	<string>delegateVersusParam</string>
+	<key>storageNearKind</key>
+	<string>listenerInsideForm</string>
+</dict>
+</plist>

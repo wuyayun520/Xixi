@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerInterpreterStyle</key>
+	<string>compositionalBulletSpeed</string>
+	<key>draggableTouchSpacing</key>
+	<string>offsetAtStyle</string>
+	<key>lazyCommandDepth</key>
+	<string>alignmentShapeTag</string>
+	<key>responsePatternLocation</key>
+	<string>resolverAmongVariable</string>
+</dict>
+</plist>

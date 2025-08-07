@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticKindDepth</key>
+	<string>missionInsideAdapter</string>
+	<key>buttonWithoutOperation</key>
+	<string>sampleStrategyContrast</string>
+	<key>intermediatePreviewContrast</key>
+	<string>textureOperationRate</string>
+	<key>mutableTickerPosition</key>
+	<string>skinStyleHead</string>
+	<key>unsortedTweenBrightness</key>
+	<string>tappableShaderStyle</string>
+</dict>
+</plist>

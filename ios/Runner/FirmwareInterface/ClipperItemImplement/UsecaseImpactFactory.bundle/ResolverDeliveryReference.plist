@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOutsideShape</key>
+	<string>baseOrType</string>
+	<key>cubitInsideDecorator</key>
+	<string>characterNumberTag</string>
+	<key>effectThroughActivity</key>
+	<string>gemParamOffset</string>
+	<key>geometricCanvasCount</key>
+	<string>constBuilderDelay</string>
+	<key>lossWithoutOperation</key>
+	<string>localizationAgainstBridge</string>
+	<key>mapMethodShape</key>
+	<string>overlayValueVisible</string>
+	<key>popupInsideVar</key>
+	<string>euclideanSliderAlignment</string>
+	<key>storeObserverTension</key>
+	<string>basicChartShade</string>
+	<key>subscriptionAmongWork</key>
+	<string>resolverMediatorMargin</string>
+</dict>
+</plist>

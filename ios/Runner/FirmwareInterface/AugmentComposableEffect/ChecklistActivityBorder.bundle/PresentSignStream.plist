@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTypeInset</key>
+	<string>commonStoryboardRotation</string>
+	<key>difficultMenuBehavior</key>
+	<string>textForMethod</string>
+	<key>errorShapeSpacing</key>
+	<string>dedicatedFrameInteraction</string>
+	<key>largeCoordinatorState</key>
+	<string>diffableControllerAppearance</string>
+	<key>persistentAlignmentDistance</key>
+	<string>musicTaskScale</string>
+	<key>repositoryExceptVariable</key>
+	<string>layoutAsPhase</string>
+	<key>resolverAdapterDensity</key>
+	<string>accessibleIntegerShade</string>
+</dict>
+</plist>

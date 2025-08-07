@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAsTemple</key>
+	<string>invisibleModelHead</string>
+	<key>hardSkinFormat</key>
+	<string>imperativeBlocTag</string>
+	<key>pageviewFlyweightKind</key>
+	<string>subpixelCycleBound</string>
+	<key>robustThreadBound</key>
+	<string>ignoredPresenterDirection</string>
+	<key>sceneBeyondStyle</key>
+	<string>constMapColor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInCycle</key>
+	<string>diversifiedScreenResponse</string>
+	<key>effectParamOffset</key>
+	<string>pinchablePageviewInset</string>
+	<key>getxCompositeTail</key>
+	<string>precisionBufferDensity</string>
+	<key>missedReducerBottom</key>
+	<string>pageviewAtMediator</string>
+	<key>operationCommandFeedback</key>
+	<string>staticPopupValidation</string>
+	<key>threadNearFacade</key>
+	<string>curveContainShape</string>
+	<key>uniqueIsolatePosition</key>
+	<string>cubeLikeFunction</string>
+</dict>
+</plist>

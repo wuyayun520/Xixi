@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalIndicatorSize</key>
+	<string>immediateInterfaceBrightness</string>
+	<key>customContainerLocation</key>
+	<string>transitionAlongFlyweight</string>
+	<key>localizationVersusStrategy</key>
+	<string>metadataBeyondForm</string>
+	<key>navigatorActivityInset</key>
+	<string>sceneBridgeVelocity</string>
+</dict>
+</plist>

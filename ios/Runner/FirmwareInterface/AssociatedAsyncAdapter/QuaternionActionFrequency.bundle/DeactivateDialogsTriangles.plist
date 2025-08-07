@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChecklistBound</key>
+	<string>persistentScaleIndex</string>
+	<key>binaryPrototypePadding</key>
+	<string>spineObserverName</string>
+	<key>displayableBufferState</key>
+	<string>appbarContextPadding</string>
+	<key>seguePatternValidation</key>
+	<string>intermediateCheckboxName</string>
+	<key>sortedLayoutInterval</key>
+	<string>textPhaseContrast</string>
+	<key>sortedStepInteraction</key>
+	<string>crucialDocumentCount</string>
+	<key>tappableWorkflowSaturation</key>
+	<string>activatedAllocatorAlignment</string>
+	<key>transitionActionState</key>
+	<string>customizedDurationFlags</string>
+</dict>
+</plist>

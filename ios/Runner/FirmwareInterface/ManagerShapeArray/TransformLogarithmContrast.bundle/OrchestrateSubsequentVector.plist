@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderObserverVelocity</key>
+	<string>taskProcessIndex</string>
+	<key>completerStructureEdge</key>
+	<string>coordinatorOutsideTask</string>
+	<key>constBuilderInteraction</key>
+	<string>currentStreamDirection</string>
+	<key>factoryTaskStatus</key>
+	<string>hyperbolicStoreType</string>
+	<key>specifierContextContrast</key>
+	<string>currentBlocDirection</string>
+	<key>widgetProxyTension</key>
+	<string>responsiveTabviewHue</string>
+</dict>
+</plist>

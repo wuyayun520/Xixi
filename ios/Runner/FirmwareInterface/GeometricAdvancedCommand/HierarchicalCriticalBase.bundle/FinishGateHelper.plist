@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionExceptMode</key>
+	<string>pinchableHistogramVisibility</string>
+	<key>customizedSliderFeedback</key>
+	<string>painterPerState</string>
+	<key>kernelOperationContrast</key>
+	<string>segmentPerEnvironment</string>
+	<key>localizationInterpreterCenter</key>
+	<string>significantSpineColor</string>
+	<key>lostLoopSpacing</key>
+	<string>entityMethodAlignment</string>
+	<key>menuActivityTail</key>
+	<string>newestSpriteBottom</string>
+	<key>sliderBeyondPhase</key>
+	<string>lastLayerSkewx</string>
+	<key>tangentIncludeType</key>
+	<string>errorLevelValidation</string>
+	<key>timerViaMemento</key>
+	<string>navigatorDuringEnvironment</string>
+</dict>
+</plist>

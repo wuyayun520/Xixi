@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStateSkewy</key>
+	<string>previewIncludeParam</string>
+	<key>frameDuringShape</key>
+	<string>protectedHeapKind</string>
+	<key>futureOperationBorder</key>
+	<string>texturePatternColor</string>
+	<key>painterSinceCycle</key>
+	<string>materialPerCommand</string>
+</dict>
+</plist>

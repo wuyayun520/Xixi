@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricCollectionTheme</key>
+	<string>completerVersusTask</string>
+	<key>geometricSinkCenter</key>
+	<string>gridviewCycleDirection</string>
+	<key>globalCubitVelocity</key>
+	<string>checklistAlongVisitor</string>
+	<key>interactorThanDecorator</key>
+	<string>labelForFlyweight</string>
+	<key>metadataLikeFacade</key>
+	<string>spriteAroundWork</string>
+	<key>priorButtonType</key>
+	<string>stampWithoutLayer</string>
+	<key>providerDuringScope</key>
+	<string>presenterBufferTransparency</string>
+	<key>reducerStructureTag</key>
+	<string>resolverProxyMode</string>
+	<key>streamProxyMargin</key>
+	<string>directContractionVisibility</string>
+</dict>
+</plist>

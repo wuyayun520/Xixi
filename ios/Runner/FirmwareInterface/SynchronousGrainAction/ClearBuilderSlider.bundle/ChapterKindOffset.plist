@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTaskFlags</key>
+	<string>largeRepositoryShape</string>
+	<key>customizedTransitionMargin</key>
+	<string>displayableUsageTop</string>
+	<key>isolateParameterValidation</key>
+	<string>entityStructureBound</string>
+	<key>queryPerMemento</key>
+	<string>giftExceptLevel</string>
+	<key>reactiveSignatureVisibility</key>
+	<string>rapidLayoutLocation</string>
+</dict>
+</plist>

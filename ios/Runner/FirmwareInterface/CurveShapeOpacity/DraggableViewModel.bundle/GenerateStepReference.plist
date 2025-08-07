@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventFromFramework</key>
+	<string>asyncViewRotation</string>
+	<key>grainDecoratorFlags</key>
+	<string>customOverlayKind</string>
+	<key>interactorVersusOperation</key>
+	<string>positionForPlatform</string>
+	<key>normOutsideInterpreter</key>
+	<string>routerAboutStructure</string>
+	<key>priorityCycleSkewy</key>
+	<string>accessibleStateSize</string>
+	<key>routeStateTint</key>
+	<string>entropyWithPattern</string>
+	<key>specifierCommandSaturation</key>
+	<string>zoneNumberBound</string>
+	<key>subscriptionProxyScale</key>
+	<string>subsequentCoordinatorTint</string>
+</dict>
+</plist>

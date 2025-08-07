@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLogTop</key>
+	<string>pivotalStepShade</string>
+	<key>asyncBridgeVisibility</key>
+	<string>completerMethodDepth</string>
+	<key>composableConsumerLeft</key>
+	<string>entityPerBuffer</string>
+	<key>decorationInInterpreter</key>
+	<string>retainedMetadataRotation</string>
+	<key>grainAsState</key>
+	<string>decorationActivityShape</string>
+	<key>layoutStageMode</key>
+	<string>iconAroundVisitor</string>
+	<key>profileInsideBridge</key>
+	<string>histogramWithFacade</string>
+	<key>referenceVarScale</key>
+	<string>singletonContextAlignment</string>
+</dict>
+</plist>

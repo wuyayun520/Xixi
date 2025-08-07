@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultProviderStatus</key>
+	<string>containerObserverDuration</string>
+	<key>explicitCardRotation</key>
+	<string>slashObserverFrequency</string>
+	<key>lossNumberSaturation</key>
+	<string>anchorOperationScale</string>
+	<key>pinchableStampKind</key>
+	<string>statelessSemanticsIndex</string>
+	<key>playbackAdapterMode</key>
+	<string>mainGraphicIndex</string>
+	<key>progressbarStageMode</key>
+	<string>activatedAwaitOffset</string>
+	<key>scaleForVariable</key>
+	<string>synchronousConstraintValidation</string>
+	<key>symmetricTransitionCount</key>
+	<string>imperativeInteractorOpacity</string>
+	<key>workflowPerFramework</key>
+	<string>mediumCursorSpeed</string>
+	<key>zoneNearActivity</key>
+	<string>singletonTypeAppearance</string>
+</dict>
+</plist>

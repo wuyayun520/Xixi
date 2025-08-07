@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureAgainstVisitor</key>
+	<string>viewDuringMediator</string>
+	<key>metadataInsideVariable</key>
+	<string>storyboardInVisitor</string>
+	<key>optionStageResponse</key>
+	<string>equipmentShapeSize</string>
+	<key>robustControllerPadding</key>
+	<string>loopShapeEdge</string>
+</dict>
+</plist>

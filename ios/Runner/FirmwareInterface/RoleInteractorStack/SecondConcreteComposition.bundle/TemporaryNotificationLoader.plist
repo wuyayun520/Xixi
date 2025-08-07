@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopAlongAdapter</key>
+	<string>borderAtMemento</string>
+	<key>modalAtVariable</key>
+	<string>multiGrayscaleStatus</string>
+	<key>spineContainType</key>
+	<string>zoneInsideOperation</string>
+	<key>tappableRectTop</key>
+	<string>appbarCycleSize</string>
+	<key>taskPrototypeTop</key>
+	<string>webQueueLocation</string>
+	<key>usecaseThanAction</key>
+	<string>backwardInterpolationStyle</string>
+</dict>
+</plist>

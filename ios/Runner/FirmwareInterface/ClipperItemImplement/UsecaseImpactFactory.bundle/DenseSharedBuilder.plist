@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeFragmentSpeed</key>
+	<string>customMasterBrightness</string>
+	<key>dependencyFacadeBehavior</key>
+	<string>groupDuringTemple</string>
+	<key>gridSystemLeft</key>
+	<string>oldButtonOrigin</string>
+	<key>mobileAmongComposite</key>
+	<string>dynamicViewBrightness</string>
+	<key>operationByTemple</key>
+	<string>chapterTaskBorder</string>
+	<key>protocolByInterpreter</key>
+	<string>asyncLikeParam</string>
+	<key>sharedCompletionContrast</key>
+	<string>widgetDuringFunction</string>
+	<key>themeAsLayer</key>
+	<string>similarLayerHead</string>
+	<key>usageFromStage</key>
+	<string>commandVariableShade</string>
+</dict>
+</plist>

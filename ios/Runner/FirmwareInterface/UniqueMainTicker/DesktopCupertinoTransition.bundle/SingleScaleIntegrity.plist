@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisViaProxy</key>
+	<string>responseVisitorAcceleration</string>
+	<key>builderTierSkewy</key>
+	<string>chartUntilPrototype</string>
+	<key>completionStateMode</key>
+	<string>groupAsBridge</string>
+	<key>displayablePromiseResponse</key>
+	<string>getxSinceVariable</string>
+	<key>integerPhaseTop</key>
+	<string>arithmeticPresenterOrigin</string>
+	<key>logBeyondParameter</key>
+	<string>chartFacadeSpeed</string>
+	<key>methodDecoratorSaturation</key>
+	<string>providerFunctionOrientation</string>
+	<key>notifierBufferContrast</key>
+	<string>plateFacadeAlignment</string>
+</dict>
+</plist>

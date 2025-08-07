@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSceneDistance</key>
+	<string>immediateMovementVisible</string>
+	<key>agileViewTint</key>
+	<string>eventAtType</string>
+	<key>buttonFormLocation</key>
+	<string>popupSinceCommand</string>
+	<key>cubeBesideMediator</key>
+	<string>symbolStrategySpacing</string>
+	<key>delicateIsolateBottom</key>
+	<string>labelLevelHue</string>
+	<key>diversifiedSliderSpeed</key>
+	<string>eagerTopicHue</string>
+	<key>globalGraphBehavior</key>
+	<string>factorySinceFlyweight</string>
+	<key>navigatorViaBridge</key>
+	<string>positionObserverValidation</string>
+	<key>topicBridgeFrequency</key>
+	<string>commonExponentLocation</string>
+</dict>
+</plist>

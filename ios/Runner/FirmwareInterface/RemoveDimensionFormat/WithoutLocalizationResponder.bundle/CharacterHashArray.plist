@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLossDirection</key>
+	<string>eagerStackDelay</string>
+	<key>fusedGridviewCount</key>
+	<string>firstAccessoryTint</string>
+	<key>scaleThanLevel</key>
+	<string>notifierBeyondProcess</string>
+</dict>
+</plist>

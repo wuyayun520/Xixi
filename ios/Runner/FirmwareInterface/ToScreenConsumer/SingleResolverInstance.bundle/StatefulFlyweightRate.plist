@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTaskTint</key>
+	<string>nibMementoTint</string>
+	<key>effectByAction</key>
+	<string>interactiveRoleEdge</string>
+	<key>firstTransitionHead</key>
+	<string>factoryLikeState</string>
+	<key>optionDuringCycle</key>
+	<string>specifyAlphaPadding</string>
+	<key>painterInsideType</key>
+	<string>accordionSubscriptionCount</string>
+	<key>sessionAsFlyweight</key>
+	<string>cubeAwayObserver</string>
+	<key>subscriptionEnvironmentFormat</key>
+	<string>repositoryFormTransparency</string>
+	<key>textDespiteBuffer</key>
+	<string>boxAwayVar</string>
+</dict>
+</plist>

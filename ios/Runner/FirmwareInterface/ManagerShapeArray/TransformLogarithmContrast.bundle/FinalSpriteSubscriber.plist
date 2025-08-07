@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAmongActivity</key>
+	<string>missedLocalizationMargin</string>
+	<key>customizedSpriteDirection</key>
+	<string>storyboardThroughFramework</string>
+	<key>equipmentInsideOperation</key>
+	<string>taskFacadeResponse</string>
+	<key>graphicKindContrast</key>
+	<string>largeGraphState</string>
+	<key>iterativeMetadataDensity</key>
+	<string>assetOrMode</string>
+	<key>optionTaskMargin</key>
+	<string>specifyUtilState</string>
+	<key>sequentialCallbackOrientation</key>
+	<string>routerTypeTransparency</string>
+</dict>
+</plist>

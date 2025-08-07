@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseThroughSystem</key>
+	<string>geometricEffectForce</string>
+	<key>delegateMediatorEdge</key>
+	<string>chartFacadeOrientation</string>
+	<key>ignoredTransitionFormat</key>
+	<string>tickerAlongActivity</string>
+	<key>sinkLevelIndex</key>
+	<string>commonLossTheme</string>
+</dict>
+</plist>

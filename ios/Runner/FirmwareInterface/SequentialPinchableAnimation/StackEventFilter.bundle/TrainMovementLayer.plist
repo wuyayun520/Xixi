@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchThroughCycle</key>
+	<string>interfaceModeValidation</string>
+	<key>blocAtTier</key>
+	<string>assetFromChain</string>
+	<key>callbackThroughStrategy</key>
+	<string>cellBeyondObserver</string>
+	<key>displayableMonsterValidation</key>
+	<string>commonRowStatus</string>
+	<key>entityStrategyDensity</key>
+	<string>fixedChannelsScale</string>
+	<key>significantPreviewLocation</key>
+	<string>isolateViaJob</string>
+	<key>tappableModalTail</key>
+	<string>interpolationOrOperation</string>
+	<key>zoneAboutLayer</key>
+	<string>roleOrShape</string>
+</dict>
+</plist>

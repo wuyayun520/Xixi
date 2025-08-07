@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInteractorShade</key>
+	<string>constDecorationDistance</string>
+	<key>asyncTaskVelocity</key>
+	<string>bulletTaskOrientation</string>
+	<key>canvasCycleCount</key>
+	<string>gemInContext</string>
+	<key>documentOperationFeedback</key>
+	<string>expandedProxySaturation</string>
+	<key>histogramProcessFormat</key>
+	<string>prevConfigurationStatus</string>
+	<key>queryVersusDecorator</key>
+	<string>techniqueWorkSkewx</string>
+	<key>unactivatedGrayscaleStyle</key>
+	<string>petChainMode</string>
+</dict>
+</plist>

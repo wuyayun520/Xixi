@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOverlayTheme</key>
+	<string>sizeKindSpeed</string>
+	<key>similarMediaColor</key>
+	<string>playbackForShape</string>
+	<key>slashLikeOperation</key>
+	<string>chapterValueFormat</string>
+</dict>
+</plist>

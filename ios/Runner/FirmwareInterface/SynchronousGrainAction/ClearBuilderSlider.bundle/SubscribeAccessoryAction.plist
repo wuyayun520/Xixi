@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerContainPrototype</key>
+	<string>serviceLevelDuration</string>
+	<key>cubitFormFormat</key>
+	<string>decorationAtParameter</string>
+	<key>dedicatedSliderSpeed</key>
+	<string>curveModeSaturation</string>
+	<key>entityCommandTop</key>
+	<string>sineTypeMargin</string>
+	<key>graphicAsValue</key>
+	<string>stampStyleFrequency</string>
+	<key>notifierShapeDirection</key>
+	<string>particleExceptProxy</string>
+	<key>providerProcessScale</key>
+	<string>missedLossFlags</string>
+	<key>providerVarResponse</key>
+	<string>completerAmongNumber</string>
+	<key>reducerInsideTier</key>
+	<string>kernelInterpreterRotation</string>
+</dict>
+</plist>

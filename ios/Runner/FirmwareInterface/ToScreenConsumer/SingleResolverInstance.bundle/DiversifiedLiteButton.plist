@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistChainMode</key>
+	<string>globalVariantPosition</string>
+	<key>frameCompositeBrightness</key>
+	<string>localContainerInteraction</string>
+	<key>inactiveNavigatorType</key>
+	<string>baselineFromFacade</string>
+	<key>localCapacitiesOrigin</key>
+	<string>grayscaleWithEnvironment</string>
+	<key>protectedExceptionFlags</key>
+	<string>factoryWorkFlags</string>
+	<key>resultSingletonBorder</key>
+	<string>managerValueStyle</string>
+</dict>
+</plist>

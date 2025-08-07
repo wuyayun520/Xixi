@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesForParam</key>
+	<string>isolatePhaseTint</string>
+	<key>crudeReductionDistance</key>
+	<string>bufferInVisitor</string>
+	<key>currentFactoryOrientation</key>
+	<string>accessoryInterpreterTint</string>
+	<key>gestureInPrototype</key>
+	<string>toolBridgeTheme</string>
+	<key>intermediateStateBehavior</key>
+	<string>tabbarPatternFeedback</string>
+	<key>nextCompletionVisible</key>
+	<string>tabbarThroughCommand</string>
+	<key>originalOptionColor</key>
+	<string>gradientVersusAdapter</string>
+	<key>requestFromVariable</key>
+	<string>dependencyStyleName</string>
+	<key>secondPopupResponse</key>
+	<string>subscriptionExceptFlyweight</string>
+	<key>taskSinceContext</key>
+	<string>cubitBridgeIndex</string>
+</dict>
+</plist>

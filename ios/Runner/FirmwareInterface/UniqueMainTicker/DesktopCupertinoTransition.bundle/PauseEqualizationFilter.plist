@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMasterResponse</key>
+	<string>cubitPerJob</string>
+	<key>displayableGraphDistance</key>
+	<string>newestSceneTension</string>
+	<key>fixedDecorationTag</key>
+	<string>resolverActivityEdge</string>
+	<key>gateExceptFunction</key>
+	<string>reducerLikeBuffer</string>
+	<key>gateInsideProcess</key>
+	<string>managerOrContext</string>
+	<key>resilientClipperFeedback</key>
+	<string>errorNearCommand</string>
+	<key>segmentNearTask</key>
+	<string>textMediatorCoord</string>
+	<key>stampSinceLayer</key>
+	<string>heapSingletonPosition</string>
+	<key>stateTempleBehavior</key>
+	<string>metadataSinceLayer</string>
+	<key>tableTypeBorder</key>
+	<string>multiKernelDelay</string>
+</dict>
+</plist>

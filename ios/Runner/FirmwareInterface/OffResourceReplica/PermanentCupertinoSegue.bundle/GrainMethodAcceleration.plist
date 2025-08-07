@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWorkTheme</key>
+	<string>scrollForSingleton</string>
+	<key>disabledBitrateValidation</key>
+	<string>richtextModeState</string>
+	<key>mediumFragmentShade</key>
+	<string>resourceActionPosition</string>
+	<key>plateLikeComposite</key>
+	<string>transitionBeyondComposite</string>
+	<key>resolverAgainstCommand</key>
+	<string>widgetInsideLayer</string>
+	<key>responsiveDurationAlignment</key>
+	<string>hierarchicalResultValidation</string>
+	<key>signatureCompositeType</key>
+	<string>movementByActivity</string>
+	<key>sizeSinceVar</key>
+	<string>memberCompositeMode</string>
+	<key>statefulInstructionFeedback</key>
+	<string>segueForBridge</string>
+</dict>
+</plist>

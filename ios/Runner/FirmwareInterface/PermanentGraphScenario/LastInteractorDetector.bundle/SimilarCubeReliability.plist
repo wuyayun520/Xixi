@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOfSystem</key>
+	<string>subscriptionAsProxy</string>
+	<key>clipperVisitorEdge</key>
+	<string>notifierOfFlyweight</string>
+	<key>isolateInLevel</key>
+	<string>lastKernelVisibility</string>
+	<key>materialModeEdge</key>
+	<string>completerProcessInset</string>
+	<key>offsetCycleFormat</key>
+	<string>sceneJobVelocity</string>
+	<key>priorGrainBottom</key>
+	<string>touchWithoutSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushTypeValidation</key>
+	<string>iterativeNotifierMode</string>
+	<key>commandViaLevel</key>
+	<string>featureByComposite</string>
+	<key>dedicatedStoreBottom</key>
+	<string>sampleStageSpacing</string>
+	<key>gesturedetectorLikeStructure</key>
+	<string>cardStageDepth</string>
+	<key>grainExceptTier</key>
+	<string>pageviewContainStage</string>
+	<key>independentAsyncBehavior</key>
+	<string>accessoryPlatformLocation</string>
+	<key>mainCallbackContrast</key>
+	<string>presenterAlongFunction</string>
+	<key>normEnvironmentDensity</key>
+	<string>statefulDespiteVar</string>
+	<key>stateActionVisible</key>
+	<string>richtextSingletonOpacity</string>
+</dict>
+</plist>

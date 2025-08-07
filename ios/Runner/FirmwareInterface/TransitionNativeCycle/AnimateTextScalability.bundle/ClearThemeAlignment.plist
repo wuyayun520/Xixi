@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterpreterOffset</key>
+	<string>inactiveSpriteDensity</string>
+	<key>associatedClipperBehavior</key>
+	<string>lazyInjectionOrigin</string>
+	<key>canvasNumberSaturation</key>
+	<string>precisionParameterTransparency</string>
+	<key>commandAlongStrategy</key>
+	<string>activatedCallbackSkewy</string>
+	<key>materialConfigurationTail</key>
+	<string>resolverFlyweightOrientation</string>
+	<key>plateContainWork</key>
+	<string>viewProcessFlags</string>
+	<key>sortedCompositionVisibility</key>
+	<string>stackExceptTask</string>
+</dict>
+</plist>

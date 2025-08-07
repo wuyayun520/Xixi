@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLabelTheme</key>
+	<string>temporaryEntropyVisible</string>
+	<key>effectContainCycle</key>
+	<string>normalExpandedFlags</string>
+	<key>layoutBridgeDelay</key>
+	<string>directTransitionInset</string>
+	<key>listenerKindContrast</key>
+	<string>animatedDurationTail</string>
+	<key>mobileContainerOrientation</key>
+	<string>grayscaleOrChain</string>
+	<key>multiplicationDuringStage</key>
+	<string>cellDespiteLevel</string>
+</dict>
+</plist>

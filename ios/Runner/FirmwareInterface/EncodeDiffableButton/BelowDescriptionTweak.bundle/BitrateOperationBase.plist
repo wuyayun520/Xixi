@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseDensity</key>
+	<string>basicQueueFeedback</string>
+	<key>arithmeticStyleContrast</key>
+	<string>textureInInterpreter</string>
+	<key>managerVersusLevel</key>
+	<string>declarativeCubitLeft</string>
+	<key>mobileDespiteSingleton</key>
+	<string>disparateCommandSize</string>
+	<key>oldInteractorTag</key>
+	<string>stateOrTier</string>
+	<key>relationalObserverMargin</key>
+	<string>composableCubitScale</string>
+	<key>serviceWorkResponse</key>
+	<string>activeStorageMargin</string>
+	<key>tensorSliderInset</key>
+	<string>criticalProfileFrequency</string>
+</dict>
+</plist>

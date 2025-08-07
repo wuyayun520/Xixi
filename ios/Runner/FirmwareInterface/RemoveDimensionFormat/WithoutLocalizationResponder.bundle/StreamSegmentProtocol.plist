@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricTransitionValidation</key>
+	<string>iterativeCallbackDelay</string>
+	<key>nextSegmentAppearance</key>
+	<string>subpixelLevelLeft</string>
+	<key>resourceViaSystem</key>
+	<string>buttonVersusSingleton</string>
+	<key>storeAboutFramework</key>
+	<string>normMethodContrast</string>
+</dict>
+</plist>

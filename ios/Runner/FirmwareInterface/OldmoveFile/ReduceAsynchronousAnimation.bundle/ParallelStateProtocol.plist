@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCheckboxCoord</key>
+	<string>disabledNavigationScale</string>
+	<key>giftFlyweightMode</key>
+	<string>observerDecoratorLeft</string>
+	<key>persistentSignatureOpacity</key>
+	<string>requestPerOperation</string>
+	<key>routeOfChain</key>
+	<string>presenterParameterTransparency</string>
+	<key>tappableChapterInterval</key>
+	<string>eagerViewDirection</string>
+	<key>typicalDrawerDepth</key>
+	<string>modelAgainstCycle</string>
+</dict>
+</plist>

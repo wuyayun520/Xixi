@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioIncludeParam</key>
+	<string>elasticSliderOffset</string>
+	<key>binaryBeyondPattern</key>
+	<string>activatedParticleVelocity</string>
+	<key>bulletWithVar</key>
+	<string>smartGridBehavior</string>
+	<key>displayableRiverpodTransparency</key>
+	<string>futureMethodTransparency</string>
+	<key>mainSizeDelay</key>
+	<string>euclideanTimerColor</string>
+	<key>primaryLoopVisible</key>
+	<string>statefulLayerDirection</string>
+	<key>retainedLoopStatus</key>
+	<string>cosineByOperation</string>
+	<key>usecaseDespiteCommand</key>
+	<string>reusableCommandPosition</string>
+</dict>
+</plist>

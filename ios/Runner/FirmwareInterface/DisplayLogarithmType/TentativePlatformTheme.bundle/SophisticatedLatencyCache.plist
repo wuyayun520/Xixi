@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAlongValue</key>
+	<string>accessoryNearMode</string>
+	<key>delegateTypeLeft</key>
+	<string>signValueHead</string>
+	<key>easyIndicatorScale</key>
+	<string>completerWorkDuration</string>
+	<key>explicitMonsterShape</key>
+	<string>disabledTextAlignment</string>
+	<key>exponentPatternCoord</key>
+	<string>builderInterpreterColor</string>
+	<key>inheritedPreviewPadding</key>
+	<string>firstToolState</string>
+	<key>projectAboutMemento</key>
+	<string>globalActivityStatus</string>
+	<key>screenForVariable</key>
+	<string>alertAsVariable</string>
+	<key>webRouteHead</key>
+	<string>chartVariableBorder</string>
+</dict>
+</plist>

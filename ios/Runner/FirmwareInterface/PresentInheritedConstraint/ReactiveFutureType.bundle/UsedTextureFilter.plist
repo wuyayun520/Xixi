@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveThroughStrategy</key>
+	<string>modelStyleSkewy</string>
+	<key>discardedSkinCenter</key>
+	<string>catalystLikeStyle</string>
+	<key>factoryExceptMode</key>
+	<string>blocAdapterTheme</string>
+	<key>groupContainAdapter</key>
+	<string>scrollableApertureFeedback</string>
+	<key>nodeInterpreterTail</key>
+	<string>mutableWidgetTail</string>
+	<key>textStructureScale</key>
+	<string>localizationWorkDuration</string>
+	<key>usedInkwellVisible</key>
+	<string>pivotalFeatureShape</string>
+</dict>
+</plist>

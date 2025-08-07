@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleCurveContrast</key>
+	<string>channelChainDistance</string>
+	<key>masterAsCommand</key>
+	<string>mapWithoutVar</string>
+	<key>singletonActivityOpacity</key>
+	<string>fixedMetadataFeedback</string>
+</dict>
+</plist>

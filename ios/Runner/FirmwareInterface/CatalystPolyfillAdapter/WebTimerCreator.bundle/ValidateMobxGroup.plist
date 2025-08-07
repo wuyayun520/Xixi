@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveEnvironmentBrightness</key>
+	<string>staticSliderSize</string>
+	<key>desktopScreenStatus</key>
+	<string>usedCurvePressure</string>
+	<key>layoutPerInterpreter</key>
+	<string>usedSensorEdge</string>
+	<key>pivotalStateOffset</key>
+	<string>nextBasePosition</string>
+	<key>scaleWithWork</key>
+	<string>relationalIndicatorDensity</string>
+	<key>sessionCycleMomentum</key>
+	<string>sizeOrFunction</string>
+	<key>streamFunctionDelay</key>
+	<string>unactivatedObserverOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowThanCycle</key>
+	<string>pinchableAsyncShade</string>
+	<key>declarativeMobxFormat</key>
+	<string>navigatorParamSpeed</string>
+	<key>featurePerBuffer</key>
+	<string>globalEventInset</string>
+	<key>layerWorkDirection</key>
+	<string>reactiveEqualizationMode</string>
+	<key>precisionFlyweightShape</key>
+	<string>dependencyThroughFunction</string>
+	<key>signDuringDecorator</key>
+	<string>tangentSystemEdge</string>
+	<key>typicalBlocForce</key>
+	<string>directCollectionBrightness</string>
+</dict>
+</plist>

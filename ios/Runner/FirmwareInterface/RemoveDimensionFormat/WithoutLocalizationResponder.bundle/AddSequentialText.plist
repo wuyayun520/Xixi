@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateProviderAcceleration</key>
+	<string>resourcePrototypeShape</string>
+	<key>keyDelegateRotation</key>
+	<string>touchThroughMethod</string>
+	<key>largeSwitchSkewy</key>
+	<string>commandMethodPadding</string>
+	<key>serviceActivityHead</key>
+	<string>directTextVisibility</string>
+	<key>sliderPhaseTint</key>
+	<string>crucialOptionType</string>
+	<key>storeActivityPressure</key>
+	<string>asynchronousMomentumInteraction</string>
+	<key>textExceptValue</key>
+	<string>robustGetxSkewx</string>
+</dict>
+</plist>

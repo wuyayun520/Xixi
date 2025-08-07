@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitPerFlyweight</key>
+	<string>interfaceUntilNumber</string>
+	<key>dimensionCommandMargin</key>
+	<string>viewVariableDelay</string>
+	<key>greatCapsuleAlignment</key>
+	<string>pageviewStyleLeft</string>
+	<key>webResolverDistance</key>
+	<string>segmentAlongMemento</string>
+</dict>
+</plist>

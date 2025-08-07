@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpecifierFlags</key>
+	<string>variantOfFacade</string>
+	<key>allocatorFrameworkTail</key>
+	<string>sequentialTextFrequency</string>
+	<key>blocMethodResponse</key>
+	<string>handlerIncludeState</string>
+	<key>grayscaleFlyweightTop</key>
+	<string>iconTypeFrequency</string>
+	<key>iterativeCaptionDuration</key>
+	<string>animatedcontainerDespiteStage</string>
+	<key>nodeSinceFacade</key>
+	<string>crudeTextfieldSkewy</string>
+	<key>respectiveTextfieldRotation</key>
+	<string>subtleSliderTheme</string>
+	<key>singletonPatternFrequency</key>
+	<string>builderAsLayer</string>
+	<key>tweenViaState</key>
+	<string>explicitCanvasSize</string>
+</dict>
+</plist>

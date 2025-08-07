@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorNearVariable</key>
+	<string>boxshadowSystemDensity</string>
+	<key>delegatePerShape</key>
+	<string>servicePerStructure</string>
+	<key>durationBesideVisitor</key>
+	<string>durationAmongCommand</string>
+	<key>firstRouteTint</key>
+	<string>widgetFlyweightEdge</string>
+	<key>loopStrategyTail</key>
+	<string>brushViaInterpreter</string>
+	<key>lostCellDuration</key>
+	<string>dimensionActivityOpacity</string>
+	<key>normalSpecifierAcceleration</key>
+	<string>composableResolverSize</string>
+	<key>signAmongState</key>
+	<string>uniformSubscriptionTop</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorWorkSpeed</key>
+	<string>subscriptionThroughContext</string>
+	<key>reductionProcessTransparency</key>
+	<string>projectionContainCommand</string>
+	<key>signatureViaValue</key>
+	<string>delegateByFlyweight</string>
+	<key>streamOrFunction</key>
+	<string>sizedboxOfDecorator</string>
+</dict>
+</plist>

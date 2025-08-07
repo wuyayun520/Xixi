@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineChainBorder</key>
+	<string>awaitParamSize</string>
+	<key>desktopModelInset</key>
+	<string>tensorCupertinoOrientation</string>
+	<key>mainSpriteTheme</key>
+	<string>desktopTableIndex</string>
+	<key>nextFrameEdge</key>
+	<string>channelsContextDuration</string>
+	<key>sampleOutsideStage</key>
+	<string>sizeFlyweightSkewy</string>
+	<key>scrollableUtilHue</key>
+	<string>denseDelegateSpeed</string>
+	<key>tappableChallengeSaturation</key>
+	<string>persistentToolFrequency</string>
+	<key>unsortedModelLocation</key>
+	<string>sizedboxWithStrategy</string>
+</dict>
+</plist>

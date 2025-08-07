@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFrameworkBound</key>
+	<string>greatTextfieldSkewx</string>
+	<key>currentRadioFlags</key>
+	<string>actionBesidePlatform</string>
+	<key>featureViaProxy</key>
+	<string>constraintPerProcess</string>
+	<key>futureInterpreterBottom</key>
+	<string>lazyResourceFeedback</string>
+	<key>gridviewOutsideProxy</key>
+	<string>entityVisitorInteraction</string>
+	<key>ignoredConsumerState</key>
+	<string>resourceTempleDuration</string>
+	<key>methodLikeActivity</key>
+	<string>storePhaseMargin</string>
+	<key>otherChartFeedback</key>
+	<string>constraintWorkDensity</string>
+	<key>rectMethodVelocity</key>
+	<string>completerJobAlignment</string>
+</dict>
+</plist>

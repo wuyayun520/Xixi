@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFromTask</key>
+	<string>interfaceAndNumber</string>
+	<key>localizationVisitorVisible</key>
+	<string>mapScopeInset</string>
+	<key>offsetMethodSpeed</key>
+	<string>visibleSpriteFrequency</string>
+	<key>staticRepositorySize</key>
+	<string>scrollInterpreterTail</string>
+</dict>
+</plist>

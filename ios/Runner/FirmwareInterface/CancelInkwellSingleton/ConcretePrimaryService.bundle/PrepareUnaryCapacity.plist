@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentActionInterval</key>
+	<string>mainTaskTag</string>
+	<key>cubitFacadeVelocity</key>
+	<string>gateDecoratorRotation</string>
+	<key>deferredProjectInteraction</key>
+	<string>clipperAdapterResponse</string>
+	<key>durationStateTension</key>
+	<string>methodProxyOffset</string>
+	<key>hierarchicalColumnBrightness</key>
+	<string>exceptionVisitorCount</string>
+	<key>stateThroughVar</key>
+	<string>deferredAssetStatus</string>
+	<key>streamAlongStyle</key>
+	<string>chapterCommandCount</string>
+	<key>webTitleRotation</key>
+	<string>diffableCupertinoDelay</string>
+</dict>
+</plist>

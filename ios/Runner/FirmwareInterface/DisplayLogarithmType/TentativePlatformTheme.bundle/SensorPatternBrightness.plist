@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResourceSaturation</key>
+	<string>mediaqueryDuringParameter</string>
+	<key>containerProxyOffset</key>
+	<string>localizationOrObserver</string>
+	<key>gateOutsideComposite</key>
+	<string>hashFunctionTransparency</string>
+	<key>matrixInStage</key>
+	<string>providerIncludeAction</string>
+	<key>spriteStructureLeft</key>
+	<string>customizedTopicMargin</string>
+	<key>subscriptionVisitorTag</key>
+	<string>adaptiveLabelRight</string>
+	<key>ternaryOutsideAdapter</key>
+	<string>eagerRowOpacity</string>
+	<key>tweenAmongProcess</key>
+	<string>sizedboxDuringPhase</string>
+</dict>
+</plist>

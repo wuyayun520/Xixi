@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncActivityHead</key>
+	<string>repositoryProcessShape</string>
+	<key>delegateAlongSingleton</key>
+	<string>fixedTernaryKind</string>
+	<key>desktopGrayscaleContrast</key>
+	<string>invisibleGroupColor</string>
+	<key>granularBuilderBehavior</key>
+	<string>reactiveGridSpacing</string>
+	<key>layerStructureTension</key>
+	<string>enabledIsolateOffset</string>
+	<key>localTweenHue</key>
+	<string>columnInsideInterpreter</string>
+	<key>sensorStageValidation</key>
+	<string>gridOrPlatform</string>
+</dict>
+</plist>

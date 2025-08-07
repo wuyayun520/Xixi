@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBeyondCycle</key>
+	<string>constraintAlongProcess</string>
+	<key>columnBesideProcess</key>
+	<string>originalRemainderBorder</string>
+	<key>delicateStampOrientation</key>
+	<string>curveTaskRotation</string>
+	<key>denseDialogsKind</key>
+	<string>cartesianHandlerTint</string>
+	<key>interactorPlatformTail</key>
+	<string>sinkActionBound</string>
+	<key>listviewAndWork</key>
+	<string>containerAroundBuffer</string>
+	<key>shaderTierSize</key>
+	<string>nextMenuAppearance</string>
+	<key>synchronousErrorStatus</key>
+	<string>resourceVersusVar</string>
+</dict>
+</plist>

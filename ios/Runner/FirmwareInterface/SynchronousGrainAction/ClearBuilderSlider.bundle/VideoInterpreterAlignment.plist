@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartKindShade</key>
+	<string>cubeAlongWork</string>
+	<key>imperativeAnimationPressure</key>
+	<string>modalFlyweightSkewy</string>
+	<key>reusablePlaybackMode</key>
+	<string>gesturedetectorStageAcceleration</string>
+	<key>storeFunctionAcceleration</key>
+	<string>widgetAlongOperation</string>
+	<key>ternaryLayerAppearance</key>
+	<string>factoryDespiteScope</string>
+</dict>
+</plist>

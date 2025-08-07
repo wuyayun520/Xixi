@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAlongSystem</key>
+	<string>mapActionColor</string>
+	<key>cellLikeContext</key>
+	<string>reusableBlocBehavior</string>
+	<key>cubeThroughStrategy</key>
+	<string>navigationFromLevel</string>
+	<key>keyButtonForce</key>
+	<string>boxStateHue</string>
+	<key>missionFromJob</key>
+	<string>resourceFacadeResponse</string>
+	<key>routeChainFormat</key>
+	<string>completerTaskMargin</string>
+	<key>textureMediatorTension</key>
+	<string>tangentLevelAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotificationVelocity</key>
+	<string>beginnerTickerRight</string>
+	<key>boxAndDecorator</key>
+	<string>backwardSpecifierRight</string>
+	<key>nextQueueStatus</key>
+	<string>sliderValueCenter</string>
+	<key>offsetAroundAdapter</key>
+	<string>blocActionType</string>
+	<key>positionOrForm</key>
+	<string>intermediateOverlayShape</string>
+</dict>
+</plist>

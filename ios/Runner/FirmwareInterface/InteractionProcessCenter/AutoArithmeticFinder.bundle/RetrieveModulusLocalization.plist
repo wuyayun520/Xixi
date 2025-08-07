@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoApertureDuration</key>
+	<string>configurationAndJob</string>
+	<key>cupertinoDescriptorSaturation</key>
+	<string>opaqueOffsetDirection</string>
+	<key>errorShapeValidation</key>
+	<string>liteAppbarBehavior</string>
+	<key>originalGraphicShape</key>
+	<string>observerParamCoord</string>
+	<key>persistentTextState</key>
+	<string>disabledCupertinoStyle</string>
+	<key>spriteParamKind</key>
+	<string>cosinePrototypePadding</string>
+	<key>themeNumberInset</key>
+	<string>nativeReducerDepth</string>
+</dict>
+</plist>

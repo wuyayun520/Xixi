@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledConfigurationTop</key>
+	<string>utilWithoutVariable</string>
+	<key>factoryAlongFacade</key>
+	<string>localizationThroughSystem</string>
+	<key>modelFormBrightness</key>
+	<string>animatedcontainerPrototypeVelocity</string>
+	<key>navigationWorkDepth</key>
+	<string>allocatorStyleFlags</string>
+	<key>numericalIconBehavior</key>
+	<string>stateDecoratorDirection</string>
+	<key>persistentTransformerTint</key>
+	<string>displayableMenuPosition</string>
+	<key>prismaticNavigatorInset</key>
+	<string>streamVariableDensity</string>
+	<key>relationalLoopValidation</key>
+	<string>routeOutsideCycle</string>
+	<key>remainderInsideFramework</key>
+	<string>tangentFlyweightLocation</string>
+	<key>sceneBeyondStage</key>
+	<string>musicBufferSpacing</string>
+</dict>
+</plist>

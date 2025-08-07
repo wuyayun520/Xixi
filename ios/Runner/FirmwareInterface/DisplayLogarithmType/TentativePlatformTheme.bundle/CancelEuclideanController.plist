@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionOrFunction</key>
+	<string>concurrentObserverFrequency</string>
+	<key>difficultObserverLocation</key>
+	<string>routePatternTail</string>
+	<key>nativeSwitchForce</key>
+	<string>swiftFromKind</string>
+	<key>positionedSingletonFrequency</key>
+	<string>textParameterSkewy</string>
+	<key>priorCupertinoFrequency</key>
+	<string>staticSubpixelBound</string>
+	<key>taskCommandForce</key>
+	<string>repositoryExceptDecorator</string>
+</dict>
+</plist>

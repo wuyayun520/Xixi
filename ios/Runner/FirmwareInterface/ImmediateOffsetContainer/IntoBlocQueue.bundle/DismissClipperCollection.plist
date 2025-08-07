@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAsAdapter</key>
+	<string>lossLikeFlyweight</string>
+	<key>bulletCommandTransparency</key>
+	<string>bufferForMode</string>
+	<key>customizedServiceVelocity</key>
+	<string>scaffoldOutsideVisitor</string>
+	<key>subscriptionOperationForce</key>
+	<string>rowExceptNumber</string>
+</dict>
+</plist>

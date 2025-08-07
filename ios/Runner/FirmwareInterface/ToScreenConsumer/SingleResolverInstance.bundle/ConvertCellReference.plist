@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContainMethod</key>
+	<string>queryOfPattern</string>
+	<key>borderAsBuffer</key>
+	<string>callbackModeAcceleration</string>
+	<key>cupertinoEffectDirection</key>
+	<string>queryFacadeDelay</string>
+	<key>effectFromChain</key>
+	<string>materialAllocatorForce</string>
+	<key>invisibleQueryMargin</key>
+	<string>publicOffsetState</string>
+	<key>lazySemanticsRight</key>
+	<string>autoCycleTint</string>
+	<key>listviewSystemAlignment</key>
+	<string>grainParamVisible</string>
+	<key>previewCompositeAppearance</key>
+	<string>plateUntilShape</string>
+	<key>statefulBehaviorAcceleration</key>
+	<string>difficultReductionSaturation</string>
+</dict>
+</plist>

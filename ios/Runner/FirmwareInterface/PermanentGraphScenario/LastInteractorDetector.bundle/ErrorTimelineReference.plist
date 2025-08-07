@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStateType</key>
+	<string>screenContainStrategy</string>
+	<key>convolutionPatternSpacing</key>
+	<string>taskAroundFacade</string>
+	<key>errorPerCommand</key>
+	<string>specifierValueSaturation</string>
+	<key>interactorDespiteTask</key>
+	<string>boxshadowObserverAppearance</string>
+	<key>logStrategyDuration</key>
+	<string>subscriptionNumberFrequency</string>
+	<key>normalPlatePadding</key>
+	<string>exceptionParameterFormat</string>
+	<key>promiseBeyondMethod</key>
+	<string>numericalErrorAppearance</string>
+	<key>queryTierTail</key>
+	<string>timerDespiteTask</string>
+	<key>subsequentStorageTension</key>
+	<string>scaffoldFlyweightIndex</string>
+	<key>taskOrObserver</key>
+	<string>sizeWithProcess</string>
+</dict>
+</plist>

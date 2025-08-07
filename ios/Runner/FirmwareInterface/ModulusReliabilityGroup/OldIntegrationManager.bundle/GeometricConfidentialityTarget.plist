@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalMediatorValidation</key>
+	<string>channelsViaMode</string>
+	<key>reusableGrainResponse</key>
+	<string>sequentialGrainOffset</string>
+	<key>routeForBuffer</key>
+	<string>resolverContainInterpreter</string>
+	<key>screenDuringParam</key>
+	<string>protocolTaskDirection</string>
+	<key>segueWithoutPlatform</key>
+	<string>routeIncludeInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryUntilOperation</key>
+	<string>queueModeDistance</string>
+	<key>futureKindAppearance</key>
+	<string>synchronousInterfaceShape</string>
+	<key>indicatorParameterInteraction</key>
+	<string>shaderWithoutProxy</string>
+	<key>lossTaskAcceleration</key>
+	<string>curveDecoratorValidation</string>
+	<key>permissivePromiseDuration</key>
+	<string>themeThanComposite</string>
+	<key>prevNotificationCoord</key>
+	<string>commonViewMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchKindSkewy</key>
+	<string>reducerAlongCommand</string>
+	<key>cursorExceptDecorator</key>
+	<string>compositionOrFacade</string>
+	<key>declarativeSegueSkewy</key>
+	<string>responseVersusParameter</string>
+	<key>observerViaPhase</key>
+	<string>explicitCubitValidation</string>
+	<key>pointVarSkewy</key>
+	<string>optionDespiteMediator</string>
+	<key>requestPerTemple</key>
+	<string>platePatternSpacing</string>
+	<key>similarCapacitiesColor</key>
+	<string>baselineNearAction</string>
+	<key>similarSizedboxEdge</key>
+	<string>constraintAtMode</string>
+	<key>textStructureRight</key>
+	<string>imageAroundMediator</string>
+</dict>
+</plist>

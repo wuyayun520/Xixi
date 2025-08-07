@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorStrategySkewx</key>
+	<string>dimensionBridgeCount</string>
+	<key>criticalTangentBottom</key>
+	<string>prevButtonCenter</string>
+	<key>delegateStageOffset</key>
+	<string>usecaseStateCoord</string>
+	<key>fusedAlphaVelocity</key>
+	<string>rectAboutVariable</string>
+	<key>gemOrStrategy</key>
+	<string>mediaByPlatform</string>
+	<key>lastDelegateSpeed</key>
+	<string>substantialMenuPosition</string>
+	<key>scrollableDurationHue</key>
+	<string>elasticCacheDepth</string>
+	<key>sortedSkirtFlags</key>
+	<string>controllerExceptDecorator</string>
+	<key>switchVisitorFeedback</key>
+	<string>mobileViaStage</string>
+	<key>textThroughContext</key>
+	<string>priorityViaEnvironment</string>
+</dict>
+</plist>

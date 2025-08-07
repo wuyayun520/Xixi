@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAdapterColor</key>
+	<string>entropyChainSaturation</string>
+	<key>ignoredTaskShade</key>
+	<string>capsulePerCommand</string>
+	<key>immutableGetxHead</key>
+	<string>fixedLayerOrientation</string>
+	<key>lostSliderLocation</key>
+	<string>disabledFragmentInset</string>
+	<key>mobileTitleAppearance</key>
+	<string>textureSingletonIndex</string>
+	<key>operationContextLocation</key>
+	<string>signatureStageTop</string>
+	<key>statefulPlateDensity</key>
+	<string>handlerNearType</string>
+	<key>tappableScaffoldBottom</key>
+	<string>handlerVarStatus</string>
+	<key>topicAsProxy</key>
+	<string>usecaseStrategyBorder</string>
+	<key>viewBufferDensity</key>
+	<string>menuBufferCount</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEffectAcceleration</key>
+	<string>pinchableSkirtDelay</string>
+	<key>buttonIncludeVisitor</key>
+	<string>serviceActivityForce</string>
+	<key>commonQueryFeedback</key>
+	<string>popupStrategySkewy</string>
+	<key>dropdownbuttonParamShape</key>
+	<string>stepBesideDecorator</string>
+	<key>largeSizeTransparency</key>
+	<string>backwardLayoutResponse</string>
+	<key>permissiveSpotSpacing</key>
+	<string>requestOfVariable</string>
+	<key>sessionAmongStructure</key>
+	<string>difficultBuilderOpacity</string>
+	<key>staticChartTail</key>
+	<string>standaloneMultiplicationResponse</string>
+</dict>
+</plist>

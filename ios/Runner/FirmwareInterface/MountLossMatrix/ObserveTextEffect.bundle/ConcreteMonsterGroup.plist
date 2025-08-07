@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertExceptParam</key>
+	<string>nextStreamRate</string>
+	<key>gramAtLevel</key>
+	<string>allocatorStrategyPressure</string>
+	<key>granularFactoryFeedback</key>
+	<string>multiDropdownbuttonPosition</string>
+	<key>isolateThroughLevel</key>
+	<string>subscriptionPhaseBrightness</string>
+	<key>requestScopeBound</key>
+	<string>getxCommandContrast</string>
+	<key>responseOutsideNumber</key>
+	<string>repositoryAtKind</string>
+	<key>textModeDuration</key>
+	<string>statelessStoreDensity</string>
+</dict>
+</plist>

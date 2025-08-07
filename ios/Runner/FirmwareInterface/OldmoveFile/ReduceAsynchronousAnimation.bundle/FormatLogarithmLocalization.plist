@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCommandValidation</key>
+	<string>providerPerPrototype</string>
+	<key>boxshadowSinceCommand</key>
+	<string>activityAndStage</string>
+	<key>channelOperationHue</key>
+	<string>alphaDuringPattern</string>
+	<key>checklistSinceState</key>
+	<string>reducerPerContext</string>
+	<key>storyboardActivityHue</key>
+	<string>similarSinkTheme</string>
+</dict>
+</plist>

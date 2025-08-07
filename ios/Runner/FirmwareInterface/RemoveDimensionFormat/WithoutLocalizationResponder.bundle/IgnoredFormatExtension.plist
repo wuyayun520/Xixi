@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeInterpreter</key>
+	<string>fragmentPrototypeShade</string>
+	<key>cubeSinceStyle</key>
+	<string>cubitParameterOpacity</string>
+	<key>difficultHandlerValidation</key>
+	<string>originalGateBehavior</string>
+	<key>numericalTransformerCount</key>
+	<string>rectThroughMemento</string>
+	<key>oldCommandAppearance</key>
+	<string>denseObserverOrigin</string>
+	<key>responsiveTickerValidation</key>
+	<string>robustStoryboardTension</string>
+	<key>sliderAmongCycle</key>
+	<string>overlayStyleHue</string>
+	<key>specifierDespiteWork</key>
+	<string>notifierParameterTag</string>
+	<key>storeAlongFramework</key>
+	<string>titleDuringFacade</string>
+</dict>
+</plist>

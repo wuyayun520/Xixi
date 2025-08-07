@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRemainderInterval</key>
+	<string>indicatorPhaseBehavior</string>
+	<key>eventAroundProcess</key>
+	<string>usageDuringStyle</string>
+	<key>featureMethodState</key>
+	<string>enabledIntensityPadding</string>
+	<key>gradientByActivity</key>
+	<string>disabledStoreValidation</string>
+	<key>interactorCommandTransparency</key>
+	<string>configurationFunctionShape</string>
+	<key>notifierStateSpacing</key>
+	<string>injectionPatternHead</string>
+	<key>petPatternRate</key>
+	<string>secondSizedboxOrigin</string>
+	<key>scrollableZoneVisible</key>
+	<string>directlyActionInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPlatformRotation</key>
+	<string>commonTickerVelocity</string>
+	<key>interactorFunctionFeedback</key>
+	<string>animatedcontainerValueStatus</string>
+	<key>sophisticatedCubeInterval</key>
+	<string>protocolModeMode</string>
+	<key>statefulListenerAlignment</key>
+	<string>smartInteractorHue</string>
+	<key>uniformPopupFrequency</key>
+	<string>providerProxyResponse</string>
+</dict>
+</plist>

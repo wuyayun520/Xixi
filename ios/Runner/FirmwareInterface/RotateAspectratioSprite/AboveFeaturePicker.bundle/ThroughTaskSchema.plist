@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsVisitorBound</key>
+	<string>tableStructureAcceleration</string>
+	<key>frameFacadeHue</key>
+	<string>constraintAdapterAppearance</string>
+	<key>interpolationPatternRate</key>
+	<string>interactiveAnimationRotation</string>
+	<key>priorGraphicOffset</key>
+	<string>checkboxAsTier</string>
+	<key>semanticAlignmentInteraction</key>
+	<string>paddingPrototypeInset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTickerPressure</key>
+	<string>reusableTransitionInset</string>
+	<key>euclideanEffectFlags</key>
+	<string>resourcePerFacade</string>
+	<key>movementThanFacade</key>
+	<string>exceptionWithoutTier</string>
+	<key>providerThanState</key>
+	<string>boxPhaseInterval</string>
+	<key>resultBesideLevel</key>
+	<string>mobxOperationBottom</string>
+	<key>seamlessActionSkewy</key>
+	<string>statelessSemanticsOrientation</string>
+</dict>
+</plist>

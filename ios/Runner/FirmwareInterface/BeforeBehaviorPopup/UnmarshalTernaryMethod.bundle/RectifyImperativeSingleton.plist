@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForComposite</key>
+	<string>offsetTypeInteraction</string>
+	<key>asynchronousDescriptionRotation</key>
+	<string>requiredSliderCoord</string>
+	<key>currentAsyncHead</key>
+	<string>tabbarSingletonOrientation</string>
+	<key>fixedQueueBorder</key>
+	<string>mediocreDialogsBorder</string>
+	<key>frameAroundMethod</key>
+	<string>compositionSinceParam</string>
+	<key>kernelAsTemple</key>
+	<string>positionAmongActivity</string>
+	<key>statefulCompletionShade</key>
+	<string>streamVariableRotation</string>
+</dict>
+</plist>

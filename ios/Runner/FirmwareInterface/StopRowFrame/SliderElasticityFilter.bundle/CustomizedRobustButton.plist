@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureAroundActivity</key>
+	<string>callbackScopeDepth</string>
+	<key>gramInCommand</key>
+	<string>nodeAgainstVariable</string>
+	<key>offsetFromPlatform</key>
+	<string>curveSinceVisitor</string>
+	<key>operationTaskAcceleration</key>
+	<string>heapWithoutMemento</string>
+	<key>unaryAsComposite</key>
+	<string>timerValueTop</string>
+</dict>
+</plist>

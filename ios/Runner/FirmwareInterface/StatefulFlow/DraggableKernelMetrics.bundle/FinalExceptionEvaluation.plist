@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePerFlyweight</key>
+	<string>webPetSize</string>
+	<key>materialCoordinatorOrientation</key>
+	<string>delegateOfDecorator</string>
+	<key>mediocrePlaybackRight</key>
+	<string>widgetBridgeVisibility</string>
+	<key>pointContainNumber</key>
+	<string>compositionAboutMode</string>
+	<key>positionAgainstStage</key>
+	<string>greatRequestSkewy</string>
+	<key>smallSegmentDepth</key>
+	<string>sortedQueryTint</string>
+</dict>
+</plist>

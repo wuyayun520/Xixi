@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStepTransparency</key>
+	<string>equipmentAtDecorator</string>
+	<key>dependencyScopeType</key>
+	<string>flexPatternOpacity</string>
+	<key>extensionAndCycle</key>
+	<string>builderDuringPrototype</string>
+	<key>kernelByCommand</key>
+	<string>criticalCosineTint</string>
+	<key>metadataChainCoord</key>
+	<string>agileSpecifierStyle</string>
+	<key>retainedStepFlags</key>
+	<string>sizeTaskAcceleration</string>
+	<key>rowAtComposite</key>
+	<string>adaptiveGridSaturation</string>
+	<key>stampWithParam</key>
+	<string>otherSkirtIndex</string>
+	<key>usecaseWorkShade</key>
+	<string>navigatorFunctionResponse</string>
+</dict>
+</plist>

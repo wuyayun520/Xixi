@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatStorageMode</key>
+	<string>dedicatedIconPadding</string>
+	<key>keyTangentOpacity</key>
+	<string>prismaticEntityBrightness</string>
+	<key>lazyLayoutValidation</key>
+	<string>mainGradientStyle</string>
+	<key>referenceStructureHead</key>
+	<string>globalExtensionDensity</string>
+	<key>spriteJobSkewy</key>
+	<string>controllerBufferInterval</string>
+</dict>
+</plist>

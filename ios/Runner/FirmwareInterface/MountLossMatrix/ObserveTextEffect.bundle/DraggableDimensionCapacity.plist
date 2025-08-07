@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureLikeAction</key>
+	<string>interfaceFormResponse</string>
+	<key>completerPatternSpeed</key>
+	<string>associatedLoopSpeed</string>
+	<key>delicateSliderInteraction</key>
+	<string>decorationInsideTier</string>
+	<key>eventPrototypeBorder</key>
+	<string>sceneActionTail</string>
+	<key>factoryTypeDirection</key>
+	<string>durationTypeType</string>
+	<key>nativeVariantDepth</key>
+	<string>collectionPhaseBehavior</string>
+</dict>
+</plist>

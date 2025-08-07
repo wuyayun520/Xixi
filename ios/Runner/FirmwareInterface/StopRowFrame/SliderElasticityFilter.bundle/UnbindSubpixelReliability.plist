@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastPopupDelay</key>
+	<string>loopAndParameter</string>
+	<key>observerShapeTop</key>
+	<string>binarySingletonOpacity</string>
+	<key>protocolVarShade</key>
+	<string>routeBesideFlyweight</string>
+	<key>stampMediatorBorder</key>
+	<string>numericalCosineTheme</string>
+	<key>topicTypeDepth</key>
+	<string>inheritedRouteSize</string>
+	<key>typicalScaffoldDensity</key>
+	<string>hierarchicalBinaryTheme</string>
+</dict>
+</plist>

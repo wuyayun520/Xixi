@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFutureLeft</key>
+	<string>curveTaskLeft</string>
+	<key>documentVariableSaturation</key>
+	<string>animationLikeSingleton</string>
+	<key>draggableAllocatorOpacity</key>
+	<string>immediatePainterTint</string>
+	<key>explicitWidgetSpacing</key>
+	<string>asyncFutureTheme</string>
+	<key>robustDelegateAcceleration</key>
+	<string>reducerContainJob</string>
+	<key>scaffoldEnvironmentAlignment</key>
+	<string>disabledTitleKind</string>
+</dict>
+</plist>

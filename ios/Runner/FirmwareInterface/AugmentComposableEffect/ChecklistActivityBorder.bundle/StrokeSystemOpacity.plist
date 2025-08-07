@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsFromDecorator</key>
+	<string>equipmentBesideValue</string>
+	<key>customChannelVisibility</key>
+	<string>decorationMediatorBorder</string>
+	<key>custompaintActionOrientation</key>
+	<string>ignoredStorageShape</string>
+	<key>interactiveStepRotation</key>
+	<string>cellContainMediator</string>
+	<key>layoutPhaseRotation</key>
+	<string>explicitFrameHead</string>
+	<key>optionDuringMode</key>
+	<string>paddingActionVelocity</string>
+	<key>riverpodFromFlyweight</key>
+	<string>variantAtForm</string>
+	<key>specifierWithMethod</key>
+	<string>observerViaStructure</string>
+</dict>
+</plist>

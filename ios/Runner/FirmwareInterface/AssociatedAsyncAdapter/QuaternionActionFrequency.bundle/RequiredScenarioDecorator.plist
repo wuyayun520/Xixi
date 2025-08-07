@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncObserverMode</key>
+	<string>signatureAgainstInterpreter</string>
+	<key>baseNearMediator</key>
+	<string>managerNearComposite</string>
+	<key>currentGradientSkewy</key>
+	<string>channelActionOffset</string>
+	<key>delegateAtVar</key>
+	<string>requiredDelegateAcceleration</string>
+	<key>finalLayoutForce</key>
+	<string>constSwiftBorder</string>
+	<key>providerBesideMode</key>
+	<string>baseViaFunction</string>
+	<key>smallTextfieldDelay</key>
+	<string>visibleTaskContrast</string>
+	<key>textfieldBesideLayer</key>
+	<string>radiusWithoutWork</string>
+	<key>themeSystemFrequency</key>
+	<string>musicBesideAdapter</string>
+</dict>
+</plist>

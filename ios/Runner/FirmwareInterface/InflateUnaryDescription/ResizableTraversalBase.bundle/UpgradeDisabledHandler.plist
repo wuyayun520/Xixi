@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicViewTheme</key>
+	<string>keyModelOrientation</string>
+	<key>protectedDecorationRight</key>
+	<string>arithmeticServiceSkewy</string>
+	<key>richtextPlatformRotation</key>
+	<string>accordionTimerAlignment</string>
+	<key>sliderStageTint</key>
+	<string>immutableProjectTop</string>
+	<key>unaryExceptContext</key>
+	<string>operationFromValue</string>
+</dict>
+</plist>

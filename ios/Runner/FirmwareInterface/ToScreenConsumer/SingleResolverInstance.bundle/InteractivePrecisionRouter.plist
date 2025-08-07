@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRectDensity</key>
+	<string>uniqueOffsetSize</string>
+	<key>decorationTierRotation</key>
+	<string>mobxWithAction</string>
+	<key>equipmentPhaseInset</key>
+	<string>advancedModalInteraction</string>
+	<key>handlerDecoratorDirection</key>
+	<string>agileMetadataSaturation</string>
+	<key>hardTextfieldResponse</key>
+	<string>tickerOrProxy</string>
+	<key>standaloneControllerDensity</key>
+	<string>mobileRiverpodCount</string>
+</dict>
+</plist>

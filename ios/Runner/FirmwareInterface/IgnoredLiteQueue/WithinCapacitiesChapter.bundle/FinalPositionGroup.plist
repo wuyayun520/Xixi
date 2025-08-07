@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAllocatorAlignment</key>
+	<string>menuActivityDepth</string>
+	<key>gesturedetectorOrCycle</key>
+	<string>tangentOrPhase</string>
+	<key>gridThroughPlatform</key>
+	<string>customizedStackAlignment</string>
+	<key>interactiveSymbolKind</key>
+	<string>effectInsideWork</string>
+	<key>referenceTaskScale</key>
+	<string>constraintFunctionDistance</string>
+	<key>resilientDecorationName</key>
+	<string>statelessNodeColor</string>
+	<key>roleEnvironmentTint</key>
+	<string>mobxEnvironmentPosition</string>
+	<key>storyboardOfMode</key>
+	<string>semanticDocumentOrientation</string>
+	<key>vectorAlongMediator</key>
+	<string>adaptiveMethodCoord</string>
+	<key>workflowBeyondFlyweight</key>
+	<string>draggableCustompaintValidation</string>
+</dict>
+</plist>

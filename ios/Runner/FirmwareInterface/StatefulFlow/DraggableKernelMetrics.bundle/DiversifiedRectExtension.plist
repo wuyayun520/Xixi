@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridCycleStyle</key>
+	<string>scaleNearMode</string>
+	<key>groupNearScope</key>
+	<string>transformerAmongValue</string>
+	<key>imperativeActivitySpeed</key>
+	<string>liteGrainDistance</string>
+	<key>singleEntityEdge</key>
+	<string>reusableBaselineCount</string>
+</dict>
+</plist>

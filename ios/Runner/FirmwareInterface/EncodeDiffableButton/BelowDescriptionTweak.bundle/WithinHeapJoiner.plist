@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBeyondTier</key>
+	<string>taskFormVisibility</string>
+	<key>challengeByTier</key>
+	<string>difficultPositionedValidation</string>
+	<key>difficultAccessoryFormat</key>
+	<string>ignoredProgressbarBehavior</string>
+	<key>mapAroundProcess</key>
+	<string>segmentProcessRate</string>
+	<key>modulusInCommand</key>
+	<string>streamPhaseRotation</string>
+	<key>persistentGridDistance</key>
+	<string>singletonInStage</string>
+	<key>priorityTempleTheme</key>
+	<string>reducerThroughKind</string>
+	<key>richtextTempleFormat</key>
+	<string>tensorMediaDirection</string>
+	<key>rowFlyweightIndex</key>
+	<string>semanticSliderFrequency</string>
+</dict>
+</plist>

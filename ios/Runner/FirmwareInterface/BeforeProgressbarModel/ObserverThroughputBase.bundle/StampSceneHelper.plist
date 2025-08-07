@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAgainstJob</key>
+	<string>queueOfType</string>
+	<key>decorationAsSystem</key>
+	<string>lazyStateState</string>
+	<key>diffableLayoutBottom</key>
+	<string>extensionFunctionEdge</string>
+	<key>dropdownbuttonDuringStage</key>
+	<string>blocAroundFunction</string>
+	<key>grainInsidePrototype</key>
+	<string>desktopGateState</string>
+	<key>immutableProtocolTop</key>
+	<string>staticAnimatedcontainerDistance</string>
+	<key>scaleTierVisibility</key>
+	<string>riverpodAsTier</string>
+</dict>
+</plist>

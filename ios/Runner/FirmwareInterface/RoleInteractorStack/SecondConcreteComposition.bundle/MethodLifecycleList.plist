@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBlocInteraction</key>
+	<string>alertByContext</string>
+	<key>decorationFrameworkPadding</key>
+	<string>commonBoxshadowTint</string>
+	<key>documentViaPlatform</key>
+	<string>scrollableFeatureDuration</string>
+	<key>queryTierTail</key>
+	<string>aspectTierBehavior</string>
+	<key>radioInsideParam</key>
+	<string>reusableDescriptionAcceleration</string>
+	<key>sinkActivityIndex</key>
+	<string>reactiveGridSkewx</string>
+	<key>sizeTaskFormat</key>
+	<string>inactiveAlignmentDistance</string>
+	<key>smartTimerTail</key>
+	<string>sessionInLevel</string>
+</dict>
+</plist>

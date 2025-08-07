@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticResolverKind</key>
+	<string>euclideanIntensityVelocity</string>
+	<key>cubeWithoutFlyweight</key>
+	<string>constTabbarDistance</string>
+	<key>mobxEnvironmentOpacity</key>
+	<string>playbackDespiteVariable</string>
+	<key>musicSystemMode</key>
+	<string>directDelegateTheme</string>
+	<key>resultSystemFormat</key>
+	<string>listviewPhaseSpeed</string>
+	<key>visibleCubitPressure</key>
+	<string>liteAssetDelay</string>
+</dict>
+</plist>

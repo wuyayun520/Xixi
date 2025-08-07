@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedTierAcceleration</key>
+	<string>easySpriteDirection</string>
+	<key>logarithmFlyweightAcceleration</key>
+	<string>sinkLevelForce</string>
+	<key>normalZoneBehavior</key>
+	<string>methodOutsideActivity</string>
+	<key>smallBatchOrigin</key>
+	<string>interactiveChapterFrequency</string>
+	<key>synchronousMemberColor</key>
+	<string>disparateScreenTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRouterRate</key>
+	<string>gestureOrParameter</string>
+	<key>checklistBridgeDensity</key>
+	<string>curveStateTail</string>
+	<key>controllerParamTheme</key>
+	<string>touchParameterLocation</string>
+	<key>listviewBeyondProxy</key>
+	<string>directPrecisionLocation</string>
+	<key>liteZoneStyle</key>
+	<string>radiusBesideStrategy</string>
+	<key>profileContextFrequency</key>
+	<string>animatedcontainerIncludeAction</string>
+	<key>repositoryFrameworkTag</key>
+	<string>roleNearDecorator</string>
+	<key>sophisticatedTransformerTop</key>
+	<string>bitrateContainFacade</string>
+	<key>temporaryDurationDelay</key>
+	<string>viewInterpreterForce</string>
+</dict>
+</plist>

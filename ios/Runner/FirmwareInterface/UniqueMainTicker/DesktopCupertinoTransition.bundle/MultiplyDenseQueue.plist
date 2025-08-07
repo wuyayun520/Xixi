@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineIncludeChain</key>
+	<string>viewKindInset</string>
+	<key>certificateMediatorShade</key>
+	<string>accessoryProcessPosition</string>
+	<key>giftTierMode</key>
+	<string>fragmentPerEnvironment</string>
+	<key>localCoordinatorOrientation</key>
+	<string>immutableExceptionLeft</string>
+	<key>providerFunctionDirection</key>
+	<string>routeBridgeInteraction</string>
+	<key>resizableListenerShade</key>
+	<string>unactivatedNibTail</string>
+	<key>staticSubpixelDepth</key>
+	<string>transformerCycleAlignment</string>
+</dict>
+</plist>

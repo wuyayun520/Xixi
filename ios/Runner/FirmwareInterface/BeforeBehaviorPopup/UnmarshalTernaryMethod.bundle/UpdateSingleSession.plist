@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorExceptStrategy</key>
+	<string>rectAtStructure</string>
+	<key>inactiveInteractorCount</key>
+	<string>sizeDuringPrototype</string>
+	<key>modelBufferDepth</key>
+	<string>hardBinaryVisibility</string>
+	<key>oldDecorationFormat</key>
+	<string>hierarchicalResultHead</string>
+	<key>particleVisitorDepth</key>
+	<string>curveChainRotation</string>
+	<key>permissiveCoordinatorRotation</key>
+	<string>routeProxyMargin</string>
+	<key>sceneUntilShape</key>
+	<string>rectStyleFrequency</string>
+	<key>secondLabelAlignment</key>
+	<string>switchLayerDirection</string>
+	<key>transformerLayerColor</key>
+	<string>nibJobSpeed</string>
+	<key>tweenIncludeState</key>
+	<string>skinPerMethod</string>
+</dict>
+</plist>

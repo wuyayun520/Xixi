@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableEntityRotation</key>
+	<string>adaptiveAlphaEdge</string>
+	<key>coordinatorLayerBehavior</key>
+	<string>constLabelDensity</string>
+	<key>cubitFormTheme</key>
+	<string>providerSinceMemento</string>
+	<key>effectSinceMemento</key>
+	<string>boxshadowFormTheme</string>
+	<key>featureBridgeType</key>
+	<string>checkboxThanFramework</string>
+	<key>kernelAgainstMemento</key>
+	<string>publicTaskMargin</string>
+	<key>marginInsideProxy</key>
+	<string>sensorByBridge</string>
+	<key>routeWithoutActivity</key>
+	<string>actionAroundForm</string>
+	<key>routerAdapterHue</key>
+	<string>constQueryAcceleration</string>
+</dict>
+</plist>

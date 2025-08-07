@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationJobSpeed</key>
+	<string>factoryEnvironmentKind</string>
+	<key>custompaintIncludeVar</key>
+	<string>multiRowAppearance</string>
+	<key>deferredCardBehavior</key>
+	<string>compositionalChecklistPosition</string>
+	<key>eagerOffsetStyle</key>
+	<string>operationBeyondChain</string>
+	<key>grainOutsidePlatform</key>
+	<string>builderOutsideCycle</string>
+	<key>hardOverlaySize</key>
+	<string>arithmeticCompleterDelay</string>
+	<key>serviceProcessCenter</key>
+	<string>cupertinoTaskShade</string>
+	<key>themeAgainstValue</key>
+	<string>factoryOutsideKind</string>
+</dict>
+</plist>

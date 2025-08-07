@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTypeOrientation</key>
+	<string>pinchableNavigatorLocation</string>
+	<key>canvasNearActivity</key>
+	<string>pinchableSubscriptionShade</string>
+	<key>firstCurveShade</key>
+	<string>handlerProxyTail</string>
+	<key>hardAppbarDepth</key>
+	<string>asynchronousResourceScale</string>
+	<key>memberAboutLevel</key>
+	<string>errorForBuffer</string>
+	<key>prevCupertinoFlags</key>
+	<string>overlayOrMethod</string>
+	<key>responseObserverFrequency</key>
+	<string>mapThanStrategy</string>
+	<key>rowActionSaturation</key>
+	<string>hashOfSystem</string>
+</dict>
+</plist>

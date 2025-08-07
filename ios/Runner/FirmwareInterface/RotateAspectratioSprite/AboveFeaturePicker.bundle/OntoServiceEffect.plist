@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataFrameworkMode</key>
+	<string>elasticCubitFeedback</string>
+	<key>otherObserverFrequency</key>
+	<string>menuViaPlatform</string>
+	<key>petPerInterpreter</key>
+	<string>appbarFacadeIndex</string>
+	<key>reductionSystemVelocity</key>
+	<string>animationModeSize</string>
+	<key>resolverLevelShape</key>
+	<string>invisibleNavigatorVisibility</string>
+</dict>
+</plist>

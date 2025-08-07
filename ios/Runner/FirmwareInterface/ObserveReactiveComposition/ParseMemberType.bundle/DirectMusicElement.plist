@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelUntilActivity</key>
+	<string>fixedListenerAcceleration</string>
+	<key>composableFutureRotation</key>
+	<string>popupFromStructure</string>
+	<key>euclideanNotificationBottom</key>
+	<string>playbackStructureFeedback</string>
+	<key>iterativeRemainderBottom</key>
+	<string>shaderWorkEdge</string>
+	<key>specifierVersusProxy</key>
+	<string>sinkAtFunction</string>
+	<key>taskAndMode</key>
+	<string>coordinatorAwayVariable</string>
+	<key>touchAwayBridge</key>
+	<string>samplePlatformMomentum</string>
+	<key>touchPerAction</key>
+	<string>builderStyleHead</string>
+	<key>viewFormLocation</key>
+	<string>instructionVarHue</string>
+</dict>
+</plist>

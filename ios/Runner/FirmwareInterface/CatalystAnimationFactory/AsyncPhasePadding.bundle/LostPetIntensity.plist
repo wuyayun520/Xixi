@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricAspectDirection</key>
+	<string>progressbarLikeObserver</string>
+	<key>hierarchicalMarginResponse</key>
+	<string>agileListviewMargin</string>
+	<key>layoutObserverKind</key>
+	<string>declarativeSineCoord</string>
+	<key>rowInVar</key>
+	<string>mainProjectDepth</string>
+	<key>sampleParamTop</key>
+	<string>serviceProcessVisible</string>
+	<key>streamJobBound</key>
+	<string>retainedResourceMode</string>
+</dict>
+</plist>

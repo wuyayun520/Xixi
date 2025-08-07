@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousViewPadding</key>
+	<string>futureFromPrototype</string>
+	<key>cardBeyondCycle</key>
+	<string>concurrentSliderRight</string>
+	<key>hardEffectEdge</key>
+	<string>statelessInterpolationCount</string>
+	<key>localTransitionForce</key>
+	<string>logarithmFunctionSize</string>
+	<key>otherProviderBehavior</key>
+	<string>crucialRouterAlignment</string>
+	<key>priorTweenTag</key>
+	<string>titleAroundParameter</string>
+	<key>visibleTaskTint</key>
+	<string>fusedHistogramContrast</string>
+</dict>
+</plist>

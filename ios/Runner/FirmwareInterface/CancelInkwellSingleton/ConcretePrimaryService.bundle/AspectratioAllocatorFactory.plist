@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionParamStatus</key>
+	<string>chapterBesideTask</string>
+	<key>checkboxActionSkewx</key>
+	<string>usedMapForce</string>
+	<key>collectionTypeBehavior</key>
+	<string>vectorWithType</string>
+	<key>commandChainRotation</key>
+	<string>immediateMapEdge</string>
+	<key>mediaqueryFromKind</key>
+	<string>autoBoxFlags</string>
+	<key>memberFunctionBrightness</key>
+	<string>errorWithoutWork</string>
+	<key>persistentAsyncVisibility</key>
+	<string>navigatorTypeMode</string>
+</dict>
+</plist>

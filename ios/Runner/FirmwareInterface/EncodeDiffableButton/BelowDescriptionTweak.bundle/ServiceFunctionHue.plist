@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOperationTheme</key>
+	<string>responseOutsidePhase</string>
+	<key>commandOutsideComposite</key>
+	<string>displayableInteractorLocation</string>
+	<key>delegateActivityOffset</key>
+	<string>requiredAwaitHue</string>
+	<key>effectProcessFlags</key>
+	<string>blocAroundParameter</string>
+	<key>firstAlertTail</key>
+	<string>topicOperationStyle</string>
+	<key>isolateAgainstAction</key>
+	<string>declarativeBlocDepth</string>
+	<key>painterFromPrototype</key>
+	<string>integerModeDuration</string>
+	<key>standaloneInjectionDepth</key>
+	<string>matrixBridgeOrientation</string>
+</dict>
+</plist>

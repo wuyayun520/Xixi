@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardMethodSize</key>
+	<string>exceptionSingletonStatus</string>
+	<key>certificateAwaySingleton</key>
+	<string>desktopMapOrientation</string>
+	<key>exceptionWithVar</key>
+	<string>smallCoordinatorOrigin</string>
+	<key>transformerOperationOpacity</key>
+	<string>gemTypeTint</string>
+</dict>
+</plist>

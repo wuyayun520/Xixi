@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseTierContrast</key>
+	<string>declarativeRemainderInterval</string>
+	<key>cacheExceptContext</key>
+	<string>signOutsideActivity</string>
+	<key>cursorProxySpacing</key>
+	<string>largeResourceDirection</string>
+	<key>listviewForKind</key>
+	<string>resourceFunctionStyle</string>
+	<key>localizationStructureScale</key>
+	<string>sensorByPhase</string>
+	<key>sineForMethod</key>
+	<string>injectionParamFormat</string>
+	<key>textfieldAdapterTension</key>
+	<string>usecaseAtObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTitleCoord</key>
+	<string>labelVersusVar</string>
+	<key>cursorAroundSingleton</key>
+	<string>progressbarViaMemento</string>
+	<key>futureNumberPosition</key>
+	<string>responseWithoutDecorator</string>
+	<key>layerInDecorator</key>
+	<string>queryProcessContrast</string>
+	<key>positionVersusInterpreter</key>
+	<string>radiusActivityBehavior</string>
+	<key>prismaticSizeForce</key>
+	<string>binaryAgainstFlyweight</string>
+	<key>profileActionMode</key>
+	<string>injectionDespiteLayer</string>
+	<key>rapidTangentOrigin</key>
+	<string>composableNormStyle</string>
+	<key>routeBridgeMomentum</key>
+	<string>serviceSingletonDirection</string>
+	<key>sharedStackType</key>
+	<string>resolverFunctionDensity</string>
+</dict>
+</plist>

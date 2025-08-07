@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushSingletonName</key>
+	<string>listviewFacadeDelay</string>
+	<key>channelsAndTask</key>
+	<string>completionFunctionTop</string>
+	<key>exceptionChainSkewy</key>
+	<string>asyncNotificationCount</string>
+	<key>globalCheckboxVisible</key>
+	<string>litePresenterSaturation</string>
+	<key>interfaceFromKind</key>
+	<string>constCaptionPadding</string>
+	<key>stateContainValue</key>
+	<string>typicalScaffoldFormat</string>
+	<key>stateViaValue</key>
+	<string>largeScreenOpacity</string>
+	<key>symbolFormDensity</key>
+	<string>layerPhaseBottom</string>
+	<key>widgetParameterInteraction</key>
+	<string>gridviewVersusValue</string>
+	<key>zoneCompositeTransparency</key>
+	<string>usageAdapterTag</string>
+</dict>
+</plist>

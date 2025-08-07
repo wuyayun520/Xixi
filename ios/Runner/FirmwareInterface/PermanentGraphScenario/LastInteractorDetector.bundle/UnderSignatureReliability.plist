@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryParamFrequency</key>
+	<string>bufferStyleSpacing</string>
+	<key>alignmentWithComposite</key>
+	<string>isolateByFramework</string>
+	<key>declarativeSpriteTag</key>
+	<string>threadThroughSingleton</string>
+	<key>enabledCellName</key>
+	<string>globalMasterFlags</string>
+	<key>gramOfAdapter</key>
+	<string>typicalMetadataCoord</string>
+	<key>hierarchicalContainerResponse</key>
+	<string>relationalDelegatePressure</string>
+	<key>normMethodType</key>
+	<string>functionalLocalizationDelay</string>
+	<key>screenStageStyle</key>
+	<string>methodBeyondMethod</string>
+	<key>serviceAmongProxy</key>
+	<string>controllerFacadeBound</string>
+</dict>
+</plist>

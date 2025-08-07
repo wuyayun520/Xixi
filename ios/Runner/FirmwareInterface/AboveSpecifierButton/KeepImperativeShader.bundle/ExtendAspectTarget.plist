@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFrameworkDepth</key>
+	<string>resourceExceptFacade</string>
+	<key>brushChainBound</key>
+	<string>autoTimerTop</string>
+	<key>concurrentRouterDelay</key>
+	<string>arithmeticThroughInterpreter</string>
+	<key>greatRemainderDirection</key>
+	<string>newestStreamDirection</string>
+	<key>numericalAnimationContrast</key>
+	<string>constraintEnvironmentOpacity</string>
+	<key>previewTierDirection</key>
+	<string>mapLikeChain</string>
+</dict>
+</plist>

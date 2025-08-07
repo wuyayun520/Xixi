@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAsJob</key>
+	<string>graphIncludePrototype</string>
+	<key>chapterShapeDirection</key>
+	<string>textFromFacade</string>
+	<key>dependencyWorkKind</key>
+	<string>rectThroughFramework</string>
+	<key>equalizationStructureStatus</key>
+	<string>accordionControllerAlignment</string>
+	<key>frameThanObserver</key>
+	<string>providerOfComposite</string>
+	<key>graphProxyRight</key>
+	<string>draggableWidgetTint</string>
+	<key>opaqueSegmentPadding</key>
+	<string>assetContainBuffer</string>
+	<key>ternaryWorkLocation</key>
+	<string>symmetricQueueVisibility</string>
+</dict>
+</plist>

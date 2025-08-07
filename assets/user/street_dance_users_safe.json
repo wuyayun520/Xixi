@@ -1,0 +1,438 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "username": "dance_queen_sarah",
+      "displayName": "Sarah Martinez",
+      "avatar": "assets/user/1/user.jpg",
+      "age": 24,
+      "location": "Los Angeles, CA",
+      "danceStyle": ["Hip-Hop", "Breaking", "Popping"],
+      "experience": "5 years",
+      "followers": 15420,
+      "following": 892,
+      "bio": "Professional street dancer and choreographer. Spreading the love of dance through every move! 💃✨",
+      "posts": [
+        {
+          "id": "post_001",
+          "timestamp": "2025-08-15T14:30:00Z",
+          "content": "Just finished an amazing session at the studio! Working on some new breaking moves. The energy today was incredible! ✨ #StreetDance #Breaking #DanceLife",
+          "images": [
+            "assets/user/1/pic_1.jpg",
+            "assets/user/1/pic_2.jpg",
+            "assets/user/1/pic_3.jpg",
+            "assets/user/1/pic_4.jpg"
+          ],
+          "likes": 342,
+          "comments": 28,
+          "tags": ["#StreetDance", "#Breaking", "#DanceLife", "#HipHop"]
+        }
+      ]
+    },
+    {
+      "id": "user_002", 
+      "username": "break_master_mike",
+      "displayName": "Mike Johnson",
+      "avatar": "assets/user/2/user.jpg",
+      "age": 26,
+      "location": "Brooklyn, NY",
+      "danceStyle": ["Breaking", "Krumping", "House"],
+      "experience": "8 years",
+      "followers": 22150,
+      "following": 567,
+      "bio": "Breaking battles champion. Teaching the next generation of b-boys and b-girls! 🕺💪",
+      "posts": [
+        {
+          "id": "post_002",
+          "timestamp": "2024-01-14T16:45:00Z", 
+          "content": "Practicing some advanced power moves today. The floor was perfect for training! Breaking is not just a dance, it's a lifestyle. Respect to all the pioneers! 🙏 #Breaking #BBoy #PowerMoves",
+          "images": [
+            "assets/user/2/pic_1.jpg",
+            "assets/user/2/pic_2.jpg", 
+            "assets/user/2/pic_3.jpg",
+            "assets/user/2/pic_4.jpg"
+          ],
+          "likes": 567,
+          "comments": 45,
+          "tags": ["#Breaking", "#BBoy", "#PowerMoves", "#StreetDance"]
+        }
+      ]
+    },
+    {
+      "id": "user_003",
+      "username": "popping_princess_lisa", 
+      "displayName": "Lisa Chen",
+      "avatar": "assets/user/3/user.jpg",
+      "age": 22,
+      "location": "San Francisco, CA",
+      "danceStyle": ["Popping", "Locking", "Animation"],
+      "experience": "4 years",
+      "followers": 8930,
+      "following": 1234,
+      "bio": "Popping and locking my way through life! Animation is my passion. Let's groove together! 🎵✨",
+      "posts": [
+        {
+          "id": "post_003",
+          "timestamp": "2024-01-13T19:20:00Z",
+          "content": "Late night popping session! Working on my robot and animation techniques. The music was hitting just right tonight! 🤖✨ #Popping #Animation #StreetDance #Robot",
+          "images": [
+            "assets/user/3/pic_1.jpg",
+            "assets/user/3/pic_2.jpg",
+            "assets/user/3/pic_3.jpg", 
+            "assets/user/3/pic_4.jpg"
+          ],
+          "likes": 234,
+          "comments": 31,
+          "tags": ["#Popping", "#Animation", "#StreetDance", "#Robot"]
+        }
+      ]
+    },
+    {
+      "id": "user_004",
+      "username": "krump_king_david",
+      "displayName": "David Thompson", 
+      "avatar": "assets/user/4/user.jpg",
+      "age": 28,
+      "location": "Atlanta, GA",
+      "danceStyle": ["Krumping", "Clowning", "Hip-Hop"],
+      "experience": "10 years",
+      "followers": 18760,
+      "following": 445,
+      "bio": "Krumping since day one! Spreading positive energy through movement. Big up to the Krump family! 👑✨",
+      "posts": [
+        {
+          "id": "post_004",
+          "timestamp": "2024-01-12T21:15:00Z",
+          "content": "Krump session with the crew! The energy was unmatched today. This is what it's all about - family, movement, and pure expression! 👑💪 #Krumping #Clowning #StreetDance #Family",
+          "images": [
+            "assets/user/4/pic_1.jpg",
+            "assets/user/4/pic_2.jpg",
+            "assets/user/4/pic_3.jpg",
+            "assets/user/4/pic_4.jpg"
+          ],
+          "likes": 789,
+          "comments": 67,
+          "tags": ["#Krumping", "#Clowning", "#StreetDance", "#Family"]
+        }
+      ]
+    },
+    {
+      "id": "user_005",
+      "username": "house_dancer_emma",
+      "displayName": "Emma Rodriguez",
+      "avatar": "assets/user/5/user.jpg", 
+      "age": 25,
+      "location": "Chicago, IL",
+      "danceStyle": ["House", "Vogue", "Waacking"],
+      "experience": "6 years",
+      "followers": 12450,
+      "following": 678,
+      "bio": "House dancer and voguing enthusiast. The music guides my soul! 🎵💃",
+      "posts": [
+        {
+          "id": "post_005",
+          "timestamp": "2024-01-11T18:30:00Z",
+          "content": "House dance practice in the studio! Working on my footwork and musicality. House music is life! 🏠💃 #HouseDance #Vogue #StreetDance #Footwork",
+          "images": [
+            "assets/user/5/pic_1.jpg",
+            "assets/user/5/pic_2.jpg",
+            "assets/user/5/pic_3.jpg",
+            "assets/user/5/pic_4.jpg"
+          ],
+          "likes": 456,
+          "comments": 38,
+          "tags": ["#HouseDance", "#Vogue", "#StreetDance", "#Footwork"]
+        }
+      ]
+    },
+    {
+      "id": "user_006",
+      "username": "locking_legend_carlos",
+      "displayName": "Carlos Mendez",
+      "avatar": "assets/user/6/user.jpg",
+      "age": 30,
+      "location": "Miami, FL", 
+      "danceStyle": ["Locking", "Popping", "Hip-Hop"],
+      "experience": "12 years",
+      "followers": 25680,
+      "following": 334,
+      "bio": "Locking legend in the making! Spreading joy through dance since forever! 🔒✨",
+      "posts": [
+        {
+          "id": "post_006",
+          "timestamp": "2024-01-10T15:45:00Z",
+          "content": "Locking workshop with the community! Teaching the fundamentals and sharing the history. Locking is all about fun and personality! 🔒😄 #Locking #StreetDance #Workshop #Community",
+          "images": [
+            "assets/user/6/pic_1.jpg",
+            "assets/user/6/pic_2.jpg",
+            "assets/user/6/pic_3.jpg",
+            "assets/user/6/pic_4.jpg"
+          ],
+          "likes": 923,
+          "comments": 89,
+          "tags": ["#Locking", "#StreetDance", "#Workshop", "#Community"]
+        }
+      ]
+    },
+    {
+      "id": "user_007",
+      "username": "vogue_queen_alexandra",
+      "displayName": "Alexandra Williams",
+      "avatar": "assets/user/7/user.jpg",
+      "age": 23,
+      "location": "New York, NY",
+      "danceStyle": ["Vogue", "Waacking", "House"],
+      "experience": "7 years",
+      "followers": 18920,
+      "following": 756,
+      "bio": "Vogue dancer and ballroom culture advocate. Spreading love and acceptance through dance! 💅✨",
+      "posts": [
+        {
+          "id": "post_007",
+          "timestamp": "2024-01-09T20:15:00Z",
+          "content": "Vogue session at the ballroom! The energy was electric tonight. This is where legends are made! 💅✨ #Vogue #Ballroom #House #Legendary",
+          "images": [
+            "assets/user/7/pic_1.jpg",
+            "assets/user/7/pic_2.jpg",
+            "assets/user/7/pic_3.jpg",
+            "assets/user/7/pic_4.jpg"
+          ],
+          "likes": 654,
+          "comments": 52,
+          "tags": ["#Vogue", "#Ballroom", "#House", "#Legendary"]
+        }
+      ]
+    },
+    {
+      "id": "user_008",
+      "username": "breaking_beast_jason",
+      "displayName": "Jason Park",
+      "avatar": "assets/user/8/user.jpg",
+      "age": 27,
+      "location": "Seattle, WA",
+      "danceStyle": ["Breaking", "Krumping", "Popping"],
+      "experience": "9 years",
+      "followers": 31240,
+      "following": 423,
+      "bio": "Breaking beast from the Pacific Northwest! Pushing the limits of what's possible! 🕺💪",
+      "posts": [
+        {
+          "id": "post_008",
+          "timestamp": "2024-01-08T17:30:00Z",
+          "content": "Breaking battle practice! Working on some incredible power moves and freezes. The crew is getting stronger every day! 💪✨ #Breaking #BBoy #PowerMoves #Battle",
+          "images": [
+            "assets/user/8/pic_1.jpg",
+            "assets/user/8/pic_2.jpg",
+            "assets/user/8/pic_3.jpg",
+            "assets/user/8/pic_4.jpg"
+          ],
+          "likes": 892,
+          "comments": 78,
+          "tags": ["#Breaking", "#BBoy", "#PowerMoves", "#Battle"]
+        }
+      ]
+    },
+    {
+      "id": "user_009",
+      "username": "popping_prodigy_maria",
+      "displayName": "Maria Garcia",
+      "avatar": "assets/user/9/user.jpg",
+      "age": 21,
+      "location": "Austin, TX",
+      "danceStyle": ["Popping", "Animation", "Locking"],
+      "experience": "3 years",
+      "followers": 7650,
+      "following": 1456,
+      "bio": "Popping prodigy with a passion for animation! Every move tells a story! 🤖✨",
+      "posts": [
+        {
+          "id": "post_009",
+          "timestamp": "2024-01-07T22:45:00Z",
+          "content": "Late night popping practice! Working on my robot and wave techniques. The music is my guide! 🤖✨ #Popping #Animation #Robot #Wave",
+          "images": [
+            "assets/user/9/pic_1.jpg",
+            "assets/user/9/pic_2.jpg",
+            "assets/user/9/pic_3.jpg",
+            "assets/user/9/pic_4.jpg"
+          ],
+          "likes": 345,
+          "comments": 41,
+          "tags": ["#Popping", "#Animation", "#Robot", "#Wave"]
+        }
+      ]
+    },
+    {
+      "id": "user_010",
+      "username": "krump_warrior_tyler",
+      "displayName": "Tyler Brown",
+      "avatar": "assets/user/10/user.jpg",
+      "age": 29,
+      "location": "Detroit, MI",
+      "danceStyle": ["Krumping", "Clowning", "Hip-Hop"],
+      "experience": "11 years",
+      "followers": 15670,
+      "following": 567,
+      "bio": "Krump warrior from the Motor City! Spreading positive energy through movement! 👑💪",
+      "posts": [
+        {
+          "id": "post_010",
+          "timestamp": "2024-01-06T19:20:00Z",
+          "content": "Krump session with the family! The energy was unmatched today. This is what it's all about - pure expression and family! 👑💪 #Krumping #Clowning #Family #Expression",
+          "images": [
+            "assets/user/10/pic_1.jpg",
+            "assets/user/10/pic_2.jpg",
+            "assets/user/10/pic_3.jpg",
+            "assets/user/10/pic_4.jpg"
+          ],
+          "likes": 567,
+          "comments": 48,
+          "tags": ["#Krumping", "#Clowning", "#Family", "#Expression"]
+        }
+      ]
+    },
+    {
+      "id": "user_011",
+      "username": "locking_lady_jessica",
+      "displayName": "Jessica Lee",
+      "avatar": "assets/user/11/user.jpg",
+      "age": 26,
+      "location": "Portland, OR",
+      "danceStyle": ["Locking", "Popping", "Hip-Hop"],
+      "experience": "8 years",
+      "followers": 13450,
+      "following": 789,
+      "bio": "Locking lady with a passion for fun! Spreading joy through dance! 🔒😄",
+      "posts": [
+        {
+          "id": "post_011",
+          "timestamp": "2024-01-05T16:10:00Z",
+          "content": "Locking practice in the park! Working on my points and locks. Locking is all about personality and fun! 🔒😄 #Locking #Personality #Fun #StreetDance",
+          "images": [
+            "assets/user/11/pic_1.jpg",
+            "assets/user/11/pic_2.jpg",
+            "assets/user/11/pic_3.jpg",
+            "assets/user/11/pic_4.jpg"
+          ],
+          "likes": 423,
+          "comments": 35,
+          "tags": ["#Locking", "#Personality", "#Fun", "#StreetDance"]
+        }
+      ]
+    },
+    {
+      "id": "user_012",
+      "username": "house_master_kevin",
+      "displayName": "Kevin Chen",
+      "avatar": "assets/user/12/user.jpg",
+      "age": 31,
+      "location": "Boston, MA",
+      "danceStyle": ["House", "Vogue", "Waacking"],
+      "experience": "13 years",
+      "followers": 28930,
+      "following": 234,
+      "bio": "House master from Beantown! Teaching the next generation of house dancers! 🏠💃",
+      "posts": [
+        {
+          "id": "post_012",
+          "timestamp": "2024-01-04T18:45:00Z",
+          "content": "House dance workshop! Teaching footwork and musicality to the community. House music is the foundation! 🏠💃 #HouseDance #Footwork #Musicality #Community",
+          "images": [
+            "assets/user/12/pic_1.jpg",
+            "assets/user/12/pic_2.jpg",
+            "assets/user/12/pic_3.jpg",
+            "assets/user/12/pic_4.jpg"
+          ],
+          "likes": 756,
+          "comments": 67,
+          "tags": ["#HouseDance", "#Footwork", "#Musicality", "#Community"]
+        }
+      ]
+    },
+    {
+      "id": "user_013",
+      "username": "breaking_queen_ashley",
+      "displayName": "Ashley Thompson",
+      "avatar": "assets/user/13/user.jpg",
+      "age": 25,
+      "location": "Denver, CO",
+      "danceStyle": ["Breaking", "Popping", "Hip-Hop"],
+      "experience": "6 years",
+      "followers": 9870,
+      "following": 1234,
+      "bio": "Breaking queen from the Mile High City! Proving that girls can break too! 👑💪",
+      "posts": [
+        {
+          "id": "post_013",
+          "timestamp": "2024-01-03T15:30:00Z",
+          "content": "Breaking practice in the mountains! Working on my power moves and freezes. Girls can break too! 👑💪 #Breaking #Bgirl #PowerMoves #Mountains",
+          "images": [
+            "assets/user/13/pic_1.jpg",
+            "assets/user/13/pic_2.jpg"
+          ],
+          "likes": 234,
+          "comments": 28,
+          "tags": ["#Breaking", "#Bgirl", "#PowerMoves", "#Mountains"]
+        }
+      ]
+    },
+    {
+      "id": "user_014",
+      "username": "popping_king_ryan",
+      "displayName": "Ryan Davis",
+      "avatar": "assets/user/14/user.jpg",
+      "age": 28,
+      "location": "Nashville, TN",
+      "danceStyle": ["Popping", "Animation", "Locking"],
+      "experience": "10 years",
+      "followers": 18760,
+      "following": 456,
+      "bio": "Popping king from Music City! Combining dance with the rhythm of life! 🤖🎵",
+      "posts": [
+        {
+          "id": "post_014",
+          "timestamp": "2024-01-02T21:15:00Z",
+          "content": "Popping session in the studio! Working on my robot and animation techniques. Music is my inspiration! 🤖🎵 #Popping #Animation #Robot #Music",
+          "images": [
+            "assets/user/14/pic_1.jpg",
+            "assets/user/14/pic_2.jpg"
+          ],
+          "likes": 456,
+          "comments": 39,
+          "tags": ["#Popping", "#Animation", "#Robot", "#Music"]
+        }
+      ]
+    },
+    {
+      "id": "user_015",
+      "username": "krump_legend_marcus",
+      "displayName": "Marcus Johnson",
+      "avatar": "assets/user/15/user.jpg",
+      "age": 32,
+      "location": "Houston, TX",
+      "danceStyle": ["Krumping", "Clowning", "Hip-Hop"],
+      "experience": "14 years",
+      "followers": 32450,
+      "following": 234,
+      "bio": "Krump legend from H-Town! Spreading positive energy through movement! 👑✨",
+      "posts": [
+        {
+          "id": "post_015",
+          "timestamp": "2024-01-01T20:00:00Z",
+          "content": "Krump session with the crew! The energy was electric tonight. This is what it's all about - family and expression! 👑✨ #Krumping #Family #Expression #Legend",
+          "images": [
+            "assets/user/15/pic_1.jpg",
+            "assets/user/15/pic_2.jpg"
+          ],
+          "likes": 892,
+          "comments": 76,
+          "tags": ["#Krumping", "#Family", "#Expression", "#Legend"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "totalUsers": 15,
+    "generatedAt": "2024-01-15T10:00:00Z",
+    "description": "Street dance community users with their posts and social media content"
+  }
+} 

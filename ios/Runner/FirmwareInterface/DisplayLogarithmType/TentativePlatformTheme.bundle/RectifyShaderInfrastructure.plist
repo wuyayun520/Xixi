@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateSpriteDepth</key>
+	<string>mobxContextDelay</string>
+	<key>intermediateResourcePressure</key>
+	<string>effectContextAcceleration</string>
+	<key>riverpodBeyondLayer</key>
+	<string>pinchableBufferPressure</string>
+	<key>vectorViaKind</key>
+	<string>toolLayerFlags</string>
+</dict>
+</plist>

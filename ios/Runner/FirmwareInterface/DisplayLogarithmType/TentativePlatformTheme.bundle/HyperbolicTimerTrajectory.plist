@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchInsideStrategy</key>
+	<string>localizationNearType</string>
+	<key>decorationMementoBorder</key>
+	<string>swiftInsideValue</string>
+	<key>ephemeralTopicScale</key>
+	<string>gestureAtTask</string>
+	<key>invisibleStoreTransparency</key>
+	<string>progressbarAsValue</string>
+	<key>loopInterpreterMode</key>
+	<string>queueShapeTransparency</string>
+	<key>parallelUtilAppearance</key>
+	<string>unsortedUsageTint</string>
+	<key>standaloneTouchPadding</key>
+	<string>beginnerGesturedetectorOrigin</string>
+	<key>vectorPerNumber</key>
+	<string>resizableSlashForce</string>
+</dict>
+</plist>

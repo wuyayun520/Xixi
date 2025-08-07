@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionQueueValidation</key>
+	<string>progressbarIncludeState</string>
+	<key>activatedResourceSaturation</key>
+	<string>segmentLevelDistance</string>
+	<key>asynchronousMobxTop</key>
+	<string>riverpodDecoratorDistance</string>
+	<key>dependencyByCommand</key>
+	<string>composableTickerVisibility</string>
+	<key>discardedProviderHue</key>
+	<string>exceptionInsideCycle</string>
+	<key>drawerByMediator</key>
+	<string>widgetWithNumber</string>
+	<key>extensionAsState</key>
+	<string>intensityScopeInset</string>
+	<key>numericalChapterVisibility</key>
+	<string>staticRouterShape</string>
+</dict>
+</plist>

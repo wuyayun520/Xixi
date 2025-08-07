@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationByKind</key>
+	<string>mediaqueryPatternDirection</string>
+	<key>functionalButtonOffset</key>
+	<string>anchorWithoutMode</string>
+	<key>greatCupertinoOrientation</key>
+	<string>reductionAgainstBridge</string>
+	<key>menuUntilSingleton</key>
+	<string>primaryConfigurationFormat</string>
+	<key>roleLikeShape</key>
+	<string>lazyRectDistance</string>
+	<key>sceneFormStyle</key>
+	<string>statefulWidgetPressure</string>
+	<key>scrollablePositionedStatus</key>
+	<string>cubitCycleSkewy</string>
+	<key>viewViaCycle</key>
+	<string>advancedLossState</string>
+</dict>
+</plist>

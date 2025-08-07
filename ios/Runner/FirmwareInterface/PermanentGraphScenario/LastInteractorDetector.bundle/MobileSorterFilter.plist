@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePatternTheme</key>
+	<string>animatedCompletionContrast</string>
+	<key>draggableHeapRotation</key>
+	<string>custompaintLayerTop</string>
+	<key>localAspectSpeed</key>
+	<string>routeShapeMargin</string>
+	<key>serviceSystemDelay</key>
+	<string>persistentLayerOrigin</string>
+	<key>staticChannelRate</key>
+	<string>sceneStyleOrigin</string>
+</dict>
+</plist>

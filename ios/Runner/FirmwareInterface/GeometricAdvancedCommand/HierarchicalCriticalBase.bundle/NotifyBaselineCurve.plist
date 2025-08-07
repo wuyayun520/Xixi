@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAgainstObserver</key>
+	<string>nodeByValue</string>
+	<key>directInkwellPressure</key>
+	<string>builderStyleSaturation</string>
+	<key>kernelDuringJob</key>
+	<string>activeQueueContrast</string>
+	<key>responseBridgeTail</key>
+	<string>typicalGroupSpeed</string>
+	<key>spriteMediatorTheme</key>
+	<string>configurationForPrototype</string>
+</dict>
+</plist>

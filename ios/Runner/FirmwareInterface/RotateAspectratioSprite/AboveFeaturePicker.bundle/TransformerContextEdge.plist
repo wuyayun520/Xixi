@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerSingletonRotation</key>
+	<string>semanticChartAppearance</string>
+	<key>popupOrFramework</key>
+	<string>extensionUntilVar</string>
+	<key>segueProcessState</key>
+	<string>mediumStreamCenter</string>
+	<key>sessionForValue</key>
+	<string>cycleByJob</string>
+</dict>
+</plist>

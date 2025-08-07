@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandInsideVariable</key>
+	<string>denseConstraintIndex</string>
+	<key>diversifiedSemanticsKind</key>
+	<string>referenceInComposite</string>
+	<key>gestureFrameworkSkewx</key>
+	<string>collectionAndShape</string>
+	<key>methodInSingleton</key>
+	<string>resizablePromiseFormat</string>
+	<key>precisionStructureSaturation</key>
+	<string>timerLayerVisibility</string>
+	<key>presenterContainFramework</key>
+	<string>controllerObserverCenter</string>
+	<key>rectNumberFlags</key>
+	<string>activitySinceStage</string>
+	<key>routerTaskInteraction</key>
+	<string>factoryMediatorTag</string>
+	<key>rowSinceOperation</key>
+	<string>compositionalGradientStatus</string>
+	<key>skinSinceTemple</key>
+	<string>compositionalMovementEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableResponseInterval</key>
+	<string>desktopReferenceVisible</string>
+	<key>inactiveIntegerAppearance</key>
+	<string>beginnerPresenterMargin</string>
+	<key>positionParamTag</key>
+	<string>asyncOrTier</string>
+	<key>sophisticatedProgressbarOrigin</key>
+	<string>builderInVariable</string>
+	<key>transitionByChain</key>
+	<string>painterForInterpreter</string>
+</dict>
+</plist>

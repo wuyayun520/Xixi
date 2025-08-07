@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationThroughPlatform</key>
+	<string>draggableRouteTheme</string>
+	<key>euclideanColumnPosition</key>
+	<string>curveUntilMode</string>
+	<key>exceptionMethodTail</key>
+	<string>skirtOfFlyweight</string>
+	<key>hardRolePosition</key>
+	<string>modelOrKind</string>
+	<key>queryStyleInteraction</key>
+	<string>pinchablePageviewBorder</string>
+	<key>retainedToolShade</key>
+	<string>statelessCollectionRotation</string>
+	<key>rowFlyweightHue</key>
+	<string>webApertureMargin</string>
+	<key>swiftOutsideStyle</key>
+	<string>materialViaFacade</string>
+	<key>transitionCommandTransparency</key>
+	<string>activatedReferenceColor</string>
+</dict>
+</plist>

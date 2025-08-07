@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerForMode</key>
+	<string>pageviewFromStage</string>
+	<key>globalIsolateTension</key>
+	<string>challengeCompositePressure</string>
+	<key>intuitiveChapterTop</key>
+	<string>labelPlatformShade</string>
+	<key>navigatorKindBorder</key>
+	<string>brushInSystem</string>
+	<key>serviceForDecorator</key>
+	<string>layoutAmongVariable</string>
+</dict>
+</plist>

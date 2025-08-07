@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOfBuffer</key>
+	<string>statelessFacadeOrientation</string>
+	<key>completionDecoratorOffset</key>
+	<string>otherTickerRight</string>
+	<key>mediumSkirtSaturation</key>
+	<string>requestSystemSpeed</string>
+	<key>queryFromType</key>
+	<string>usageViaState</string>
+	<key>storageLevelStyle</key>
+	<string>managerAlongProxy</string>
+	<key>tweenPhaseDelay</key>
+	<string>apertureAtVar</string>
+</dict>
+</plist>

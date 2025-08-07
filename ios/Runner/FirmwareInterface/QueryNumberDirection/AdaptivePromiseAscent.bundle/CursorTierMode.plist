@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGridviewStyle</key>
+	<string>denseApertureMargin</string>
+	<key>granularMaterialOrientation</key>
+	<string>durationAroundContext</string>
+	<key>graphThanMode</key>
+	<string>routeDuringOperation</string>
+	<key>skinPerValue</key>
+	<string>resultAgainstEnvironment</string>
+</dict>
+</plist>

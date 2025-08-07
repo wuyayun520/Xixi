@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMusicTag</key>
+	<string>mediaqueryActivityBehavior</string>
+	<key>completerOperationColor</key>
+	<string>listviewAlongSingleton</string>
+	<key>explicitAnimationSize</key>
+	<string>binarySystemLeft</string>
+	<key>gemMediatorOpacity</key>
+	<string>localTabbarBrightness</string>
+	<key>gradientPerChain</key>
+	<string>progressbarAwayOperation</string>
+	<key>grainExceptVar</key>
+	<string>modelForActivity</string>
+	<key>isolateOperationTop</key>
+	<string>widgetWorkInset</string>
+	<key>operationTaskLocation</key>
+	<string>optionOperationEdge</string>
+	<key>typicalRequestTransparency</key>
+	<string>intuitiveResponseCenter</string>
+</dict>
+</plist>

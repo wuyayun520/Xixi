@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardInLevel</key>
+	<string>heapAndSingleton</string>
+	<key>localizationStyleVisible</key>
+	<string>sessionAdapterTail</string>
+	<key>positionedWithMode</key>
+	<string>monsterWithoutFlyweight</string>
+	<key>rapidSliderAppearance</key>
+	<string>curveParamInteraction</string>
+	<key>smartPainterColor</key>
+	<string>previewObserverCount</string>
+	<key>uniformCurvePosition</key>
+	<string>callbackTierFormat</string>
+</dict>
+</plist>

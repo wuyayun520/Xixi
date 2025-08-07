@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintViaVar</key>
+	<string>uniformAlphaBottom</string>
+	<key>globalTaskPadding</key>
+	<string>entityVersusPrototype</string>
+	<key>interactiveButtonResponse</key>
+	<string>beginnerSwitchRate</string>
+	<key>mutableAssetCount</key>
+	<string>newestAlertSkewy</string>
+	<key>nativeResourcePadding</key>
+	<string>uniformOffsetDistance</string>
+	<key>popupAsPattern</key>
+	<string>constLabelPadding</string>
+	<key>requiredSwitchOffset</key>
+	<string>threadDecoratorRotation</string>
+	<key>usecaseForScope</key>
+	<string>largeProviderMode</string>
+	<key>zoneAwayLayer</key>
+	<string>cubitAsStage</string>
+</dict>
+</plist>

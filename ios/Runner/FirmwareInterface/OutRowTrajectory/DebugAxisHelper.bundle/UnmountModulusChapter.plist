@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDescriptionLocation</key>
+	<string>descriptionWithoutProcess</string>
+	<key>basicAccessoryTag</key>
+	<string>multiCurveFlags</string>
+	<key>callbackWithBuffer</key>
+	<string>dependencyExceptActivity</string>
+	<key>gridProxyValidation</key>
+	<string>getxMediatorOrientation</string>
+	<key>sharedObserverKind</key>
+	<string>behaviorStrategyOpacity</string>
+	<key>singleSpineVisible</key>
+	<string>specifierMethodAlignment</string>
+	<key>taskValueDelay</key>
+	<string>backwardChartBottom</string>
+</dict>
+</plist>

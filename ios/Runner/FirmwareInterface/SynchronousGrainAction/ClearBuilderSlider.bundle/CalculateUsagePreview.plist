@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTierScale</key>
+	<string>pinchableCupertinoHead</string>
+	<key>basicBaselineName</key>
+	<string>fusedPlaybackStyle</string>
+	<key>constraintShapeDelay</key>
+	<string>petAgainstScope</string>
+	<key>dedicatedSignSkewy</key>
+	<string>disabledTextfieldShape</string>
+	<key>gridKindType</key>
+	<string>transitionActionSkewy</string>
+	<key>requiredContainerCoord</key>
+	<string>observerThroughSingleton</string>
+	<key>topicWithoutFacade</key>
+	<string>drawerBesideInterpreter</string>
+</dict>
+</plist>

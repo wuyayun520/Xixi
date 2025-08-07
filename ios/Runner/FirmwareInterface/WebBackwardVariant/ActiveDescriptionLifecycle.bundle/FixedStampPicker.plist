@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCurveBehavior</key>
+	<string>drawerDespiteComposite</string>
+	<key>navigatorVarSkewy</key>
+	<string>widgetFrameworkDensity</string>
+	<key>permissiveAccessoryDuration</key>
+	<string>promiseParameterDirection</string>
+	<key>routerPrototypeShape</key>
+	<string>pinchableTabbarCount</string>
+</dict>
+</plist>

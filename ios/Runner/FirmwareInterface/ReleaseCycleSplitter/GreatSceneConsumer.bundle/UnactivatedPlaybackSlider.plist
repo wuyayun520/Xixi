@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandForActivity</key>
+	<string>eventBridgeTransparency</string>
+	<key>decorationProxyPressure</key>
+	<string>missedPetAcceleration</string>
+	<key>immediateStreamVelocity</key>
+	<string>persistentErrorSaturation</string>
+	<key>lossOutsideActivity</key>
+	<string>localIsolateMargin</string>
+	<key>popupOutsideShape</key>
+	<string>nodeOperationLocation</string>
+	<key>sequentialCharacterState</key>
+	<string>awaitInsideValue</string>
+	<key>sophisticatedTransitionOffset</key>
+	<string>labelLevelLeft</string>
+</dict>
+</plist>

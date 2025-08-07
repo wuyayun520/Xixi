@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableFrameTension</key>
+	<string>previewAlongWork</string>
+	<key>sampleActivityDistance</key>
+	<string>visibleGemIndex</string>
+	<key>textContextLocation</key>
+	<string>offsetActivityBound</string>
+</dict>
+</plist>

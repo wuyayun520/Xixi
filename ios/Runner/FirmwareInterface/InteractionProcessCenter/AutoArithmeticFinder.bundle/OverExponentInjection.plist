@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAppbarForce</key>
+	<string>subscriptionByProxy</string>
+	<key>enabledConstraintTop</key>
+	<string>explicitIndicatorScale</string>
+	<key>mediaqueryAwayScope</key>
+	<string>themeIncludeFacade</string>
+	<key>monsterTemplePadding</key>
+	<string>usecaseInKind</string>
+	<key>popupAsPattern</key>
+	<string>customizedPetResponse</string>
+</dict>
+</plist>

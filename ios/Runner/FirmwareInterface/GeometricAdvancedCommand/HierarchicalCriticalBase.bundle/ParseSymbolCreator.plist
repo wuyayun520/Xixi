@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveWidgetColor</key>
+	<string>gradientMediatorLeft</string>
+	<key>fixedTickerStyle</key>
+	<string>rectAsEnvironment</string>
+	<key>navigatorStyleFrequency</key>
+	<string>decorationPhaseKind</string>
+	<key>reusableGridviewOrigin</key>
+	<string>checkboxInterpreterAcceleration</string>
+	<key>seamlessBuilderRight</key>
+	<string>subsequentCapsuleValidation</string>
+	<key>spotTierRate</key>
+	<string>textfieldStructureVisibility</string>
+</dict>
+</plist>

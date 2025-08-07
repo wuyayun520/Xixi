@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStampRate</key>
+	<string>projectTaskTheme</string>
+	<key>animatedSegmentBrightness</key>
+	<string>channelsBesideVariable</string>
+	<key>baselineDuringLevel</key>
+	<string>allocatorVarBottom</string>
+	<key>dropdownbuttonIncludeScope</key>
+	<string>columnUntilStrategy</string>
+	<key>textVariableOrigin</key>
+	<string>subscriptionObserverContrast</string>
+	<key>transitionSingletonOffset</key>
+	<string>mapEnvironmentPosition</string>
+</dict>
+</plist>

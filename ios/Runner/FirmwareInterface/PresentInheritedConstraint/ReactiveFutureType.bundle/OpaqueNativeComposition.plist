@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCollectionPosition</key>
+	<string>concurrentUtilInteraction</string>
+	<key>lostMediaResponse</key>
+	<string>priorityEnvironmentColor</string>
+	<key>popupWithoutBuffer</key>
+	<string>protectedPaddingDistance</string>
+	<key>publicAccessoryFrequency</key>
+	<string>disparateCertificateCount</string>
+	<key>queueStrategyTint</key>
+	<string>layerSinceScope</string>
+	<key>viewScopeSkewy</key>
+	<string>interpolationVariablePadding</string>
+</dict>
+</plist>

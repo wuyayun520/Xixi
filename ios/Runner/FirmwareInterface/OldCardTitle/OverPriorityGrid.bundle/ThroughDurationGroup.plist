@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStageFlags</key>
+	<string>chapterThroughTier</string>
+	<key>containerTypeOpacity</key>
+	<string>uniqueRowHue</string>
+	<key>criticalEntityDirection</key>
+	<string>musicEnvironmentColor</string>
+	<key>playbackAdapterCount</key>
+	<string>graphVariableTension</string>
+	<key>sinkFlyweightType</key>
+	<string>fixedViewSpacing</string>
+	<key>sliderIncludeJob</key>
+	<string>lastMetadataBrightness</string>
+</dict>
+</plist>

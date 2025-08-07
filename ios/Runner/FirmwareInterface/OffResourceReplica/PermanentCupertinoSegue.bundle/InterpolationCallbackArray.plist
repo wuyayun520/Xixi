@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOverlayCoord</key>
+	<string>composableStreamOffset</string>
+	<key>configurationInterpreterInterval</key>
+	<string>compositionTierInteraction</string>
+	<key>customMetadataValidation</key>
+	<string>routeForLevel</string>
+	<key>drawerTypePressure</key>
+	<string>bufferTaskOffset</string>
+	<key>interactorFrameworkLeft</key>
+	<string>equalizationInTask</string>
+	<key>protectedConfigurationTheme</key>
+	<string>riverpodOfContext</string>
+	<key>similarObserverRight</key>
+	<string>sampleTypeInteraction</string>
+	<key>textureOfProcess</key>
+	<string>exceptionSinceSystem</string>
+</dict>
+</plist>

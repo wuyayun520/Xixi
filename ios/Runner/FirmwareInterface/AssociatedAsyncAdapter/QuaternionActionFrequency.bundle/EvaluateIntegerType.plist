@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandViaStage</key>
+	<string>spineBesideCycle</string>
+	<key>controllerNumberCenter</key>
+	<string>synchronousButtonOffset</string>
+	<key>draggableChallengeBound</key>
+	<string>specifyChapterTop</string>
+	<key>imperativeStepBrightness</key>
+	<string>requiredHashOffset</string>
+	<key>indicatorParameterFormat</key>
+	<string>singleAllocatorShade</string>
+	<key>opaqueStoreDirection</key>
+	<string>descriptionJobTransparency</string>
+	<key>promiseCompositeSpacing</key>
+	<string>newestButtonBehavior</string>
+	<key>touchFrameworkCoord</key>
+	<string>configurationScopeSpeed</string>
+	<key>transformerMediatorMomentum</key>
+	<string>histogramAtMediator</string>
+</dict>
+</plist>

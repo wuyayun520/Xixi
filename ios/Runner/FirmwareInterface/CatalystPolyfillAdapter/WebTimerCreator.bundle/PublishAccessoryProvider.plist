@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventNumberVelocity</key>
+	<string>asyncTransitionMode</string>
+	<key>labelTaskDensity</key>
+	<string>contractionNumberOffset</string>
+	<key>navigatorBesidePattern</key>
+	<string>groupSinceActivity</string>
+	<key>statelessOperationBehavior</key>
+	<string>streamInsideScope</string>
+	<key>textfieldFacadeSkewx</key>
+	<string>integerBesideType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBufferDensity</key>
+	<string>subscriptionOfContext</string>
+	<key>independentReferenceStatus</key>
+	<string>grainPerVisitor</string>
+	<key>largeNormPadding</key>
+	<string>responsiveRowOrientation</string>
+	<key>richtextAgainstForm</key>
+	<string>shaderLayerCount</string>
+	<key>tweenChainSpeed</key>
+	<string>usecaseCycleAcceleration</string>
+	<key>unactivatedObserverRotation</key>
+	<string>protocolAmongMediator</string>
+</dict>
+</plist>

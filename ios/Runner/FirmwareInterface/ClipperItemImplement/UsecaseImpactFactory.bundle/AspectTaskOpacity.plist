@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStageState</key>
+	<string>symbolActionOffset</string>
+	<key>clipperKindRotation</key>
+	<string>commandAtParameter</string>
+	<key>cursorObserverSpeed</key>
+	<string>directlyCycleSkewx</string>
+	<key>effectParamBorder</key>
+	<string>tabbarAdapterPadding</string>
+	<key>ephemeralMovementStatus</key>
+	<string>featureParamTheme</string>
+	<key>intensityMementoDensity</key>
+	<string>missionAtSystem</string>
+	<key>methodCompositeDelay</key>
+	<string>rowViaObserver</string>
+	<key>petChainResponse</key>
+	<string>seamlessSubpixelFrequency</string>
+	<key>scenePhaseInteraction</key>
+	<string>activeMarginDepth</string>
+	<key>usecaseDespiteAdapter</key>
+	<string>ephemeralLayoutTag</string>
+</dict>
+</plist>

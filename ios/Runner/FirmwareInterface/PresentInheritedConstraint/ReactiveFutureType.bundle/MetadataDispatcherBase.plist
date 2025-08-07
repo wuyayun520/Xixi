@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerTaskIndex</key>
+	<string>textfieldProcessVisible</string>
+	<key>inheritedMissionBorder</key>
+	<string>relationalDimensionSkewx</string>
+	<key>labelMediatorMargin</key>
+	<string>configurationFacadeFormat</string>
+	<key>localizationDecoratorBrightness</key>
+	<string>priorAppbarBrightness</string>
+	<key>managerBesideFramework</key>
+	<string>featureCycleSize</string>
+	<key>masterAmongPlatform</key>
+	<string>accordionUnaryOffset</string>
+</dict>
+</plist>

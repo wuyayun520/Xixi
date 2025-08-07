@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constZoneValidation</key>
+	<string>elasticCommandDelay</string>
+	<key>crucialAwaitInterval</key>
+	<string>commandInTier</string>
+	<key>globalPositionRate</key>
+	<string>rowBufferState</string>
+	<key>gradientOutsideFunction</key>
+	<string>concreteTransitionPressure</string>
+	<key>grayscaleJobAcceleration</key>
+	<string>providerVariableKind</string>
+	<key>queryActionBrightness</key>
+	<string>navigatorAndFramework</string>
+	<key>reducerDuringScope</key>
+	<string>listenerBesideComposite</string>
+	<key>resourceViaBuffer</key>
+	<string>menuAtTier</string>
+</dict>
+</plist>

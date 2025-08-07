@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContainState</key>
+	<string>firstChapterBorder</string>
+	<key>crucialAnimationOrigin</key>
+	<string>ternaryAmongStructure</string>
+	<key>deferredRectStyle</key>
+	<string>frameLayerDistance</string>
+	<key>inheritedInteractorOpacity</key>
+	<string>smallSemanticsFeedback</string>
+	<key>menuKindTop</key>
+	<string>timerInsideBuffer</string>
+	<key>menuProxyTag</key>
+	<string>dedicatedGestureDepth</string>
+	<key>pointFlyweightRate</key>
+	<string>spriteInterpreterDirection</string>
+	<key>scaffoldAgainstEnvironment</key>
+	<string>tweenStyleStyle</string>
+	<key>semanticsAsMediator</key>
+	<string>mediaqueryMementoName</string>
+	<key>singletonSystemSaturation</key>
+	<string>futureShapeRight</string>
+</dict>
+</plist>

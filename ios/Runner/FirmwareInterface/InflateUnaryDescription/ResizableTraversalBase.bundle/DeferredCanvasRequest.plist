@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPatternOffset</key>
+	<string>factoryStateBottom</string>
+	<key>cardAlongFramework</key>
+	<string>screenAndVisitor</string>
+	<key>columnWorkOrientation</key>
+	<string>robustPositionCoord</string>
+	<key>menuDuringLevel</key>
+	<string>graphInActivity</string>
+	<key>permissiveScreenSaturation</key>
+	<string>roleFacadeColor</string>
+	<key>reducerModeSkewy</key>
+	<string>factoryAboutVisitor</string>
+	<key>signatureOutsidePhase</key>
+	<string>radiusForProcess</string>
+	<key>statelessManagerSaturation</key>
+	<string>techniquePlatformLeft</string>
+</dict>
+</plist>

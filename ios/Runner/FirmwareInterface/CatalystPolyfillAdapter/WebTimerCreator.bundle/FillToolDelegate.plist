@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyCanvasSkewy</key>
+	<string>intuitiveRouteShape</string>
+	<key>interactorWithoutAction</key>
+	<string>textFacadeDirection</string>
+	<key>isolateNearType</key>
+	<string>cardDecoratorIndex</string>
+	<key>pinchableMenuState</key>
+	<string>composableMenuLocation</string>
+	<key>tappableCallbackOrientation</key>
+	<string>rowStateInset</string>
+	<key>taskVersusOperation</key>
+	<string>taskInBuffer</string>
+	<key>webCanvasDensity</key>
+	<string>permanentMonsterCount</string>
+</dict>
+</plist>

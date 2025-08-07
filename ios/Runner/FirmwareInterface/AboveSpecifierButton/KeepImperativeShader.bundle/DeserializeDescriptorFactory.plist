@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasThanWork</key>
+	<string>animationLayerShade</string>
+	<key>constraintAdapterInterval</key>
+	<string>oldRadiusState</string>
+	<key>curveJobState</key>
+	<string>animatedcontainerPhaseTheme</string>
+	<key>immutableScaffoldCoord</key>
+	<string>widgetPerFacade</string>
+	<key>projectionLevelRotation</key>
+	<string>semanticsOrProxy</string>
+	<key>sinkVersusStrategy</key>
+	<string>completionOrVar</string>
+</dict>
+</plist>

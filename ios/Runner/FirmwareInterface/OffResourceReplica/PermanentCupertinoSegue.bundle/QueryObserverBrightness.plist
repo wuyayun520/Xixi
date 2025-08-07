@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFeatureRotation</key>
+	<string>statefulPreviewSkewx</string>
+	<key>bitrateBridgeRight</key>
+	<string>interactiveDurationRight</string>
+	<key>ignoredDescriptionColor</key>
+	<string>callbackAboutBuffer</string>
+	<key>movementAlongPhase</key>
+	<string>deferredLocalizationContrast</string>
+	<key>popupWorkRight</key>
+	<string>memberOperationResponse</string>
+</dict>
+</plist>

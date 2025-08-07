@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedColumnRate</key>
+	<string>declarativeCatalystDensity</string>
+	<key>mobilePlatformShape</key>
+	<string>managerOutsideBridge</string>
+	<key>particleShapeShade</key>
+	<string>visibleRemainderTail</string>
+	<key>statefulDescriptorBottom</key>
+	<string>tweenSystemAppearance</string>
+</dict>
+</plist>

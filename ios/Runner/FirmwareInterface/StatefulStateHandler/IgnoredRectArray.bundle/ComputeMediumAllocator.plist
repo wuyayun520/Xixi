@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVariableMode</key>
+	<string>cupertinoChecklistIndex</string>
+	<key>clipperPatternSpacing</key>
+	<string>swiftUntilAdapter</string>
+	<key>interfaceStyleType</key>
+	<string>smartAllocatorLeft</string>
+	<key>largePageviewIndex</key>
+	<string>globalAppbarHue</string>
+	<key>layerTierFormat</key>
+	<string>paddingForValue</string>
+</dict>
+</plist>

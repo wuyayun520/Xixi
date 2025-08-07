@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDescriptionRotation</key>
+	<string>animationStrategyHue</string>
+	<key>chartOutsideShape</key>
+	<string>easyPainterName</string>
+	<key>controllerOrScope</key>
+	<string>providerMediatorCount</string>
+	<key>fragmentOperationSpeed</key>
+	<string>smallBorderBrightness</string>
+	<key>labelBesideFlyweight</key>
+	<string>workflowPrototypeInterval</string>
+	<key>lostExceptionShape</key>
+	<string>invisibleFeatureOpacity</string>
+	<key>semanticsSingletonDelay</key>
+	<string>queryFunctionOpacity</string>
+	<key>symmetricReducerTheme</key>
+	<string>fusedServiceName</string>
+</dict>
+</plist>

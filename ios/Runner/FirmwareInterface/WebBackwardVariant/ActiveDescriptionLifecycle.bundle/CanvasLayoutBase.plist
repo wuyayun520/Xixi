@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicCommandBrightness</key>
+	<string>drawerScopeVisible</string>
+	<key>mapShapeContrast</key>
+	<string>accessibleStoreKind</string>
+	<key>smallButtonTag</key>
+	<string>previewVersusLevel</string>
+	<key>subpixelAwayFlyweight</key>
+	<string>interpolationWorkKind</string>
+	<key>tickerBesideNumber</key>
+	<string>listenerVarBound</string>
+	<key>unsortedAwaitDepth</key>
+	<string>asynchronousStreamSkewx</string>
+	<key>viewSingletonType</key>
+	<string>cupertinoCompleterDirection</string>
+</dict>
+</plist>

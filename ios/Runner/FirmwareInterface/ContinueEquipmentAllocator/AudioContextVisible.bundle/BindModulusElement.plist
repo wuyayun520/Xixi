@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorFlyweightContrast</key>
+	<string>statefulBorderEdge</string>
+	<key>factoryCommandRate</key>
+	<string>diversifiedSubpixelCount</string>
+	<key>ignoredProviderShade</key>
+	<string>characterOrCycle</string>
+	<key>lazyErrorDuration</key>
+	<string>cupertinoStrategyBrightness</string>
+	<key>mobileSliderName</key>
+	<string>storeTierState</string>
+	<key>rowParamTop</key>
+	<string>heapStateInset</string>
+	<key>textBridgeStyle</key>
+	<string>dependencyBesideAction</string>
+</dict>
+</plist>

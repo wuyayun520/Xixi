@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitDecoratorEdge</key>
+	<string>asyncUntilEnvironment</string>
+	<key>histogramLikeParameter</key>
+	<string>progressbarProcessValidation</string>
+	<key>layerPhaseStyle</key>
+	<string>accessibleCacheLeft</string>
+	<key>nibViaBuffer</key>
+	<string>interactiveObserverState</string>
+	<key>rowOrActivity</key>
+	<string>resizableRectInset</string>
+</dict>
+</plist>

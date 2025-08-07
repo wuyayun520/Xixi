@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAroundPlatform</key>
+	<string>sinkWithoutSystem</string>
+	<key>canvasLikeTemple</key>
+	<string>currentBaseRotation</string>
+	<key>directlyInterfaceRotation</key>
+	<string>requestJobSpacing</string>
+	<key>localModalState</key>
+	<string>dependencyOrMode</string>
+	<key>multiBoxTint</key>
+	<string>visibleIntensitySize</string>
+	<key>paddingInParameter</key>
+	<string>referenceContainCommand</string>
+	<key>standaloneTaskStyle</key>
+	<string>unaryWorkOpacity</string>
+	<key>statefulSinkBound</key>
+	<string>appbarFunctionOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveInMemento</key>
+	<string>plateCommandCenter</string>
+	<key>globalRouteRate</key>
+	<string>directIntensityRotation</string>
+	<key>ignoredGramTransparency</key>
+	<string>robustTimerSpeed</string>
+	<key>mutableManagerTail</key>
+	<string>transformerMethodRate</string>
+	<key>storyboardParameterMargin</key>
+	<string>interactorLikeAdapter</string>
+	<key>usedWidgetBound</key>
+	<string>eagerToolName</string>
+</dict>
+</plist>

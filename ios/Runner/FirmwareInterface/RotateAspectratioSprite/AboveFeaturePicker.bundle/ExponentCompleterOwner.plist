@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAlongFramework</key>
+	<string>particleDecoratorAcceleration</string>
+	<key>layerModeAlignment</key>
+	<string>commandAdapterDensity</string>
+	<key>mainLayoutBound</key>
+	<string>largeGridOrigin</string>
+	<key>positionContextBottom</key>
+	<string>pageviewPerAdapter</string>
+	<key>timerByCycle</key>
+	<string>swiftActionType</string>
+	<key>webSwitchBottom</key>
+	<string>responsiveNodeDirection</string>
+</dict>
+</plist>

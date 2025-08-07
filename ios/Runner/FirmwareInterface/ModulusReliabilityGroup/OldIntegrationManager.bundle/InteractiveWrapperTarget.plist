@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUntilType</key>
+	<string>reusableEntityFeedback</string>
+	<key>clipperVersusObserver</key>
+	<string>storeIncludeFlyweight</string>
+	<key>ephemeralClipperInteraction</key>
+	<string>effectAgainstVar</string>
+	<key>fragmentBesideVar</key>
+	<string>logVarRotation</string>
+	<key>layoutShapeAcceleration</key>
+	<string>crudeTransitionMargin</string>
+	<key>semanticAnchorBorder</key>
+	<string>uniqueSubscriptionOrientation</string>
+	<key>usedMusicValidation</key>
+	<string>streamByFunction</string>
+</dict>
+</plist>

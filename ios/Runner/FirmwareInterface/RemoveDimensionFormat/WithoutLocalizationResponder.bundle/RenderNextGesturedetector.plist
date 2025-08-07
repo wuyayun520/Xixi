@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateMethodHead</key>
+	<string>getxDuringMethod</string>
+	<key>modelWithShape</key>
+	<string>directCatalystMode</string>
+	<key>navigationFromProxy</key>
+	<string>eventSinceFacade</string>
+	<key>nibKindCount</key>
+	<string>containerTypeDistance</string>
+</dict>
+</plist>

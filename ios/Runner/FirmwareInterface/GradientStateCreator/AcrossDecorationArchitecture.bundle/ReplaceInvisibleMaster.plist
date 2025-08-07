@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumLoopAppearance</key>
+	<string>agileMediaqueryInset</string>
+	<key>mobxAtMediator</key>
+	<string>sizeShapeBehavior</string>
+	<key>painterCycleAcceleration</key>
+	<string>builderAboutInterpreter</string>
+	<key>publicCoordinatorRate</key>
+	<string>parallelGraphicResponse</string>
+	<key>queueSingletonBehavior</key>
+	<string>compositionalFeatureTag</string>
+	<key>symmetricEffectSkewx</key>
+	<string>priorEffectIndex</string>
+	<key>usecaseAtMemento</key>
+	<string>builderBufferInset</string>
+</dict>
+</plist>

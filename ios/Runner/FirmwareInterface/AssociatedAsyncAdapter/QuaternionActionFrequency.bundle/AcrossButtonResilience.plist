@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTableTheme</key>
+	<string>checkboxWithoutMode</string>
+	<key>cartesianThemeBound</key>
+	<string>entityMediatorAlignment</string>
+	<key>mapOperationBehavior</key>
+	<string>typicalNodeRate</string>
+	<key>nibDespiteStyle</key>
+	<string>assetAgainstForm</string>
+	<key>offsetTempleBorder</key>
+	<string>boxEnvironmentFormat</string>
+	<key>playbackKindTint</key>
+	<string>titleNearType</string>
+	<key>usecaseAtFramework</key>
+	<string>aspectratioStructureIndex</string>
+</dict>
+</plist>

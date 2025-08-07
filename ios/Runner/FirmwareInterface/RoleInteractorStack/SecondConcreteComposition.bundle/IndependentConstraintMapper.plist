@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpriteState</key>
+	<string>interactorCompositeBehavior</string>
+	<key>blocStylePressure</key>
+	<string>blocPlatformMode</string>
+	<key>delegateAlongOperation</key>
+	<string>composableResolverAcceleration</string>
+	<key>diversifiedMediaqueryVisible</key>
+	<string>queueSinceFlyweight</string>
+	<key>overlayContextShade</key>
+	<string>certificateOfMethod</string>
+	<key>resilientTabbarState</key>
+	<string>remainderCommandDirection</string>
+	<key>scrollWithFunction</key>
+	<string>durationContextShape</string>
+</dict>
+</plist>

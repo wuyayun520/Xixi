@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewFlyweightFrequency</key>
+	<string>flexibleProviderBehavior</string>
+	<key>providerDespitePlatform</key>
+	<string>subtleTweenOffset</string>
+	<key>stateOperationVisible</key>
+	<string>capacitiesFacadeState</string>
+	<key>temporaryTabbarInteraction</key>
+	<string>getxVarIndex</string>
+	<key>textureAboutProcess</key>
+	<string>dependencyDespiteFramework</string>
+	<key>widgetObserverRight</key>
+	<string>configurationFunctionOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMetadataScale</key>
+	<string>kernelWithoutVariable</string>
+	<key>descriptionPatternAppearance</key>
+	<string>queryThroughTier</string>
+	<key>extensionCompositeDepth</key>
+	<string>coordinatorWithState</string>
+	<key>isolateInterpreterBehavior</key>
+	<string>canvasVisitorDepth</string>
+	<key>missedFutureFlags</key>
+	<string>previewForBuffer</string>
+	<key>timerBridgeContrast</key>
+	<string>completionVariableDirection</string>
+	<key>variantAtBridge</key>
+	<string>brushStyleState</string>
+	<key>workflowDecoratorState</key>
+	<string>tableDespiteMode</string>
+</dict>
+</plist>

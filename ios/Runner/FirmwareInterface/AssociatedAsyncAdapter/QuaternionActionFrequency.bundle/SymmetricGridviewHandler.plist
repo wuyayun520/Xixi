@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardScaleRotation</key>
+	<string>grainAgainstKind</string>
+	<key>cacheFromWork</key>
+	<string>directProviderVisible</string>
+	<key>canvasInsideProcess</key>
+	<string>featureFormPosition</string>
+	<key>constraintStructureTransparency</key>
+	<string>mediocreScaffoldSpeed</string>
+	<key>imageTaskBorder</key>
+	<string>loopByTask</string>
+	<key>intuitivePopupMargin</key>
+	<string>concurrentCurveBorder</string>
+	<key>mobileBaselineDelay</key>
+	<string>advancedBoxshadowOrientation</string>
+	<key>repositoryInMode</key>
+	<string>rectAndMemento</string>
+	<key>routerFromParameter</key>
+	<string>tickerLevelFlags</string>
+	<key>themeContainPlatform</key>
+	<string>equipmentAdapterKind</string>
+</dict>
+</plist>

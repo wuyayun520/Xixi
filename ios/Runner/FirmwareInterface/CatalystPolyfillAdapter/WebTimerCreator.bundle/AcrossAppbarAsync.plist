@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchInsideParam</key>
+	<string>utilContextBorder</string>
+	<key>consumerUntilInterpreter</key>
+	<string>advancedPlaybackPosition</string>
+	<key>functionalStackState</key>
+	<string>disparateEffectFrequency</string>
+	<key>musicDuringMode</key>
+	<string>activeMaterialState</string>
+	<key>visibleSingletonInteraction</key>
+	<string>resourceVisitorSkewy</string>
+</dict>
+</plist>

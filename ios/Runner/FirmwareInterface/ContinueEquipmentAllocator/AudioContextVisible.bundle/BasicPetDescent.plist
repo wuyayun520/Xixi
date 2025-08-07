@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLabelFormat</key>
+	<string>consumerCompositeKind</string>
+	<key>entityBridgeVisible</key>
+	<string>pivotalResourceValidation</string>
+	<key>gesturedetectorAndContext</key>
+	<string>richtextWithCycle</string>
+	<key>logPatternSkewx</key>
+	<string>accessoryBeyondParam</string>
+	<key>navigatorDuringChain</key>
+	<string>profileForDecorator</string>
+	<key>routeWithLevel</key>
+	<string>routerParameterStyle</string>
+	<key>usedSlashOrientation</key>
+	<string>nextSpotDistance</string>
+</dict>
+</plist>

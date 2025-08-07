@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameFromInterpreter</key>
+	<string>agileClipperCount</string>
+	<key>isolateBesideStage</key>
+	<string>responsiveSizeMargin</string>
+	<key>loopFlyweightStyle</key>
+	<string>presenterThroughVar</string>
+	<key>particleAndState</key>
+	<string>stateAboutVar</string>
+	<key>smartPrecisionAcceleration</key>
+	<string>responseInPattern</string>
+</dict>
+</plist>

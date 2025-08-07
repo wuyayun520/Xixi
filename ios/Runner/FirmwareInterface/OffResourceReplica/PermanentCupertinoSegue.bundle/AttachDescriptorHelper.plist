@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxUntilCommand</key>
+	<string>sustainableRiverpodTail</string>
+	<key>criticalInteractorKind</key>
+	<string>transitionActivityValidation</string>
+	<key>durationTierSpacing</key>
+	<string>tickerFunctionHue</string>
+	<key>groupOutsideJob</key>
+	<string>checklistBeyondScope</string>
+	<key>reactiveManagerVisible</key>
+	<string>widgetScopeSize</string>
+	<key>remainderOfStage</key>
+	<string>currentNotificationFormat</string>
+	<key>resizableCapsuleAlignment</key>
+	<string>storyboardObserverTheme</string>
+	<key>respectiveSceneSize</key>
+	<string>frameSystemAlignment</string>
+</dict>
+</plist>

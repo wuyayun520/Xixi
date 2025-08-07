@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledBuilderShape</key>
+	<string>precisionChainHead</string>
+	<key>globalSamplePadding</key>
+	<string>routeAgainstParameter</string>
+	<key>tabviewFrameworkContrast</key>
+	<string>similarLayoutName</string>
+</dict>
+</plist>

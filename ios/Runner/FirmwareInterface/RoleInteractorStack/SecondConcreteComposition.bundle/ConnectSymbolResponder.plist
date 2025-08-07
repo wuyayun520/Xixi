@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandForPhase</key>
+	<string>retainedPetTransparency</string>
+	<key>deferredStreamVisibility</key>
+	<string>buttonMediatorTop</string>
+	<key>exceptionInterpreterVisibility</key>
+	<string>indicatorAroundEnvironment</string>
+	<key>materialDependencyCount</key>
+	<string>uniformRouteRotation</string>
+	<key>methodForFramework</key>
+	<string>permanentCompletionDensity</string>
+	<key>seamlessProfileResponse</key>
+	<string>assetInsidePhase</string>
+	<key>tappableGrainCoord</key>
+	<string>reducerStageBehavior</string>
+	<key>textAroundAction</key>
+	<string>routeParamSkewy</string>
+</dict>
+</plist>

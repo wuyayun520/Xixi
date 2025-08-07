@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCursorDensity</key>
+	<string>statelessFlyweightScale</string>
+	<key>declarativeMasterFeedback</key>
+	<string>handlerInterpreterFeedback</string>
+	<key>requestOrCycle</key>
+	<string>mobileRepositoryCoord</string>
+	<key>textBeyondScope</key>
+	<string>nodeTierStyle</string>
+</dict>
+</plist>

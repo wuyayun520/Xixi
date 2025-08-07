@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBridgeInset</key>
+	<string>sineObserverEdge</string>
+	<key>asynchronousCacheStyle</key>
+	<string>lostStateShade</string>
+	<key>diffableTransformerPressure</key>
+	<string>cosineCompositeAppearance</string>
+	<key>entityBufferDepth</key>
+	<string>localGradientMargin</string>
+	<key>instructionTierState</key>
+	<string>slashIncludeLevel</string>
+	<key>logarithmAndMode</key>
+	<string>basicDurationOpacity</string>
+	<key>navigatorAtBuffer</key>
+	<string>queueAboutMethod</string>
+	<key>paddingTypeSaturation</key>
+	<string>lastCallbackState</string>
+	<key>resourceViaLevel</key>
+	<string>referenceTaskBottom</string>
+	<key>widgetMediatorIndex</key>
+	<string>curveForChain</string>
+</dict>
+</plist>

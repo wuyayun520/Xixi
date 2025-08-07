@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintLevelSpeed</key>
+	<string>subtlePresenterInteraction</string>
+	<key>grainVersusSystem</key>
+	<string>multiCycleTension</string>
+	<key>positionOutsideType</key>
+	<string>featureActivityInterval</string>
+	<key>routeStrategyHead</key>
+	<string>asyncSinceChain</string>
+	<key>singletonAgainstBuffer</key>
+	<string>subtleDurationIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionDuringLayer</key>
+	<string>actionValueInteraction</string>
+	<key>cursorProcessEdge</key>
+	<string>hierarchicalTransitionInteraction</string>
+	<key>groupFormPadding</key>
+	<string>modelBridgeSkewx</string>
+	<key>missedTransitionBorder</key>
+	<string>certificateStateAlignment</string>
+	<key>resizableOffsetAlignment</key>
+	<string>radiusLevelPosition</string>
+	<key>sortedKernelContrast</key>
+	<string>sceneUntilDecorator</string>
+	<key>statefulViaCycle</key>
+	<string>storeAtState</string>
+	<key>stepMediatorCenter</key>
+	<string>effectFacadeInset</string>
+	<key>tickerWithParam</key>
+	<string>webMapStyle</string>
+</dict>
+</plist>

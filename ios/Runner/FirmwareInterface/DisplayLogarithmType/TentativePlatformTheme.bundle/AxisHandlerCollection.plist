@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionObserverState</key>
+	<string>screenParameterOrientation</string>
+	<key>controllerWithoutBuffer</key>
+	<string>logProcessFeedback</string>
+	<key>dependencyPerShape</key>
+	<string>momentumTempleTension</string>
+	<key>featureAsCycle</key>
+	<string>parallelGraphicMargin</string>
+	<key>futureFunctionRate</key>
+	<string>completerUntilPhase</string>
+	<key>independentInjectionAcceleration</key>
+	<string>prismaticNavigatorInset</string>
+	<key>labelNumberVisible</key>
+	<string>captionVariableCenter</string>
+	<key>lossBridgeTag</key>
+	<string>particleContextAcceleration</string>
+	<key>mobileAroundDecorator</key>
+	<string>completerByFacade</string>
+</dict>
+</plist>

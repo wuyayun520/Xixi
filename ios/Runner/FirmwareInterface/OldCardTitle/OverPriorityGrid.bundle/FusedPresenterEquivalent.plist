@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncErrorSize</key>
+	<string>queryStageBehavior</string>
+	<key>callbackActivityInteraction</key>
+	<string>semanticHandlerAcceleration</string>
+	<key>draggableListviewAcceleration</key>
+	<string>sizeWorkFeedback</string>
+	<key>durationTypeMode</key>
+	<string>backwardStatelessSkewy</string>
+	<key>globalBaseIndex</key>
+	<string>finalScrollBrightness</string>
+	<key>keyPopupColor</key>
+	<string>mediocreFutureFlags</string>
+	<key>radioAdapterEdge</key>
+	<string>nextAppbarMomentum</string>
+	<key>rapidSpriteHue</key>
+	<string>smallConfigurationOrientation</string>
+</dict>
+</plist>

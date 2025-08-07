@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAboutProxy</key>
+	<string>cursorNearStrategy</string>
+	<key>coordinatorOrVariable</key>
+	<string>persistentControllerSkewx</string>
+	<key>gesturedetectorInterpreterValidation</key>
+	<string>invisibleRouteName</string>
+	<key>referenceAgainstStrategy</key>
+	<string>providerOfPrototype</string>
+</dict>
+</plist>

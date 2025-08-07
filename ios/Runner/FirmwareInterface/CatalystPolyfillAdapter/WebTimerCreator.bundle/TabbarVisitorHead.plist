@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicShaderBottom</key>
+	<string>binaryPhaseBound</string>
+	<key>configurationWithoutFunction</key>
+	<string>unsortedPositionAlignment</string>
+	<key>discardedSkirtInterval</key>
+	<string>smallTransformerDuration</string>
+	<key>durationCompositeSkewy</key>
+	<string>layerWorkStyle</string>
+	<key>extensionObserverMode</key>
+	<string>commandStateDepth</string>
+	<key>listenerKindSkewx</key>
+	<string>reactiveImageBorder</string>
+	<key>marginLayerIndex</key>
+	<string>buttonCycleVelocity</string>
+	<key>parallelScreenType</key>
+	<string>mediumStateIndex</string>
+</dict>
+</plist>

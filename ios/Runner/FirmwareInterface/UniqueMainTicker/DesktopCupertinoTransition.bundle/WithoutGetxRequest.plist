@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerParamDepth</key>
+	<string>decorationAndInterpreter</string>
+	<key>directlyDecorationContrast</key>
+	<string>cupertinoHashMargin</string>
+	<key>interfaceBeyondLevel</key>
+	<string>resolverBeyondVariable</string>
+	<key>resourceThanFunction</key>
+	<string>alignmentProcessInset</string>
+	<key>transitionSystemDuration</key>
+	<string>utilTypeType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowStyleTag</key>
+	<string>columnChainRate</string>
+	<key>channelContainState</key>
+	<string>sortedQueueVisible</string>
+	<key>effectVariableStatus</key>
+	<string>singletonModeTop</string>
+	<key>heapStyleLocation</key>
+	<string>notifierMediatorInset</string>
+	<key>methodKindVisibility</key>
+	<string>groupStructureDepth</string>
+</dict>
+</plist>

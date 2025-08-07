@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContextFlags</key>
+	<string>entityAsFunction</string>
+	<key>buttonCommandInterval</key>
+	<string>hierarchicalInterpolationSize</string>
+	<key>displayableReferenceCoord</key>
+	<string>sceneContextSkewy</string>
+	<key>inheritedWidgetFormat</key>
+	<string>textBeyondVariable</string>
+	<key>nextVectorBottom</key>
+	<string>enabledClipperSaturation</string>
+	<key>taskVariableScale</key>
+	<string>variantTypeTension</string>
+</dict>
+</plist>

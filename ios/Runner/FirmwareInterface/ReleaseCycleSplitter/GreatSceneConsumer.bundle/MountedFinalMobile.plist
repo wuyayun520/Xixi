@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorDuringForm</key>
+	<string>buttonBesideParam</string>
+	<key>ephemeralDependencyAlignment</key>
+	<string>cursorVisitorTop</string>
+	<key>positionedBeyondCycle</key>
+	<string>priorityStageAcceleration</string>
+	<key>subpixelSinceParam</key>
+	<string>curveMediatorPadding</string>
+	<key>widgetNumberTop</key>
+	<string>taskChainDelay</string>
+</dict>
+</plist>

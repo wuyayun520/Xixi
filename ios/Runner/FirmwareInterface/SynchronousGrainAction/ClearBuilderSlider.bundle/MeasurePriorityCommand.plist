@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConstraintBrightness</key>
+	<string>intuitiveSizeFlags</string>
+	<key>cubeIncludeMode</key>
+	<string>labelPhaseOrientation</string>
+	<key>frameLikeVisitor</key>
+	<string>textfieldEnvironmentSkewx</string>
+	<key>scaleOperationAppearance</key>
+	<string>liteSpineDensity</string>
+	<key>staticCupertinoMargin</key>
+	<string>backwardCapsuleTag</string>
+	<key>webCurveTransparency</key>
+	<string>largeEntityBound</string>
+</dict>
+</plist>

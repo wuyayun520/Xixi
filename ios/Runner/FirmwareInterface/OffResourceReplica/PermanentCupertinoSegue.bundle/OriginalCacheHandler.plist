@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPatternCoord</key>
+	<string>associatedInterfaceAppearance</string>
+	<key>custompaintIncludeState</key>
+	<string>associatedResourceVisibility</string>
+	<key>ephemeralSpotLocation</key>
+	<string>exceptionVersusVar</string>
+	<key>indicatorUntilEnvironment</key>
+	<string>explicitSensorSkewx</string>
+	<key>localizationAdapterInteraction</key>
+	<string>uniqueCanvasInterval</string>
+	<key>masterBufferBehavior</key>
+	<string>seamlessDelegateRate</string>
+	<key>mobxAsBuffer</key>
+	<string>particleAtSystem</string>
+	<key>newestPreviewContrast</key>
+	<string>opaqueActivityRight</string>
+	<key>robustMovementAppearance</key>
+	<string>reducerVariableDelay</string>
+	<key>vectorDecoratorVisibility</key>
+	<string>iterativeCallbackDepth</string>
+</dict>
+</plist>

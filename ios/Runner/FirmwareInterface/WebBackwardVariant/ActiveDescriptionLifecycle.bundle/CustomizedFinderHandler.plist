@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetParameterVelocity</key>
+	<string>invisibleDecorationSpacing</string>
+	<key>effectOutsideFramework</key>
+	<string>alignmentWithoutStage</string>
+	<key>eventViaPhase</key>
+	<string>assetForParameter</string>
+	<key>frameVarFlags</key>
+	<string>substantialStateSpeed</string>
+	<key>imageContextOffset</key>
+	<string>significantSwiftTag</string>
+	<key>logExceptCommand</key>
+	<string>gestureVariableTag</string>
+</dict>
+</plist>

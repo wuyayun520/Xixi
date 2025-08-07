@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistOutsideActivity</key>
+	<string>displayableOffsetSpeed</string>
+	<key>cubeMementoColor</key>
+	<string>commonAnchorSaturation</string>
+	<key>operationScopeDuration</key>
+	<string>priorityScopeKind</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusOutsideCycle</key>
+	<string>metadataModeIndex</string>
+	<key>oldIsolateMargin</key>
+	<string>actionForVar</string>
+	<key>optionUntilLayer</key>
+	<string>mediumTopicKind</string>
+	<key>presenterJobMode</key>
+	<string>singletonInterpreterInteraction</string>
+	<key>rapidErrorScale</key>
+	<string>spotExceptAction</string>
+	<key>routeInsideValue</key>
+	<string>resourceFlyweightMode</string>
+	<key>touchBufferKind</key>
+	<string>textfieldForParam</string>
+</dict>
+</plist>

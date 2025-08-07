@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineVarMode</key>
+	<string>accessibleRouteDistance</string>
+	<key>chartModeForce</key>
+	<string>heroByStage</string>
+	<key>memberFlyweightIndex</key>
+	<string>tabbarTierFrequency</string>
+	<key>sceneDecoratorSpacing</key>
+	<string>granularCharacterSkewy</string>
+	<key>topicLayerShade</key>
+	<string>reactiveSwitchRotation</string>
+	<key>topicPrototypeOffset</key>
+	<string>radioAlongParam</string>
+</dict>
+</plist>

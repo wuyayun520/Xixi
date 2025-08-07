@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLossVisible</key>
+	<string>bufferAwayVar</string>
+	<key>bitrateFacadeStyle</key>
+	<string>sampleBeyondLayer</string>
+	<key>blocActionDensity</key>
+	<string>checkboxTaskResponse</string>
+	<key>desktopQueueCount</key>
+	<string>primarySignResponse</string>
+	<key>subtleRepositoryBrightness</key>
+	<string>methodTaskRight</string>
+</dict>
+</plist>

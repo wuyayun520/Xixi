@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectStructureFlags</key>
+	<string>cubitBesidePlatform</string>
+	<key>hashBufferTop</key>
+	<string>diffableAxisCoord</string>
+	<key>lazyNavigatorBorder</key>
+	<string>listviewAmongCommand</string>
+	<key>oldMobxSpacing</key>
+	<string>flexibleProviderContrast</string>
+	<key>presenterPhaseVisibility</key>
+	<string>tweenVersusStructure</string>
+	<key>uniqueFeatureTransparency</key>
+	<string>tangentStageStatus</string>
+	<key>usedAllocatorTransparency</key>
+	<string>rectInsideStrategy</string>
+	<key>utilFlyweightTint</key>
+	<string>extensionPlatformDensity</string>
+</dict>
+</plist>

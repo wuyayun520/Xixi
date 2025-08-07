@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTaskStatus</key>
+	<string>scrollableChannelsTag</string>
+	<key>constraintSingletonInterval</key>
+	<string>secondSizeSkewx</string>
+	<key>dedicatedAssetShape</key>
+	<string>unactivatedVariantShape</string>
+	<key>observerStateTint</key>
+	<string>ignoredGiftBehavior</string>
+	<key>pointPerLevel</key>
+	<string>injectionContainStage</string>
+	<key>semanticRectOrigin</key>
+	<string>alignmentAmongNumber</string>
+	<key>semanticsAgainstSystem</key>
+	<string>matrixOrMethod</string>
+	<key>storeInMemento</key>
+	<string>immutableRouteSpeed</string>
+</dict>
+</plist>

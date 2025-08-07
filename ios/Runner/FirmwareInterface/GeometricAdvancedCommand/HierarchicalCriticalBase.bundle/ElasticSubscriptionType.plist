@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeConsumerForce</key>
+	<string>hashThroughParam</string>
+	<key>layoutCompositeForce</key>
+	<string>entropyFlyweightForce</string>
+	<key>liteOptimizerIndex</key>
+	<string>nativeSizedboxFlags</string>
+	<key>tickerAdapterContrast</key>
+	<string>statePatternMargin</string>
+	<key>uniformBuilderOrigin</key>
+	<string>singleProviderLeft</string>
+</dict>
+</plist>

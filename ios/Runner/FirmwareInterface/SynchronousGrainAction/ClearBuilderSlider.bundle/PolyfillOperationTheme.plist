@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationTaskHue</key>
+	<string>hashWithVar</string>
+	<key>modulusSinceBridge</key>
+	<string>cursorFormFrequency</string>
+	<key>precisionIncludeBridge</key>
+	<string>blocBridgeDuration</string>
+	<key>profileBesideStage</key>
+	<string>streamOrBridge</string>
+	<key>rapidStoreTint</key>
+	<string>directlyMomentumSpeed</string>
+</dict>
+</plist>

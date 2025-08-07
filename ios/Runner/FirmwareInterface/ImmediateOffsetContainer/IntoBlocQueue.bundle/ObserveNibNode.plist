@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultPresenterLeft</key>
+	<string>richtextExceptTask</string>
+	<key>labelWithoutBridge</key>
+	<string>diffableScaffoldDepth</string>
+	<key>referencePerTask</key>
+	<string>independentPlaybackSkewx</string>
+	<key>routeAwayActivity</key>
+	<string>constraintInsideActivity</string>
+	<key>switchStateRotation</key>
+	<string>geometricTitleTop</string>
+</dict>
+</plist>

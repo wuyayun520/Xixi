@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveValueTransparency</key>
+	<string>delegateInterpreterTail</string>
+	<key>dedicatedTechniqueSaturation</key>
+	<string>reducerDuringSystem</string>
+	<key>factorySinceNumber</key>
+	<string>mobxModeAcceleration</string>
+	<key>immediateGestureState</key>
+	<string>singletonVariableEdge</string>
+	<key>statelessInteractorOrientation</key>
+	<string>histogramSinceTask</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAtCommand</key>
+	<string>statelessTexturePadding</string>
+	<key>bufferSystemBehavior</key>
+	<string>desktopThemeOrientation</string>
+	<key>referenceJobName</key>
+	<string>effectAndLayer</string>
+	<key>semanticWorkflowVisibility</key>
+	<string>serviceBridgeFlags</string>
+	<key>sequentialInkwellFeedback</key>
+	<string>asyncInPhase</string>
+	<key>textProxyAppearance</key>
+	<string>effectFunctionShade</string>
+</dict>
+</plist>

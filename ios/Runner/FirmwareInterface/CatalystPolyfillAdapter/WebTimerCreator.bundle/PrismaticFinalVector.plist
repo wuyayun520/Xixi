@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCoordinatorStyle</key>
+	<string>subsequentQueueOpacity</string>
+	<key>eagerCosineTheme</key>
+	<string>composableStatefulSaturation</string>
+	<key>musicKindRight</key>
+	<string>batchProcessInset</string>
+	<key>operationAboutObserver</key>
+	<string>semanticConstraintFeedback</string>
+	<key>toolFromKind</key>
+	<string>offsetWithBridge</string>
+</dict>
+</plist>

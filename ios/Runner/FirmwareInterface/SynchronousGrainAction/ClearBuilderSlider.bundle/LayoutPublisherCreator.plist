@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAsFramework</key>
+	<string>associatedExtensionCoord</string>
+	<key>globalWorkflowType</key>
+	<string>menuStructureInset</string>
+	<key>mediumPopupSpeed</key>
+	<string>isolateNearStrategy</string>
+</dict>
+</plist>

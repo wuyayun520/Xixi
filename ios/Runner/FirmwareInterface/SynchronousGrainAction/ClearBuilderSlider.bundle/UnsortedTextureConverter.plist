@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveScreenDistance</key>
+	<string>spriteBufferValidation</string>
+	<key>cupertinoResolverRotation</key>
+	<string>adaptiveCoordinatorOrientation</string>
+	<key>graphicAtCycle</key>
+	<string>storeAdapterAppearance</string>
+	<key>permanentProjectionEdge</key>
+	<string>stampOrProxy</string>
+	<key>projectionCommandBrightness</key>
+	<string>activeEqualizationPosition</string>
+	<key>scrollNearObserver</key>
+	<string>allocatorShapeContrast</string>
+	<key>singleResourceLeft</key>
+	<string>axisMediatorVisible</string>
+</dict>
+</plist>

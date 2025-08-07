@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConstraintCount</key>
+	<string>accessibleSizeState</string>
+	<key>navigatorFromType</key>
+	<string>transitionOrParam</string>
+	<key>requestAtPrototype</key>
+	<string>batchParamBehavior</string>
+	<key>resilientPromiseRotation</key>
+	<string>localizationFormVisibility</string>
+</dict>
+</plist>

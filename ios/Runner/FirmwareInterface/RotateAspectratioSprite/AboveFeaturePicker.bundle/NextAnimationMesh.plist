@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAroundOperation</key>
+	<string>tickerFacadeSkewy</string>
+	<key>columnIncludeInterpreter</key>
+	<string>baselineVersusCommand</string>
+	<key>composableDependencyRotation</key>
+	<string>borderBeyondAction</string>
+	<key>effectNumberBottom</key>
+	<string>taskFacadeInset</string>
+	<key>routeTaskTint</key>
+	<string>factoryNumberStatus</string>
+	<key>topicNumberBottom</key>
+	<string>flexMethodDirection</string>
+</dict>
+</plist>

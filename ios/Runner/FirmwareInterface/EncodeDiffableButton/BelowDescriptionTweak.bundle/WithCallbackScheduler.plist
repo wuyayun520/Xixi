@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughValue</key>
+	<string>marginDuringFlyweight</string>
+	<key>certificateFrameworkForce</key>
+	<string>menuContainSingleton</string>
+	<key>decorationPerProxy</key>
+	<string>serviceVarDelay</string>
+	<key>descriptorBufferInset</key>
+	<string>disparateModalStatus</string>
+	<key>eagerGridResponse</key>
+	<string>layerVariableBorder</string>
+	<key>intensityFromLevel</key>
+	<string>managerPrototypeInset</string>
+	<key>listenerInterpreterPosition</key>
+	<string>standaloneDimensionDuration</string>
+	<key>navigatorOrFramework</key>
+	<string>cardParameterEdge</string>
+	<key>tickerForType</key>
+	<string>textureSinceStyle</string>
+</dict>
+</plist>

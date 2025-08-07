@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAroundVariable</key>
+	<string>inheritedUsageDistance</string>
+	<key>denseEffectAlignment</key>
+	<string>containerVersusTier</string>
+	<key>factoryVersusJob</key>
+	<string>reusableRouterCount</string>
+	<key>fixedAlignmentRotation</key>
+	<string>paddingAsFacade</string>
+	<key>hardRectName</key>
+	<string>actionStrategyPosition</string>
+	<key>rowOutsideActivity</key>
+	<string>memberOfFramework</string>
+</dict>
+</plist>

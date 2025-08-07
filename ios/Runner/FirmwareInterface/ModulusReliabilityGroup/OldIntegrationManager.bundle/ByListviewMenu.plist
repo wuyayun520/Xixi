@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseInteractorSaturation</key>
+	<string>seamlessApertureBorder</string>
+	<key>mutableLayerOrientation</key>
+	<string>navigatorActionAcceleration</string>
+	<key>opaqueCompletionFlags</key>
+	<string>decorationCommandState</string>
+	<key>primaryCurveIndex</key>
+	<string>roleBesideStyle</string>
+	<key>robustStreamIndex</key>
+	<string>navigationJobSpeed</string>
+	<key>storeProxyScale</key>
+	<string>pinchableTabbarInset</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityBufferIndex</key>
+	<string>desktopHeapOpacity</string>
+	<key>injectionNearBuffer</key>
+	<string>notificationFlyweightSaturation</string>
+	<key>musicOutsideInterpreter</key>
+	<string>originalCellSpeed</string>
+	<key>offsetStateMode</key>
+	<string>canvasWithoutBuffer</string>
+	<key>previewFromFacade</key>
+	<string>rowAgainstCommand</string>
+	<key>prismaticIndicatorValidation</key>
+	<string>tabbarChainInset</string>
+	<key>smallGrayscaleAlignment</key>
+	<string>priorAlertLeft</string>
+	<key>threadSystemStatus</key>
+	<string>intermediateAsyncState</string>
+	<key>typicalRepositoryVisible</key>
+	<string>configurationTempleRight</string>
+	<key>variantTierBound</key>
+	<string>interfaceWithPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDecoratorInteraction</key>
+	<string>associatedLayoutBound</string>
+	<key>appbarTaskSkewx</key>
+	<string>secondDialogsInteraction</string>
+	<key>compositionFlyweightCenter</key>
+	<string>disparateLogarithmScale</string>
+	<key>crudeEntropyForce</key>
+	<string>activeSceneSize</string>
+	<key>draggableDelegateSize</key>
+	<string>baseStateAlignment</string>
+	<key>errorUntilFunction</key>
+	<string>layoutInterpreterTop</string>
+	<key>keyActionLeft</key>
+	<string>keyAspectMargin</string>
+	<key>navigatorProxyMargin</key>
+	<string>buttonShapeBound</string>
+	<key>stepInterpreterInterval</key>
+	<string>buttonOutsideVariable</string>
+</dict>
+</plist>

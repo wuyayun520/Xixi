@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorContainKind</key>
+	<string>buttonIncludeForm</string>
+	<key>futureIncludeComposite</key>
+	<string>transitionMethodResponse</string>
+	<key>navigatorExceptVar</key>
+	<string>alertThanCycle</string>
+	<key>spotOutsideComposite</key>
+	<string>discardedSpecifierShape</string>
+	<key>stackAdapterDuration</key>
+	<string>screenThroughStage</string>
+</dict>
+</plist>

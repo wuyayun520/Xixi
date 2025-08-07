@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorPatternPadding</key>
+	<string>effectOperationCount</string>
+	<key>graphInsideComposite</key>
+	<string>routerFacadeBrightness</string>
+	<key>monsterStateTheme</key>
+	<string>containerModeDirection</string>
+	<key>mutableToolTheme</key>
+	<string>curveContextSkewx</string>
+	<key>responseContainStrategy</key>
+	<string>parallelRouteCount</string>
+	<key>shaderParameterDelay</key>
+	<string>discardedCustompaintStatus</string>
+	<key>specifyGridSaturation</key>
+	<string>resolverDuringWork</string>
+</dict>
+</plist>

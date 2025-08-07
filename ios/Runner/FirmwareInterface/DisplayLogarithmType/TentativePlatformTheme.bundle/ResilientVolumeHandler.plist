@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMobxSpacing</key>
+	<string>collectionOutsideFacade</string>
+	<key>documentLikeCommand</key>
+	<string>protectedCosineResponse</string>
+	<key>mediaqueryAgainstLayer</key>
+	<string>batchVersusActivity</string>
+	<key>referenceBridgeTransparency</key>
+	<string>metadataContainParameter</string>
+	<key>seamlessSinkTransparency</key>
+	<string>tabbarContainComposite</string>
+	<key>usageNearVisitor</key>
+	<string>mobileStackCoord</string>
+</dict>
+</plist>

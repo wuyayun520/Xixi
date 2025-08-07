@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocScopeInteraction</key>
+	<string>robustIsolateTransparency</string>
+	<key>buttonStateOrigin</key>
+	<string>unaryMediatorSkewx</string>
+	<key>configurationWorkKind</key>
+	<string>discardedRiverpodDistance</string>
+	<key>injectionPerScope</key>
+	<string>baselineUntilSystem</string>
+	<key>movementBufferShape</key>
+	<string>tappableSliderCount</string>
+	<key>mutableLayerSpacing</key>
+	<string>promiseFlyweightFeedback</string>
+	<key>resourceActivityBottom</key>
+	<string>methodTypeName</string>
+	<key>signTierInterval</key>
+	<string>inkwellIncludeContext</string>
+	<key>storageAsPhase</key>
+	<string>delicateCompositionMode</string>
+</dict>
+</plist>

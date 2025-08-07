@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedDecorationTop</key>
+	<string>equalizationInterpreterDelay</string>
+	<key>gemMediatorPosition</key>
+	<string>gramFlyweightDistance</string>
+	<key>sharedMasterVisibility</key>
+	<string>retainedSceneRotation</string>
+	<key>tensorMethodRate</key>
+	<string>optimizerContextMomentum</string>
+</dict>
+</plist>

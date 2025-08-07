@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateType</key>
+	<string>exceptionInsideVar</string>
+	<key>cubitAgainstDecorator</key>
+	<string>featureStyleAppearance</string>
+	<key>equalizationAtStage</key>
+	<string>groupAboutLayer</string>
+	<key>errorAroundDecorator</key>
+	<string>getxDecoratorTransparency</string>
+	<key>hierarchicalDescriptorSize</key>
+	<string>activeTextureType</string>
+	<key>nibValueStatus</key>
+	<string>advancedMatrixDensity</string>
+	<key>otherResourceVisible</key>
+	<string>resilientColumnOpacity</string>
+	<key>providerDespiteShape</key>
+	<string>keyListviewOffset</string>
+	<key>statefulContainCommand</key>
+	<string>uniformStatefulFrequency</string>
+	<key>textBufferDensity</key>
+	<string>positionMementoStyle</string>
+</dict>
+</plist>

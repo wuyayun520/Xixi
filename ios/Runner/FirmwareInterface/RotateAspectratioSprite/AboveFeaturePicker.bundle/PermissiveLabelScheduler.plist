@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileTaskSaturation</key>
+	<string>routeFromStage</string>
+	<key>queueAroundEnvironment</key>
+	<string>cubitInterpreterFeedback</string>
+	<key>resultStageTag</key>
+	<string>topicCycleSaturation</string>
+	<key>robustVectorFlags</key>
+	<string>alignmentPrototypeFeedback</string>
+	<key>transitionAsVar</key>
+	<string>sizeInterpreterBound</string>
+</dict>
+</plist>

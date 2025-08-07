@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAndProcess</key>
+	<string>appbarLikePattern</string>
+	<key>cardThanDecorator</key>
+	<string>mediumRouteAcceleration</string>
+	<key>composableTextTransparency</key>
+	<string>columnActionRate</string>
+	<key>coordinatorTierMomentum</key>
+	<string>modelLevelEdge</string>
+	<key>descriptionOrObserver</key>
+	<string>metadataStrategyForce</string>
+	<key>nextCurveDepth</key>
+	<string>integerInterpreterDistance</string>
+	<key>nodeTempleVisible</key>
+	<string>activityIncludeTemple</string>
+</dict>
+</plist>

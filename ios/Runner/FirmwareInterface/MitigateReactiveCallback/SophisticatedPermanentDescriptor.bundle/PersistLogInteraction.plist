@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAgainstType</key>
+	<string>textBufferStyle</string>
+	<key>parallelGridBrightness</key>
+	<string>desktopCompleterDensity</string>
+	<key>permanentEffectSkewy</key>
+	<string>futureAtAction</string>
+	<key>positionedWithBridge</key>
+	<string>observerActivityLeft</string>
+	<key>smallConsumerAcceleration</key>
+	<string>resourceAmongValue</string>
+	<key>techniquePhaseRate</key>
+	<string>exceptionViaComposite</string>
+</dict>
+</plist>

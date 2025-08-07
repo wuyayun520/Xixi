@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryNearFacade</key>
+	<string>characterNearAdapter</string>
+	<key>checklistLayerPressure</key>
+	<string>explicitPlaybackRate</string>
+	<key>disabledPrecisionLeft</key>
+	<string>lastSubscriptionAlignment</string>
+	<key>nibSinceFlyweight</key>
+	<string>topicPhaseDelay</string>
+	<key>overlayModeTint</key>
+	<string>decorationEnvironmentRight</string>
+	<key>progressbarIncludeSingleton</key>
+	<string>alertBufferAlignment</string>
+</dict>
+</plist>

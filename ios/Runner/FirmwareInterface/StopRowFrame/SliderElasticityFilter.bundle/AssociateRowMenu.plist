@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseProxyStatus</key>
+	<string>tabviewByProxy</string>
+	<key>futureValueKind</key>
+	<string>effectBridgeInterval</string>
+	<key>painterByMethod</key>
+	<string>mobxDecoratorAcceleration</string>
+	<key>radiusTypeBrightness</key>
+	<string>utilDuringForm</string>
+	<key>resolverTypeVelocity</key>
+	<string>eventDuringInterpreter</string>
+</dict>
+</plist>

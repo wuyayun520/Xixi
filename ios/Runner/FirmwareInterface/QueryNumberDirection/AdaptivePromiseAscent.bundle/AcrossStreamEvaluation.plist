@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFunctionShape</key>
+	<string>finalChallengePadding</string>
+	<key>cardOrMediator</key>
+	<string>promiseUntilFlyweight</string>
+	<key>imperativeTimerFlags</key>
+	<string>coordinatorAndFacade</string>
+	<key>normContextStyle</key>
+	<string>sharedSubpixelCenter</string>
+	<key>resourceAndSystem</key>
+	<string>localAlertSaturation</string>
+	<key>screenCommandDensity</key>
+	<string>effectViaMode</string>
+	<key>smallConvolutionInteraction</key>
+	<string>parallelWidgetSpacing</string>
+	<key>storageStyleState</key>
+	<string>eagerDecorationForce</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customHandlerFormat</key>
+	<string>pivotalRepositoryOffset</string>
+	<key>intermediateAnimationDuration</key>
+	<string>sequentialContractionLocation</string>
+	<key>particleDecoratorCenter</key>
+	<string>pinchableMaterialInset</string>
+	<key>popupOrForm</key>
+	<string>directlyPopupResponse</string>
+</dict>
+</plist>

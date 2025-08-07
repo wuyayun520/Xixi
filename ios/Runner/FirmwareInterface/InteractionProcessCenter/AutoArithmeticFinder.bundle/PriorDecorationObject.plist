@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarThanDecorator</key>
+	<string>progressbarBridgeOrientation</string>
+	<key>blocAsParameter</key>
+	<string>sensorPerOperation</string>
+	<key>completionFrameworkBorder</key>
+	<string>blocFrameworkContrast</string>
+	<key>denseTextfieldValidation</key>
+	<string>metadataStageScale</string>
+	<key>queueActionCoord</key>
+	<string>largeChartValidation</string>
+	<key>sceneAroundValue</key>
+	<string>localizationSystemOrigin</string>
+	<key>screenDespiteValue</key>
+	<string>resolverMediatorFrequency</string>
+	<key>singleCallbackSkewy</key>
+	<string>delicateTextureRate</string>
+</dict>
+</plist>

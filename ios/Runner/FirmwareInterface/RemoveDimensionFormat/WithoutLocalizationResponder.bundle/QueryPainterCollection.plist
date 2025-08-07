@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleVersusInterpreter</key>
+	<string>vectorPerPlatform</string>
+	<key>resourceSystemOrientation</key>
+	<string>deferredContractionAppearance</string>
+	<key>statelessMomentumFrequency</key>
+	<string>coordinatorAndProxy</string>
+	<key>vectorFrameworkCoord</key>
+	<string>textureFormAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialBlocRate</key>
+	<string>actionLevelOpacity</string>
+	<key>difficultSwiftBound</key>
+	<string>textPatternValidation</string>
+	<key>futureAtBridge</key>
+	<string>awaitParamDelay</string>
+	<key>graphMediatorMode</key>
+	<string>interfaceTierFlags</string>
+	<key>operationFromPattern</key>
+	<string>custompaintBridgeRate</string>
+	<key>originalObserverDelay</key>
+	<string>asynchronousGramFlags</string>
+</dict>
+</plist>

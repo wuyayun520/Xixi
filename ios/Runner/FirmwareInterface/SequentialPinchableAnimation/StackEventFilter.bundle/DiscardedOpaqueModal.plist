@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledLabelOffset</key>
+	<string>isolateParameterAlignment</string>
+	<key>flexDuringForm</key>
+	<string>scaffoldValueRotation</string>
+	<key>grainBesideLevel</key>
+	<string>concurrentSegueInset</string>
+	<key>queryWorkAppearance</key>
+	<string>largeButtonFrequency</string>
+	<key>radiusByEnvironment</key>
+	<string>descriptionUntilPlatform</string>
+	<key>remainderThanOperation</key>
+	<string>popupStructureType</string>
+	<key>sequentialSpineSaturation</key>
+	<string>entropyExceptSystem</string>
+	<key>topicStagePadding</key>
+	<string>queueStageVisibility</string>
+</dict>
+</plist>

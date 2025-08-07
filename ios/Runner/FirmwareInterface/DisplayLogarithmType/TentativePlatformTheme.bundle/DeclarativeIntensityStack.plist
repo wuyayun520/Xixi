@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMethodBehavior</key>
+	<string>brushNearInterpreter</string>
+	<key>boxshadowTaskTint</key>
+	<string>builderSystemShade</string>
+	<key>easyHashTransparency</key>
+	<string>retainedNotifierPressure</string>
+	<key>marginAlongSingleton</key>
+	<string>activeExtensionDuration</string>
+	<key>mediocreRequestVisibility</key>
+	<string>immediateInteractorDistance</string>
+	<key>nodeCommandDepth</key>
+	<string>segmentAtInterpreter</string>
+	<key>optimizerInsideFlyweight</key>
+	<string>threadFromPrototype</string>
+	<key>secondCoordinatorOrigin</key>
+	<string>respectiveDelegatePadding</string>
+	<key>widgetVisitorBound</key>
+	<string>convolutionOrCycle</string>
+</dict>
+</plist>

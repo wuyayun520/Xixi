@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnOrTier</key>
+	<string>groupBesideAction</string>
+	<key>normCommandPadding</key>
+	<string>utilKindTail</string>
+	<key>pointActivitySkewx</key>
+	<string>skinActivityMomentum</string>
+	<key>reducerModeInset</key>
+	<string>factoryForCommand</string>
+</dict>
+</plist>

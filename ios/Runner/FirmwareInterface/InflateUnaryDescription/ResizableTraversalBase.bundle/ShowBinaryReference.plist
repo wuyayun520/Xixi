@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStoreBottom</key>
+	<string>topicUntilPhase</string>
+	<key>channelByMode</key>
+	<string>plateVersusFlyweight</string>
+	<key>granularDecorationPosition</key>
+	<string>viewShapeCoord</string>
+	<key>lazyResolverKind</key>
+	<string>basicDecorationForce</string>
+	<key>responsiveRequestTail</key>
+	<string>visibleCubitDuration</string>
+	<key>unaryStructureSpacing</key>
+	<string>factoryFunctionTag</string>
+</dict>
+</plist>

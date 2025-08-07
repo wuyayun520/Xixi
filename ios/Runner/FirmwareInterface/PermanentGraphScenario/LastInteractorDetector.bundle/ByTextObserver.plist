@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedUnaryBehavior</key>
+	<string>streamFacadeAlignment</string>
+	<key>eagerCoordinatorTail</key>
+	<string>inactiveMenuVelocity</string>
+	<key>layerTaskSaturation</key>
+	<string>unarySingletonFeedback</string>
+	<key>protocolNumberFormat</key>
+	<string>offsetFacadeVelocity</string>
+	<key>rectSingletonOpacity</key>
+	<string>streamAboutMethod</string>
+	<key>stateAmongJob</key>
+	<string>paddingFunctionDensity</string>
+	<key>textureChainTint</key>
+	<string>agileRowDensity</string>
+</dict>
+</plist>

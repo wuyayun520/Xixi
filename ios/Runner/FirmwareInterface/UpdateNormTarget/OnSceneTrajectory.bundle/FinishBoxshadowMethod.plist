@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorFrameworkPosition</key>
+	<string>blocTaskBottom</string>
+	<key>isolateActionOrientation</key>
+	<string>workflowLayerPadding</string>
+	<key>mediaShapeKind</key>
+	<string>displayableNavigatorPadding</string>
+	<key>missionByLevel</key>
+	<string>bufferPatternFormat</string>
+	<key>otherSignOrigin</key>
+	<string>temporaryInjectionSkewx</string>
+	<key>sampleOperationVelocity</key>
+	<string>promiseEnvironmentHue</string>
+	<key>transformerCycleBehavior</key>
+	<string>storyboardObserverFormat</string>
+	<key>uniqueAxisTheme</key>
+	<string>hyperbolicSizedboxDirection</string>
+</dict>
+</plist>
