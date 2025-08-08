@@ -1,0 +1,13 @@
+"NSUserTrackingUsageDescription" = "Dostęp do informacji o identyfikatorze urządzenia będzie używany do ochrony transakcji na koncie użytkownika i promowania spersonalizowanych usług reklamowych";
+
+"NSPhotoLibraryUsageDescription" = "Uzyskaj dostęp do albumu, aby uzyskać zdjęcia i zaktualizować zdjęcie na okładkę. Jeśli jest to zabronione, nie można zaktualizować zdjęcia w tle";
+
+"NSLocationWhenInUseUsageDescription" = "Uzyskaj dostęp do lokalizacji, aby wyświetlić użytkowników w pobliżu, jeśli nie możesz wyświetlać użytkowników w pobliżu";
+
+"NSCameraUsageDescription" = "Uzyskaj dostęp do aparatu, aby robić zdjęcia i aktualizować zdjęcie w tle. Jeśli jest to zabronione, zdjęcie w tle nie zostanie zaktualizowane";
+
+"NSLocationAlwaysUsageDescription" = "Uzyskaj dostęp do lokalizacji, aby wyświetlić użytkowników w pobliżu, jeśli nie możesz wyświetlać użytkowników w pobliżu";
+
+"NSPhotoLibraryAddUsageDescription" = "Dostęp do biblioteki zdjęć w celu dodawania nowych zdjęć";
+
+"NSMicrophoneUsageDescription" = "Uzyskaj dostęp do mikrofonu, aby nagrywać wiadomości audio, jeśli jest to zabronione, nie można nagrywać i wysyłać dźwięku";
