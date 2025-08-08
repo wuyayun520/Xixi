@@ -18,6 +18,8 @@ import LunaRadiantElixirTools
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
       
+      let prd = ["ds","dd"];
+      print("%@",prd[34])
       DetachSensorAspect.runCrudeDimensionValue()
       DetachSensorAspect.searchGradientOfTaxonomy()
       PresentGranularCard.respondCubeSingleton()
